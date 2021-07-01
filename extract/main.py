@@ -55,9 +55,9 @@ class dataWits:
             vect = key.split(":")[2:4]
             dataValues.append([vect[0], vect[1], value])
         
-        saveData(productsData, '{}/{}/products'.format(country['isoCode'],year))
-        saveData(partnersData, '{}/{}/partners'.format(country['isoCode'],year))
-        saveData(dataValues, '{}/{}/exportValues'.format(country['isoCode'],year))
+        saveData(productsData, '{}/{}/products'.format(country['name'],year))
+        saveData(partnersData, '{}/{}/partners'.format(country['name'],year))
+        saveData(dataValues, '{}/{}/exportValues'.format(country['name'],year))
 
         
         
