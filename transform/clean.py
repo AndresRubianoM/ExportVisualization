@@ -24,7 +24,7 @@ def readMergeClean(country, year):
         print("ERROR! The directory {} doesn't exists".format(route))
 
 
-def selectRelevantData(data):
+def selectRelevantData(data, year=None):
     
     products = ['06-15_Vegetable', '50-63_TextCloth', 
     '01-05_Animal','41-43_HidesSkin',  
@@ -55,11 +55,36 @@ def totalDataPerCountry(country):
 def totalData(countries):
     data = []
     for country in countries:
-        data.append(totalDataPerCountry(country['name']))
+        try:
+            data.append(totalDataPerCountry(country['name']))
+        except ValueError:
+            print('{} no exists.'.format(country))
+            continue
 
     dataFrame = pd.concat(data)
      
     return selectRelevantData(dataFrame)
+
+
+def filterExportations(data, year=None):
+    
+    if year:
+        year = str(year)
+        mask_year = data['year'] == year
+        reducedData= data[mask_year]
+        return reducedData.groupby(['reporter', 'partner', 'year']).sum().reset_index()
+    
+    return data.groupby(['reporter', 'partner', 'year']).sum().reset_index()
+
+
+def saveRequestedData(data):
+    try:
+        data.to_csv("./finalData.csv", index=False)
+        return print("Final Data save succesfully.")
+    except:
+        return print("Error loading the data.")
+
+    
 
 
 
