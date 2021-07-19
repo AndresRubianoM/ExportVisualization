@@ -39,25 +39,37 @@ class dataWits:
     
     def exportValues(self, country, year):
         exportsUrl = self.URL + 'SDMX/V21/datasource/tradestats-trade/reporter/{}/year/{}/partner/all/product/all/indicator/XPRT-TRD-VL?format=JSON'.format(country['isoCode'], year)
-        response = call(exportsUrl, "Export values for {} in the year {}".format(country['name'], year)).content
-        data = json.loads(response)
+        try:
+            response = call(exportsUrl, "Export values for {} in the year {}".format(country['name'], year)).content
+            data = json.loads(response)
 
-        values = data["dataSets"][0]["series"]
-        partners = (data["structure"]["dimensions"]["series"][2]["values"])
-        products = (data["structure"]["dimensions"]["series"][3]["values"])
-        #Format the data into lists
-        productsData = getDataframes(products)
-        partnersData = getDataframes(partners)
-        
-        dataValues = []
-        for key in values:
-            value = values[key]['observations']['0'][0]
-            vect = key.split(":")[2:4]
-            dataValues.append([vect[0], vect[1], value])
-        
-        saveData(productsData, '{}/{}/products'.format(country['name'],year))
-        saveData(partnersData, '{}/{}/partners'.format(country['name'],year))
-        saveData(dataValues, '{}/{}/exportValues'.format(country['name'],year))
+            values = data["dataSets"][0]["series"]
+            partners = (data["structure"]["dimensions"]["series"][2]["values"])
+            products = (data["structure"]["dimensions"]["series"][3]["values"])
+            #Format the data into lists
+            productsData = getDataframes(products)
+            partnersData = getDataframes(partners)
+            
+            dataValues = []
+            for key in values:
+                value = values[key]['observations']['0'][0]
+                vect = key.split(":")[2:4]
+                dataValues.append([vect[0], vect[1], value])
+            
+            saveData(productsData, '{}/{}/products'.format(country['name'],year))
+            saveData(partnersData, '{}/{}/partners'.format(country['name'],year))
+            saveData(dataValues, '{}/{}/exportValues'.format(country['name'],year))
+        except AttributeError as e:
+            print('The country {} in the year {} have to be skipped'.format(country, year))
+    
+    def downloadData(self):
+        countries = self.getCountriesList()
+        for country in countries:
+            years = self.getYearsAvailable(country['isoCode'])
+            for year in years:
+                self.exportValues(country, year)
+
+
 
         
         
