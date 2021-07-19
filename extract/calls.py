@@ -13,5 +13,7 @@ def call(url, message=''):
         return response
 
     except HTTPError as e:
-        print('HTPP Error has ocurred: {}'.format(HTTPError.e))
+        print('HTPP Error has ocurred: {}'.format(e))
         return ''
+    except requests.exceptions.ChunkedEncodingError as e:
+        print('Connection interruption: {}'.format(e))
