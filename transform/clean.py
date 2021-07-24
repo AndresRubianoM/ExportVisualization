@@ -32,14 +32,14 @@ def selectRelevantData(data, year=None):
     '44-49_Wood', '27-27_Fuels', 'UNCTAD-SoP4', '39-40_PlastiRub', '64-67_Footwear',
     '72-83_Metals', '84-85_MachElec', '86-89_Transport']
     
-    regions = ['East Asia and Pacific', 'Europe and Central Asia', 'Middle East and North Africa',
-        'World', 'Latin America and Caribbean', 'Sub-Saharan Africa',
+    regions = ['East Asia & Pacific', 'East Asia and Pacific', 'Europe & Central Asia', 'Europe and Central Asia', 'Middle East and North Africa',
+        'Middle East & North Africa', 'World', 'Latin America & Caribbean', 'Latin America and Caribbean', 'Sub-Saharan Africa',
        'British Indian Ocean Ter', 'Us Msc.Pac.I', 'North America', 'South Asia']
 
     mask_products = data['product_code'].isin(products)
-    mask_regions = ~data['partner'].isin(regions)
-
-    reduceData = data[mask_products & mask_regions]
+    mask_regions_partners = ~data['partner'].isin(regions)
+    mask_regions_reporters = ~data['reporter'].isin(regions)
+    reduceData = data[mask_products & mask_regions_partners & mask_regions_reporters ]
 
     return reduceData
 
@@ -72,9 +72,9 @@ def filterExportations(data, year=None):
         year = str(year)
         mask_year = data['year'] == year
         reducedData= data[mask_year]
-        return reducedData.groupby(['reporter', 'partner', 'year']).sum().reset_index()
-    
-    return data.groupby(['reporter', 'partner', 'year']).sum().reset_index()
+        return reducedData.groupby(['reporter', 'partner', 'year'])['value'].sum().groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
+
+    return data.groupby(['reporter', 'partner', 'year'])['value'].sum().groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
 
 
 def saveRequestedData(data):
