@@ -66,16 +66,44 @@ def totalData(countries):
     return selectRelevantData(dataFrame)
 
 
-def filterExportations(data, year=None):
-    
+def filterYears(data, year=None):
     if year:
         year = str(year)
         mask_year = data['year'] == year
         reducedData= data[mask_year]
-        return reducedData.groupby(['reporter', 'partner', 'year'])['value'].sum().groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
+        return reducedData.groupby(['reporter', 'partner', 'year'])['value'].sum()
 
-    return data.groupby(['reporter', 'partner', 'year'])['value'].sum().groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
+    return data.groupby(['reporter', 'partner', 'year'])['value'].sum()
 
+def filterTop(data, year=None):
+    
+    return filterYears(data,year).groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
+
+def relevantPartners(data, year=None, tresshold=0.9):
+
+    data = filterYears(data, year)
+    df = []
+    countries = data.reset_index()['reporter'].unique()
+    for country in countries:
+        temp = data.loc[country].sort_values(ascending=False)
+        perc = temp/temp.sum()
+        
+        acum = 0 
+        count = 0
+        for row in perc:
+            if acum < tresshold:
+                acum = acum + row
+                count += 1
+            else:
+                break
+        
+        
+        temp = temp.to_frame().reset_index()
+        temp['reporter'] = country
+        df.append(temp[0:count])
+        
+    
+    return pd.concat(df)
 
 def saveRequestedData(data):
     try:
@@ -85,7 +113,6 @@ def saveRequestedData(data):
         return print("Error loading the data.")
 
     
-
 
 
 
