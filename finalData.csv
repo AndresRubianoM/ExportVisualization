@@ -1,786 +1,3098 @@
-reporter,partner,year,value
-Afghanistan,Pakistan,2018,379333.11718
-Afghanistan,India,2018,359468.7470000001
-Afghanistan,China,2018,28409.23433
-Afghanistan,Turkey,2018,22018.831849999995
-Afghanistan,"Iran, Islamic Rep.",2018,20236.33276
-Albania,Italy,2018,1239627.6666093569
-Albania,"Serbia, FR(Serbia/Montenegro)",2018,301488.0721549489
-Albania,Spain,2018,214228.90537946348
-Albania,Greece,2018,112345.14345962914
-Albania,Germany,2018,105025.81605312144
-Andorra,Spain,2018,95805.77788627576
-Andorra,France,2018,27061.69976754894
-Andorra,Norway,2018,7840.603153888378
-Andorra,Austria,2018,4851.407429652967
-Andorra,Netherlands,2018,2435.3259722158123
-Angola,China,2018,24523671.2556615
-Angola,India,2018,3769684.701836229
-Angola,United States,2018,1591146.8666810652
-Angola,Spain,2018,1242213.570743633
-Angola,South Africa,2018,1179884.1544550525
-Antigua and Barbuda,United Arab Emirates,2018,8095.873155970599
-Antigua and Barbuda,United States,2018,4867.142225445499
-Antigua and Barbuda,Netherlands,2018,3090.2361356867
-Antigua and Barbuda,Saint Maarten (Dutch part),2018,1778.773332336
-Antigua and Barbuda,Dominica,2018,1649.7787094789
-Argentina,Brazil,2018,14315598.128890002
-Argentina,United States,2018,4202378.310310001
-Argentina,China,2018,3967991.8727600006
-Argentina,Chile,2018,3311373.396159999
-Argentina,Vietnam,2018,2084388.4152000002
-Armenia,Russian Federation,2018,645405.8186600001
-Armenia,Switzerland,2018,308167.4498499999
-Armenia,Bulgaria,2018,214919.10877000002
-Armenia,Iraq,2018,150681.64239
-Armenia,Germany,2018,135722.77898
-Aruba,Unspecified,2018,36832.373177268295
-Aruba,Colombia,2018,14637.414403138
-Aruba,United States,2018,10203.107193970998
-Aruba,Venezuela,2018,2797.3402498190003
-Aruba,Curaçao,2018,361.93505437600004
-Australia,China,2018,75127263.63316897
-Australia,Japan,2018,26750540.50200175
-Australia,"Korea, Rep.",2018,14002661.036867607
-Australia,India,2018,11130014.522094343
-Australia,United States,2018,10007702.98539874
-Austria,Germany,2018,69379526.65189339
-Austria,United States,2018,16307506.883724902
-Austria,Italy,2018,12824399.211609049
-Austria,Switzerland,2018,10064404.199047247
-Austria,France,2018,9323523.70333976
-Azerbaijan,Italy,2018,5879466.45377
-Azerbaijan,Turkey,2018,1829408.85306
-Azerbaijan,Israel,2018,1310776.36529
-Azerbaijan,Czech Republic,2018,938396.5525
-Azerbaijan,India,2018,819558.97949
-"Bahamas, The",United States,2018,445410.90187
-"Bahamas, The",Ireland,2018,28966.26486
-"Bahamas, The",Panama,2018,28095.7373
-"Bahamas, The",Turks and Caicos Isl.,2018,18845.265030000002
-"Bahamas, The",France,2018,11383.78266
-Bahrain,Unspecified,2018,6898304.99984409
-Bahrain,Saudi Arabia,2018,2108836.453989232
-Bahrain,United Arab Emirates,2018,916417.2793525541
-Bahrain,United States,2018,686654.0466320297
-Bahrain,Oman,2018,664864.5823873272
-Barbados,Unspecified,2018,109151.3565
-Barbados,United States,2018,98844.653
-Barbados,Trinidad and Tobago,2018,34071.152500000004
-Barbados,Jamaica,2018,27461.606999999996
-Barbados,Guyana,2018,26859.893000000004
-Belarus,Russian Federation,2018,15485440.2
-Belarus,Ukraine,2018,4455490.1
-Belarus,United Kingdom,2018,3060705.4000000004
-Belarus,Netherlands,2018,1422684.9
-Belarus,Germany,2018,1399381.9000000001
-Belgium,Germany,2018,90650473.7538768
-Belgium,France,2018,73490275.30366148
-Belgium,Netherlands,2018,63169642.578249395
-Belgium,United Kingdom,2018,40812972.82518206
-Belgium,United States,2018,27622295.745462
-Belize,United States,2018,76491.543095
-Belize,United Kingdom,2018,73084.40828500001
-Belize,Jamaica,2018,14912.414155
-Belize,Ireland,2018,12758.29742
-Belize,Barbados,2018,10280.160269999998
-Benin,Bangladesh,2018,216423.6277585729
-Benin,India,2018,211229.8286993663
-Benin,Vietnam,2018,95325.4277302823
-Benin,Nigeria,2018,76409.04832830142
-Benin,China,2018,74921.0740982597
-Bermuda,United States,2018,15771.35573
-Bermuda,Unspecified,2018,4232.23207
-Bermuda,United Kingdom,2018,1895.87191
-Bermuda,Canada,2018,1890.8143299999997
-Bermuda,Switzerland,2018,938.3794899999999
-Bolivia,Brazil,2018,1722858.3711600003
-Bolivia,Argentina,2018,1468255.6595599998
-Bolivia,India,2018,740370.6900399999
-Bolivia,Japan,2018,673862.91952
-Bolivia,"Korea, Rep.",2018,579334.6126300001
-Bosnia and Herzegovina,Germany,2018,1008209.05056
-Bosnia and Herzegovina,"Serbia, FR(Serbia/Montenegro)",2018,858108.137
-Bosnia and Herzegovina,Croatia,2018,852504.8478000001
-Bosnia and Herzegovina,Italy,2018,846953.21358
-Bosnia and Herzegovina,Slovenia,2018,789368.24389
-Botswana,Belgium,2018,1240182.2209276478
-Botswana,India,2018,1199361.074219432
-Botswana,United Arab Emirates,2018,891810.3035829013
-Botswana,South Africa,2018,633233.8926342374
-Botswana,Singapore,2018,526470.482371932
-Brazil,China,2018,64616214.224
-Brazil,United States,2018,36683962.721999995
-Brazil,Argentina,2018,19475862.50800001
-Brazil,Netherlands,2018,17298332.493
-Brazil,Chile,2018,7840087.807
-Brunei,Japan,2018,2282547.9335890575
-Brunei,Thailand,2018,689811.1722472089
-Brunei,"Korea, Rep.",2018,615436.9387215797
-Brunei,Singapore,2018,612021.4886123842
-Brunei,Australia,2018,578287.5941988617
-Bulgaria,Germany,2018,6220937.517046729
-Bulgaria,Romania,2018,3239054.8974159164
-Bulgaria,Italy,2018,3185399.0043660407
-Bulgaria,Turkey,2018,2718888.969225748
-Bulgaria,Greece,2018,2284015.5982806967
-Burkina Faso,Switzerland,2018,1730816.4758068796
-Burkina Faso,India,2018,504144.30651366105
-Burkina Faso,Singapore,2018,252695.71185515722
-Burkina Faso,Cote d'Ivoire,2018,219554.43041718632
-Burkina Faso,France,2018,140688.41241696384
-Burundi,United Arab Emirates,2018,50216.34882675594
-Burundi,"Congo, Dem. Rep.",2018,19350.21813055731
-Burundi,Pakistan,2018,13144.839547900601
-Burundi,Belgium,2018,12128.334363022637
-Burundi,Switzerland,2018,9471.891996208393
-Cambodia,United States,2018,2930049.51804
-Cambodia,Germany,2018,1098734.4287
-Cambodia,Japan,2018,1073133.3806900003
-Cambodia,United Kingdom,2018,1015787.8528099998
-Cambodia,China,2018,908764.2912100002
-Canada,United States,2018,366714502.3396808
-Canada,China,2018,22598228.578603003
-Canada,United Kingdom,2018,13642993.40397821
-Canada,Japan,2018,10305672.31892403
-Canada,Mexico,2018,8224333.091306214
-Cape Verde,Spain,2018,47732.885220000004
-Cape Verde,Portugal,2018,11056.590839999999
-Cape Verde,Italy,2018,10006.68352
-Cape Verde,United States,2018,1865.4660799999997
-Cape Verde,Curaçao,2018,1165.11842
-Central African Republic,France,2018,33104.513
-Central African Republic,Cameroon,2018,12219.893
-Central African Republic,United Arab Emirates,2018,10606.443000000001
-Central African Republic,China,2018,7380.250999999999
-Central African Republic,Niger,2018,4934.44
-Chile,China,2018,25305150.677652176
-Chile,United States,2018,10635180.284780538
-Chile,Japan,2018,7045864.881083668
-Chile,"Korea, Rep.",2018,4342623.29085
-Chile,Brazil,2018,3516503.47153
-China,United States,2018,632380517.8829999
-China,"Hong Kong, China",2018,503003853.523
-China,Japan,2018,193695633.37699997
-China,"Korea, Rep.",2018,153057086.883
-China,Vietnam,2018,111655333.863
-Colombia,United States,2018,11489956.204310002
-Colombia,China,2018,4058190.44026
-Colombia,Panama,2018,3082508.7628800003
-Colombia,Ecuador,2018,2086190.1632300003
-Colombia,Mexico,2018,1691662.3841199998
-Comoros,France,2018,16740.80882982132
-Comoros,India,2018,15389.4907582527
-Comoros,Germany,2018,4295.30732957113
-Comoros,United Arab Emirates,2018,1425.3562514599998
-Comoros,Netherlands,2018,1241.41522276212
-"Congo, Dem. Rep.",South Africa,2018,10572332.667005042
-"Congo, Dem. Rep.",China,2018,3642896.146525505
-"Congo, Dem. Rep.",United Arab Emirates,2018,1389861.629177253
-"Congo, Dem. Rep.",Tanzania,2018,1321767.3766962814
-"Congo, Dem. Rep.",Zambia,2018,1142888.7097328496
-"Congo, Rep.",China,2018,6994593.673154121
-"Congo, Rep.",Italy,2018,744670.3159422355
-"Congo, Rep.",Gabon,2018,723004.455142312
-"Congo, Rep.",Angola,2018,542561.299972673
-"Congo, Rep.",Singapore,2018,455328.19319265895
-Costa Rica,United States,2018,4394630.936690001
-Costa Rica,Netherlands,2018,666342.23965
-Costa Rica,Guatemala,2018,602718.62118
-Costa Rica,Panama,2018,598650.6436199999
-Costa Rica,Belgium,2018,544891.34249
-Cote d'Ivoire,Netherlands,2018,1353756.9549883876
-Cote d'Ivoire,United States,2018,1093178.0143044346
-Cote d'Ivoire,Vietnam,2018,801983.280426961
-Cote d'Ivoire,Germany,2018,754844.8382352963
-Cote d'Ivoire,France,2018,659043.6986782459
-Croatia,Italy,2018,2745311.725
-Croatia,Germany,2018,2695585.8599999994
-Croatia,Slovenia,2018,2191489.4790000003
-Croatia,Bosnia and Herzegovina,2018,1729468.964
-Croatia,Austria,2018,1356449.427
-Cyprus,Cayman Islands,2018,775185.320537155
-Cyprus,Norway,2018,552716.7656486715
-Cyprus,Libya,2018,456558.6117171895
-Cyprus,Greece,2018,408957.2722550407
-Cyprus,Bunkers,2018,366585.4765540045
-Czech Republic,Germany,2018,91739919.851
-Czech Republic,Slovak Republic,2018,19214997.228
-Czech Republic,Poland,2018,15137241.236999998
-Czech Republic,France,2018,14720204.539
-Czech Republic,United Kingdom,2018,13121507.313000001
-Denmark,Germany,2018,19348258.839522474
-Denmark,Special Categories,2018,17059407.208443843
-Denmark,Sweden,2018,12731285.68532779
-Denmark,United Kingdom,2018,8885509.118866574
-Denmark,Norway,2018,7081681.047431099
-Dominican Republic,United States,2018,6101754.385409
-Dominican Republic,Haiti,2018,893545.33195
-Dominican Republic,India,2018,674840.84201
-Dominican Republic,Canada,2018,638582.1101600002
-Dominican Republic,Netherlands,2018,257431.52317999993
-Ecuador,United States,2018,6724944.93013
-Ecuador,Peru,2018,1628866.2104500001
-Ecuador,China,2018,1493507.9753599998
-Ecuador,Chile,2018,1478198.5089000002
-Ecuador,Panama,2018,1245835.7813600001
-"Egypt, Arab Rep.",Italy,2018,2060951.6553009024
-"Egypt, Arab Rep.",Turkey,2018,2057172.9440613685
-"Egypt, Arab Rep.",United Arab Emirates,2018,1983123.1769956383
-"Egypt, Arab Rep.",United States,2018,1729650.457670222
-"Egypt, Arab Rep.",Saudi Arabia,2018,1417552.6080596072
-El Salvador,United States,2018,2838826.83233
-El Salvador,Honduras,2018,905817.5971700002
-El Salvador,Guatemala,2018,847436.5052900001
-El Salvador,Nicaragua,2018,406861.72206000006
-El Salvador,Costa Rica,2018,254613.20017999999
-Estonia,Finland,2018,3096741.0523065384
-Estonia,Sweden,2018,2230167.4475261304
-Estonia,Russian Federation,2018,2086090.5041728485
-Estonia,United States,2018,1856192.981697844
-Estonia,Latvia,2018,1727529.2493403342
-Eswatini,South Africa,2018,1292940.5910000487
-Eswatini,Kenya,2018,93611.57264294964
-Eswatini,Nigeria,2018,78238.43845945937
-Eswatini,Mozambique,2018,64844.98714160934
-Eswatini,Tanzania,2018,34799.52998090915
-Ethiopia(excludes Eritrea),China,2018,142367.49845428314
-Ethiopia(excludes Eritrea),Saudi Arabia,2018,137530.48989412753
-Ethiopia(excludes Eritrea),United Arab Emirates,2018,126398.79916933467
-Ethiopia(excludes Eritrea),United States,2018,121349.99266622895
-Ethiopia(excludes Eritrea),Djibouti,2018,92260.58317534496
-Fiji,United States,2018,207573.4407719145
-Fiji,Australia,2018,151865.7532820911
-Fiji,New Zealand,2018,89924.18217990143
-Fiji,Bunkers,2018,83401.4302513679
-Fiji,Japan,2018,77315.08613399476
-Finland,Germany,2018,12715730.928593624
-Finland,Sweden,2018,8689682.664766354
-Finland,United States,2018,6065624.768357541
-Finland,Netherlands,2018,5513052.143524874
-Finland,China,2018,5228117.749359137
-France,Germany,2018,111089124.66888753
-France,United States,2018,60791324.68092761
-France,Spain,2018,55411531.69613227
-France,Italy,2018,48658429.48052084
-France,United Kingdom,2018,47119760.393709965
-"Gambia, The",Mali,2018,6561.02215019893
-"Gambia, The","Korea, Rep.",2018,1052.33186906527
-"Gambia, The",Cape Verde,2018,849.029966307064
-"Gambia, The",Guinea-Bissau,2018,752.3380053289131
-"Gambia, The",India,2018,687.3119615466001
-Georgia,Azerbaijan,2018,544704.30106
-Georgia,Russian Federation,2018,459167.05877000006
-Georgia,Armenia,2018,308782.44813
-Georgia,Bulgaria,2018,259377.41821
-Georgia,Turkey,2018,236108.91293
-Germany,United States,2018,179653724.60542914
-Germany,China,2018,162163599.43676206
-Germany,France,2018,155865522.8485521
-Germany,United Kingdom,2018,122533459.52471946
-Germany,Netherlands,2018,117164173.25027396
-Ghana,India,2018,3716502.84329625
-Ghana,China,2018,2032399.085206957
-Ghana,South Africa,2018,1742683.9814034563
-Ghana,Switzerland,2018,1631749.8276414103
-Ghana,Netherlands,2018,1229868.2629059746
-Greece,Italy,2018,4504049.147999391
-Greece,Germany,2018,2599397.4702850594
-Greece,Turkey,2018,2527688.3452931056
-Greece,Cyprus,2018,2209833.2537232284
-Greece,Lebanon,2018,1761509.4850940425
-Greenland,Denmark,2018,526303.68356
-Greenland,Unspecified,2018,49602.81822
-Greenland,Latvia,2018,47863.92732
-Greenland,Portugal,2018,6029.85388
-Greenland,Russian Federation,2018,4232.29748
-Guatemala,United States,2018,3914126.0760000004
-Guatemala,El Salvador,2018,1379738.726
-Guatemala,Honduras,2018,972404.316
-Guatemala,Nicaragua,2018,554197.837
-Guatemala,Mexico,2018,517811.5709999999
-Guyana,Canada,2018,512637.7552904571
-Guyana,United Arab Emirates,2018,215513.5999680725
-Guyana,United States,2018,148427.09238170495
-Guyana,Jamaica,2018,46450.27479826398
-Guyana,Ukraine,2018,36715.362130125905
-Honduras,United States,2018,1771668.31082
-Honduras,Unspecified,2018,349915.21319999994
-Honduras,El Salvador,2018,321205.26554999995
-Honduras,Germany,2018,302687.84917999984
-Honduras,Belgium,2018,261584.99353000004
-"Hong Kong, China",China,2018,538434688.8045694
-"Hong Kong, China",United States,2018,63775159.82028744
-"Hong Kong, China",India,2018,27714220.740353003
-"Hong Kong, China",Japan,2018,23203321.365850147
-"Hong Kong, China",Thailand,2018,18306227.774401873
-Hungary,Germany,2018,49698574.433
-Hungary,Slovak Republic,2018,8652419.18
-Hungary,Italy,2018,7773140.319
-Hungary,Romania,2018,7411846.33
-Hungary,France,2018,7355641.891999999
-Iceland,Netherlands,2018,1697030.3197656411
-Iceland,United Kingdom,2018,550596.6989053544
-Iceland,Spain,2018,462142.5589767326
-Iceland,France,2018,358678.8916904763
-Iceland,Norway,2018,356308.67696650216
-India,United States,2018,57640491.08785814
-India,United Arab Emirates,2018,31703012.484268263
-India,China,2018,17759273.572875366
-India,"Hong Kong, China",2018,13452365.626832923
-India,Singapore,2018,11990082.760358501
-Indonesia,China,2018,27493549.05115
-Indonesia,Japan,2018,20754300.766459998
-Indonesia,United States,2018,18507788.84258
-Indonesia,Singapore,2018,15429917.127716001
-Indonesia,India,2018,14092776.00364
-"Iran, Islamic Rep.","Other Asia, nes",2018,41581680.3045
-"Iran, Islamic Rep.",Unspecified,2018,12512296.47366
-"Iran, Islamic Rep.",Iraq,2018,9286124.004
-"Iran, Islamic Rep.",China,2018,9219856.085999997
-"Iran, Islamic Rep.",United Arab Emirates,2018,5996382.761
-Ireland,United States,2018,47785805.77204341
-Ireland,Belgium,2018,22001319.141511507
-Ireland,United Kingdom,2018,20573224.333871055
-Ireland,Germany,2018,14149601.42984722
-Ireland,Netherlands,2018,8083351.137005037
-Israel,United States,2018,19921642.0
-Israel,China,2018,7783134.0
-Israel,United Kingdom,2018,4638408.0
-Israel,"Hong Kong, China",2018,4525429.0
-Israel,Bunkers,2018,2946106.0
-Italy,Germany,2018,85615245.48580086
-Italy,France,2018,68917981.14801653
-Italy,United States,2018,62168021.69825506
-Italy,Spain,2018,36461015.890566625
-Italy,United Kingdom,2018,34119340.38777728
-Jamaica,United States,2018,587786.83572
-Jamaica,Norway,2018,272439.68022000004
-Jamaica,Canada,2018,208013.01683000007
-Jamaica,Netherlands,2018,199446.48127
-Jamaica,Iceland,2018,107095.88202
-Japan,China,2018,199578387.33141774
-Japan,United States,2018,183953918.99270472
-Japan,"Korea, Rep.",2018,63286963.29816282
-Japan,"Other Asia, nes",2018,54530430.81540044
-Japan,Thailand,2018,45313524.42275965
-Jordan,United States,2018,1800943.892282648
-Jordan,Free Zones,2018,1140020.136587277
-Jordan,Saudi Arabia,2018,813606.242688261
-Jordan,Iraq,2018,730969.7394191062
-Jordan,India,2018,687675.926102055
-Kazakhstan,Italy,2018,11739915.369140001
-Kazakhstan,China,2018,6312320.47856
-Kazakhstan,Netherlands,2018,6199471.24768
-Kazakhstan,Russian Federation,2018,5567779.38232
-Kazakhstan,France,2018,3841294.2818400003
-Kenya,Uganda,2018,659933.9783159596
-Kenya,Pakistan,2018,587088.3492970339
-Kenya,United States,2018,466413.1050127046
-Kenya,Netherlands,2018,458994.86445796036
-Kenya,United Kingdom,2018,389431.8166618265
-"Korea, Rep.",China,2018,247534179.421
-"Korea, Rep.",United States,2018,106106464.23700002
-"Korea, Rep.","Hong Kong, China",2018,83790637.90900001
-"Korea, Rep.",Vietnam,2018,75836697.598
-"Korea, Rep.",Japan,2018,37914538.69000001
-Kuwait,Unspecified,2018,65374702.372
-Kuwait,United Arab Emirates,2018,1162363.753
-Kuwait,India,2018,1136470.5579999997
-Kuwait,China,2018,956454.785
-Kuwait,Iraq,2018,792270.0190000001
-Kyrgyz Republic,United Kingdom,2018,670371.4869999997
-Kyrgyz Republic,Russian Federation,2018,375533.182
-Kyrgyz Republic,Kazakhstan,2018,285556.634
-Kyrgyz Republic,Uzbekistan,2018,176652.38299999997
-Kyrgyz Republic,Turkey,2018,127001.05600000003
-Lao PDR,Thailand,2018,3075497.7313099997
-Lao PDR,China,2018,1528588.51072
-Lao PDR,Vietnam,2018,880695.6709299999
-Lao PDR,India,2018,128762.36200000001
-Lao PDR,Japan,2018,87599.894
-Latvia,Lithuania,2018,2891362.9147279556
-Latvia,Estonia,2018,1822643.8765505806
-Latvia,Russian Federation,2018,1673926.8313486238
-Latvia,Germany,2018,1210183.318326504
-Latvia,Sweden,2018,1171019.9582493869
-Lebanon,United Arab Emirates,2018,472818.0647163282
-Lebanon,Syrian Arab Republic,2018,228622.94952104648
-Lebanon,Saudi Arabia,2018,224862.56126804958
-Lebanon,Iraq,2018,178373.28676009233
-Lebanon,South Africa,2018,174156.207954954
-Libya,Italy,2018,10096326.382729998
-Libya,China,2018,4981255.38294
-Libya,Spain,2018,3046536.56173
-Libya,France,2018,2873807.473
-Libya,United Arab Emirates,2018,1031553.2146
-Lithuania,Russian Federation,2018,6182513.74593
-Lithuania,Latvia,2018,3669389.9989300002
-Lithuania,Poland,2018,2914335.751
-Lithuania,Germany,2018,2466722.342
-Lithuania,Estonia,2018,1768096.3410000005
-Luxembourg,Germany,2018,4646919.054902863
-Luxembourg,France,2018,2683938.874986567
-Luxembourg,Belgium,2018,2052295.2084494368
-Luxembourg,Netherlands,2018,1110122.697024023
-Luxembourg,Italy,2018,836931.975562833
-Macao,"Hong Kong, China",2018,757912.9786195826
-Macao,China,2018,161897.3396204244
-Macao,Germany,2018,3850.6308451175996
-Macao,Mexico,2018,3073.5538768512
-Macao,France,2018,2889.8526606552005
-Madagascar,United States,2018,646615.9186640591
-Madagascar,France,2018,620971.2154319758
-Madagascar,Germany,2018,211480.22487582307
-Madagascar,Japan,2018,204686.38998982403
-Madagascar,Netherlands,2018,150791.65873516904
-Malawi,Belgium,2018,133864.77268999995
-Malawi,South Africa,2018,87387.86020000001
-Malawi,Zambia,2018,51158.70699
-Malawi,Kenya,2018,48395.339700000004
-Malawi,United States,2018,48106.43186999999
-Malaysia,Singapore,2018,51491351.76462669
-Malaysia,China,2018,48152472.84948594
-Malaysia,"Hong Kong, China",2018,32976527.95307141
-Malaysia,United States,2018,32802580.611783464
-Malaysia,Japan,2018,21018851.06571489
-Maldives,Thailand,2018,65889.35676455221
-Maldives,Germany,2018,23090.41471696193
-Maldives,United Kingdom,2018,16767.06447185985
-Maldives,United States,2018,15037.745997204218
-Maldives,France,2018,13442.808949719187
-Malta,Bunkers,2018,578974.5756025198
-Malta,France,2018,483462.925306814
-Malta,Germany,2018,441107.80797678453
-Malta,Italy,2018,428011.1971644269
-Malta,Singapore,2018,340627.77437861223
-Mauritania,China,2018,654166.4894000001
-Mauritania,Spain,2018,310003.72149
-Mauritania,Switzerland,2018,193300.47538
-Mauritania,Japan,2018,186859.30961000003
-Mauritania,Russian Federation,2018,137032.29008
-Mauritius,France,2018,263551.32931535767
-Mauritius,United States,2018,233215.7293618196
-Mauritius,United Kingdom,2018,222938.43962616866
-Mauritius,South Africa,2018,219902.76102778697
-Mauritius,Madagascar,2018,129926.88501795701
-Mexico,United States,2018,505375097.111
-Mexico,Canada,2018,18747037.47299999
-Mexico,China,2018,9038670.420999998
-Mexico,Germany,2018,8363211.284000001
-Mexico,Brazil,2018,5696280.631
-Moldova,Romania,2018,793793.394
-Moldova,Italy,2018,310057.138
-Moldova,Russian Federation,2018,229067.48500000002
-Moldova,Germany,2018,145780.97199999998
-Moldova,Turkey,2018,107490.465
-Mongolia,China,2018,6527347.582980999
-Mongolia,United Kingdom,2018,176192.95492000002
-Mongolia,Russian Federation,2018,87547.34277
-Mongolia,Italy,2018,54156.36877
-Mongolia,Singapore,2018,36060.78262
-Montenegro,"Serbia, FR(Serbia/Montenegro)",2018,111195.88394389756
-Montenegro,Hungary,2018,54830.6520235335
-Montenegro,Unspecified,2018,40762.89309648195
-Montenegro,Bosnia and Herzegovina,2018,38772.60398459608
-Montenegro,Slovenia,2018,33518.81737203626
-Morocco,Spain,2018,7402577.285192332
-Morocco,France,2018,6890914.941901432
-Morocco,United States,2018,1475594.7992579998
-Morocco,Italy,2018,1359944.6930896675
-Morocco,India,2018,1102809.4747641974
-Mozambique,India,2018,1435924.51078
-Mozambique,Netherlands,2018,1110434.5468000001
-Mozambique,South Africa,2018,909714.0198
-Mozambique,China,2018,298854.65101000003
-Mozambique,"Hong Kong, China",2018,124153.46410000001
-Myanmar,China,2018,5595057.702285459
-Myanmar,Thailand,2018,3142474.0793308094
-Myanmar,Japan,2018,1416697.6532700001
-Myanmar,Singapore,2018,683958.53257
-Myanmar,India,2018,573609.39878772
-Namibia,South Africa,2018,1279298.9432779036
-Namibia,China,2018,1249478.6516084827
-Namibia,United Kingdom,2018,886360.3178122042
-Namibia,Marshall Islands,2018,713123.9177382268
-Namibia,Botswana,2018,709006.2958326857
-Netherlands,Germany,2018,153755304.43890893
-Netherlands,Belgium,2018,66333843.53593962
-Netherlands,United Kingdom,2018,57430020.04255371
-Netherlands,France,2018,54151737.1817458
-Netherlands,United States,2018,33924505.93542708
-New Zealand,China,2018,9113888.511761274
-New Zealand,Australia,2018,6917038.1616375055
-New Zealand,United States,2018,4238409.793384933
-New Zealand,Japan,2018,2409134.417513677
-New Zealand,"Korea, Rep.",2018,1210057.9656675358
-Nicaragua,United States,2018,3067351.0759199993
-Nicaragua,El Salvador,2018,289243.94044999994
-Nicaragua,Mexico,2018,282944.15834
-Nicaragua,Honduras,2018,222373.73166000005
-Nicaragua,Costa Rica,2018,161750.28667000003
-Niger,Thailand,2018,218876.48017999998
-Niger,France,2018,214275.53236
-Niger,Switzerland,2018,210727.9521
-Niger,Malaysia,2018,207532.94625999997
-Niger,Nigeria,2018,179426.38060999993
-Nigeria,India,2018,9906745.590631908
-Nigeria,Netherlands,2018,7921795.824252339
-Nigeria,Spain,2018,6318833.852655855
-Nigeria,France,2018,4946022.825840923
-Nigeria,South Africa,2018,3982538.049682031
-North Macedonia,Germany,2018,4079517.2325199996
-North Macedonia,"Serbia, FR(Serbia/Montenegro)",2018,555300.84032
-North Macedonia,Belgium,2018,465875.50394
-North Macedonia,Bulgaria,2018,363915.05919000006
-North Macedonia,Romania,2018,259967.26018000004
-Norway,United Kingdom,2018,26633190.544143815
-Norway,Germany,2018,19757701.329519767
-Norway,Netherlands,2018,13215054.241585406
-Norway,France,2018,8669436.248857018
-Norway,Sweden,2018,8437050.225346053
-Occ.Pal.Terr,Israel,2018,885569.7050213969
-Occ.Pal.Terr,Jordan,2018,74633.45754558865
-Occ.Pal.Terr,United Arab Emirates,2018,26513.640407800005
-Occ.Pal.Terr,Saudi Arabia,2018,21081.0805679797
-Occ.Pal.Terr,United States,2018,14218.795153999996
-Oman,Unspecified,2018,27273599.1422549
-Oman,United Arab Emirates,2018,3414197.6225011204
-Oman,Saudi Arabia,2018,2042441.6133193802
-Oman,Qatar,2018,1944059.2294559798
-Oman,India,2018,1081470.9689875
-"Other Asia, nes",China,2018,147116728.33876
-"Other Asia, nes","Hong Kong, China",2018,73182713.73876
-"Other Asia, nes",United States,2018,56651749.97453
-"Other Asia, nes",Japan,2018,33745914.87084
-"Other Asia, nes",Singapore,2018,30550247.65788
-Pakistan,United States,2018,3761706.2399332854
-Pakistan,China,2018,1865735.9749817848
-Pakistan,United Kingdom,2018,1698633.100268705
-Pakistan,Afghanistan,2018,1383717.7387189625
-Pakistan,Germany,2018,1286361.7972262416
-Palau,Japan,2018,6659.88013999999
-Palau,Panama,2018,801.08635
-Palau,Unspecified,2018,768.7010900000001
-Palau,"Micronesia, Fed. Sts.",2018,469.06372
-Palau,United States,2018,230.00808
-Paraguay,Brazil,2018,2805646.18
-Paraguay,Argentina,2018,2176096.777
-Paraguay,Russian Federation,2018,783762.378
-Paraguay,Chile,2018,626596.3679999999
-Paraguay,India,2018,249792.234
-Peru,China,2018,13238053.474960001
-Peru,United States,2018,8214255.367850001
-Peru,India,2018,2483474.78313
-Peru,"Korea, Rep.",2018,2469677.1952000004
-Peru,Japan,2018,2181004.7291599996
-Philippines,"Hong Kong, China",2018,17742420.196999997
-Philippines,United States,2018,15663676.83
-Philippines,China,2018,13830710.893
-Philippines,Japan,2018,13248665.74
-Philippines,Singapore,2018,7702201.152000001
-Poland,Germany,2018,87015837.118
-Poland,Czech Republic,2018,19773138.330000002
-Poland,United Kingdom,2018,18858295.966000002
-Poland,France,2018,17781426.9
-Poland,Italy,2018,14829281.855
-Portugal,Spain,2018,21110832.086354803
-Portugal,France,2018,10880274.732524833
-Portugal,Germany,2018,10562152.876808742
-Portugal,United Kingdom,2018,5635731.571925512
-Portugal,United States,2018,4002466.169466638
-Qatar,Japan,2018,14650915.490645124
-Qatar,"Korea, Rep.",2018,14588505.297021924
-Qatar,India,2018,10084010.656148288
-Qatar,China,2018,9552487.536449732
-Qatar,Singapore,2018,6816078.4936794555
-Romania,Germany,2018,26644358.54239001
-Romania,Italy,2018,10509910.16296
-Romania,France,2018,6914699.75447
-Romania,Hungary,2018,4803031.3848
-Romania,United Kingdom,2018,4269465.77836
-Russian Federation,China,2018,56665512.145089984
-Russian Federation,Netherlands,2018,42027661.10351999
-Russian Federation,Germany,2018,21862239.251479995
-Russian Federation,Belarus,2018,21050343.967
-Russian Federation,"Korea, Rep.",2018,17729405.922909997
-Rwanda,"Congo, Dem. Rep.",2018,337262.64505439793
-Rwanda,Switzerland,2018,88711.36553491416
-Rwanda,"Hong Kong, China",2018,68972.68811880825
-Rwanda,United Arab Emirates,2018,49623.296762827136
-Rwanda,United Kingdom,2018,44140.9923724578
-Samoa,American Samoa,2018,12232.65133013146
-Samoa,New Zealand,2018,8235.8430928935
-Samoa,Tokelau,2018,6200.70743062806
-Samoa,Australia,2018,5068.400369659619
-Samoa,United States,2018,4466.539386915061
-Sao Tome and Principe,Netherlands,2018,4563.15081915
-Sao Tome and Principe,Portugal,2018,3291.0498239999997
-Sao Tome and Principe,Belgium,2018,2136.3970053000003
-Sao Tome and Principe,Germany,2018,1175.2977705000003
-Sao Tome and Principe,France,2018,597.47374485
-Saudi Arabia,Unspecified,2018,231584081.90640688
-Saudi Arabia,United Arab Emirates,2018,10754072.914658938
-Saudi Arabia,China,2018,9820485.92382726
-Saudi Arabia,Singapore,2018,4110335.7791252495
-Saudi Arabia,India,2018,3603195.2834660243
-Senegal,Mali,2018,707398.0860066467
-Senegal,Switzerland,2018,541982.4361481369
-Senegal,India,2018,302769.5967456531
-Senegal,Bunkers,2018,165316.50539089757
-Senegal,Spain,2018,139372.2605370066
-"Serbia, FR(Serbia/Montenegro)",Germany,2018,2911165.413000001
-"Serbia, FR(Serbia/Montenegro)",Italy,2018,2489120.704
-"Serbia, FR(Serbia/Montenegro)",Bosnia and Herzegovina,2018,1645159.1800000002
-"Serbia, FR(Serbia/Montenegro)",Romania,2018,1202127.31
-"Serbia, FR(Serbia/Montenegro)",Russian Federation,2018,1118553.8360000001
-Seychelles,United Arab Emirates,2018,244740.28868
-Seychelles,United Kingdom,2018,161553.11135000002
-Seychelles,France,2018,131257.12503
-Seychelles,Cayman Islands,2018,84117.79543
-Seychelles,Marshall Islands,2018,52603.55752
-Sierra Leone,Somalia,2018,38681.35486
-Sierra Leone,China,2018,37482.712889999995
-Sierra Leone,"Korea, Rep.",2018,28675.519819999998
-Sierra Leone,Netherlands,2018,27998.43004
-Sierra Leone,Ghana,2018,23163.54752
-Singapore,"Hong Kong, China",2018,79677367.55948886
-Singapore,China,2018,69274144.53616625
-Singapore,Malaysia,2018,63702639.83227924
-Singapore,United States,2018,47192936.073212326
-Singapore,Indonesia,2018,42469632.96788271
-Slovak Republic,Germany,2018,27755633.902941853
-Slovak Republic,Czech Republic,2018,13845345.93951833
-Slovak Republic,Poland,2018,9078503.845816627
-Slovak Republic,Italy,2018,7014078.749244356
-Slovak Republic,France,2018,7003380.154544649
-Slovenia,Germany,2018,9780566.64709999
-Slovenia,Italy,2018,4908587.34111
-Slovenia,Austria,2018,3328969.33874
-Slovenia,Croatia,2018,3292483.71234
-Slovenia,France,2018,2411266.95565
-Solomon Islands,China,2018,380523.6917162951
-Solomon Islands,Italy,2018,41102.16610742968
-Solomon Islands,India,2018,28936.95101512967
-Solomon Islands,Switzerland,2018,13867.6906653186
-Solomon Islands,Thailand,2018,11969.962544898184
-South Africa,China,2018,8602652.470495986
-South Africa,Germany,2018,8157229.366987602
-South Africa,United States,2018,6928787.288091117
-South Africa,Unspecified,2018,5922919.611511526
-South Africa,United Kingdom,2018,5603482.872623239
-Spain,France,2018,58382793.99099344
-Spain,Germany,2018,44187425.90503676
-Spain,Italy,2018,29384778.10331195
-Spain,Portugal,2018,28472350.107636824
-Spain,United Kingdom,2018,26270677.019889235
-St. Lucia,United States,2018,47286.088560000004
-St. Lucia,Dominica,2018,12048.880480000002
-St. Lucia,United Kingdom,2018,10756.75124
-St. Lucia,Barbados,2018,9776.852170000002
-St. Lucia,Trinidad and Tobago,2018,7749.997429999999
-St. Vincent and the Grenadines,Dominica,2018,7799.0042565435
-St. Vincent and the Grenadines,Barbados,2018,6730.7160211291
-St. Vincent and the Grenadines,St. Lucia,2018,5662.1584785766
-St. Vincent and the Grenadines,Antigua and Barbuda,2018,5438.7014835152995
-St. Vincent and the Grenadines,St. Kitts and Nevis,2018,4634.0111215398
-Sudan,United Arab Emirates,2018,993933.687
-Sudan,China,2018,735699.947
-Sudan,Saudi Arabia,2018,622871.8910000002
-Sudan,"Egypt, Arab Rep.",2018,586097.846
-Sudan,India,2018,97391.773
-Suriname,Switzerland,2018,389460.3789418406
-Suriname,Unspecified,2018,380503.90063928475
-Suriname,United Arab Emirates,2018,292374.50804967794
-Suriname,"Hong Kong, China",2018,216498.68731021634
-Suriname,Belgium,2018,90699.08903107602
-Sweden,Norway,2018,20950010.21981568
-Sweden,Germany,2018,20675482.867216818
-Sweden,Denmark,2018,13732333.503908228
-Sweden,United States,2018,13694449.64596069
-Sweden,Finland,2018,13402861.84373166
-Switzerland,Germany,2018,54796938.368292436
-Switzerland,United States,2018,42430338.13642867
-Switzerland,China,2018,30961179.99639198
-Switzerland,France,2018,20533908.54370391
-Switzerland,India,2018,18133071.63060935
-Tanzania,Rwanda,2018,605333.4300727742
-Tanzania,Kenya,2018,365799.44836264243
-Tanzania,Zambia,2018,321397.9371079352
-Tanzania,"Congo, Dem. Rep.",2018,320917.65921084164
-Tanzania,Uganda,2018,304206.5303349266
-Thailand,United States,2018,39403319.43593
-Thailand,China,2018,37185836.039629996
-Thailand,Japan,2018,33192212.669049993
-Thailand,"Hong Kong, China",2018,19872820.53344001
-Thailand,Malaysia,2018,16675415.594399996
-Togo,Benin,2018,200958.79208158993
-Togo,Burkina Faso,2018,161507.11932079025
-Togo,Niger,2018,92244.45587882164
-Togo,Cote d'Ivoire,2018,89371.97410182143
-Togo,Mali,2018,74162.66594543922
-Tunisia,France,2018,5605434.156118282
-Tunisia,Italy,2018,2740701.3692557444
-Tunisia,Germany,2018,2250340.8721814114
-Tunisia,Unspecified,2018,914500.7931514108
-Tunisia,Spain,2018,870815.1384717607
-Turkey,Germany,2018,20729493.099
-Turkey,United Kingdom,2018,13451468.093999999
-Turkey,Italy,2018,11527798.195999999
-Turkey,United States,2018,9680850.598
-Turkey,France,2018,9269244.965
-Uganda,Kenya,2018,585886.97474
-Uganda,United Arab Emirates,2018,562979.3184499999
-Uganda,South Sudan,2018,364464.37170999986
-Uganda,Rwanda,2018,222275.12145
-Uganda,"Congo, Dem. Rep.",2018,208833.34463999997
-Ukraine,Russian Federation,2018,4423211.143570002
-Ukraine,Poland,2018,3148174.95536
-Ukraine,Italy,2018,2640489.74894
-Ukraine,China,2018,2418760.59223
-Ukraine,Turkey,2018,2392284.6879499997
-United Arab Emirates,Unspecified,2018,117236742.67847092
-United Arab Emirates,Saudi Arabia,2018,29005692.63770439
-United Arab Emirates,Iraq,2018,16651531.961248022
-United Arab Emirates,"Iran, Islamic Rep.",2018,13778891.689624155
-United Arab Emirates,India,2018,13347308.450219028
-United Kingdom,United States,2018,79820254.08136182
-United Kingdom,Germany,2018,57053061.64995399
-United Kingdom,Netherlands,2018,38283802.24040308
-United Kingdom,France,2018,37730317.888553776
-United Kingdom,Ireland,2018,31942642.04032687
-United States,Canada,2018,385548967.429
-United States,Mexico,2018,353959782.07
-United States,China,2018,143135843.53
-United States,Japan,2018,83109272.021
-United States,United Kingdom,2018,73772207.575
-Uruguay,China,2018,1508554.6680000003
-Uruguay,Brazil,2018,1243604.789
-Uruguay,Free Zones,2018,953511.123
-Uruguay,United States,2018,420750.0289999999
-Uruguay,Argentina,2018,407308.64600000007
-Uzbekistan,Unspecified,2018,2998900.0
-Uzbekistan,China,2018,2124149.6068900004
-Uzbekistan,Russian Federation,2018,1665080.9734999998
-Uzbekistan,Kazakhstan,2018,1233127.3425600003
-Uzbekistan,Turkey,2018,895301.95998
-Vietnam,China,2018,58495161.34426
-Vietnam,United States,2018,54561833.653129995
-Vietnam,"Korea, Rep.",2018,25205074.10095999
-Vietnam,Japan,2018,20841813.12058
-Vietnam,"Hong Kong, China",2018,12114165.23764
-Yemen,"Egypt, Arab Rep.",2018,11081.9487582
-Yemen,Pakistan,2018,2362.35528
-Yemen,Netherlands,2018,586.0510958664
-Yemen,Argentina,2018,448.50465135504
-Yemen,Eritrea,2018,334.156501008
-Zambia,Switzerland,2018,3800130.994
-Zambia,China,2018,1308909.048
-Zambia,"Congo, Dem. Rep.",2018,947571.874
-Zambia,Singapore,2018,699741.5989999999
-Zambia,South Africa,2018,468855.021
-Zimbabwe,South Africa,2018,2082379.57501
-Zimbabwe,United Arab Emirates,2018,732283.0090100002
-Zimbabwe,Unspecified,2018,596719.1582999999
-Zimbabwe,Mozambique,2018,395206.52061999997
-Zimbabwe,Zambia,2018,76993.50597999999
+partner,year,value,reporter
+Pakistan,2018,379333.11718,Afghanistan
+India,2018,359468.7470000001,Afghanistan
+China,2018,28409.23433,Afghanistan
+Turkey,2018,22018.831849999995,Afghanistan
+"Iran, Islamic Rep.",2018,20236.33276,Afghanistan
+Italy,2018,1239627.6666093569,Albania
+"Serbia, FR(Serbia/Montenegro)",2018,301488.0721549489,Albania
+Spain,2018,214228.90537946348,Albania
+Greece,2018,112345.14345962914,Albania
+Germany,2018,105025.81605312144,Albania
+"Macedonia, FYR",2018,73678.2982102268,Albania
+China,2018,52174.793417604844,Albania
+Montenegro,2018,50012.30906863924,Albania
+United States,2018,40324.91026731386,Albania
+Romania,2018,37050.69548728478,Albania
+Slovenia,2018,29917.910395575283,Albania
+Netherlands,2018,27519.916153654704,Albania
+France,2018,26067.724236591657,Albania
+Switzerland,2018,25075.524941210544,Albania
+Spain,2018,95805.77788627576,Andorra
+France,2018,27061.69976754894,Andorra
+Norway,2018,7840.603153888378,Andorra
+Austria,2018,4851.407429652967,Andorra
+Netherlands,2018,2435.3259722158123,Andorra
+China,2018,24523671.2556615,Angola
+India,2018,3769684.701836229,Angola
+United States,2018,1591146.8666810652,Angola
+Spain,2018,1242213.570743633,Angola
+South Africa,2018,1179884.1544550525,Angola
+Portugal,2018,1077449.2008130825,Angola
+United Arab Emirates,2018,912537.0573131129,Angola
+France,2018,887605.8718351754,Angola
+Singapore,2018,681806.9283302464,Angola
+Namibia,2018,650747.4215965723,Angola
+Thailand,2018,649645.7835572268,Angola
+Canada,2018,649462.4709779309,Angola
+"Congo, Rep.",2018,587891.6567313492,Angola
+Indonesia,2018,575597.4121223764,Angola
+United Kingdom,2018,536460.297517176,Angola
+United Arab Emirates,2018,8095.873155970599,Antigua and Barbuda
+United States,2018,4867.142225445499,Antigua and Barbuda
+Netherlands,2018,3090.2361356867,Antigua and Barbuda
+Saint Maarten (Dutch part),2018,1778.773332336,Antigua and Barbuda
+Dominica,2018,1649.7787094789,Antigua and Barbuda
+St. Lucia,2018,1101.1527173647,Antigua and Barbuda
+British Virgin Islands,2018,1006.6399637294,Antigua and Barbuda
+United Kingdom,2018,814.0057859934001,Antigua and Barbuda
+St. Kitts and Nevis,2018,681.9450106469,Antigua and Barbuda
+Unspecified,2018,602.0669571917,Antigua and Barbuda
+France,2018,415.9011989132,Antigua and Barbuda
+Brazil,2018,14315598.128890002,Argentina
+United States,2018,4202378.310310001,Argentina
+China,2018,3967991.8727600006,Argentina
+Chile,2018,3311373.396159999,Argentina
+Vietnam,2018,2084388.4152000002,Argentina
+Algeria,2018,1710980.73414,Argentina
+Netherlands,2018,1676303.6959900002,Argentina
+India,2018,1528743.10276,Argentina
+Spain,2018,1397062.3280199997,Argentina
+Paraguay,2018,1368824.0147,Argentina
+Peru,2018,1333832.0490199998,Argentina
+Switzerland,2018,1280291.59717,Argentina
+Indonesia,2018,1248982.09009,Argentina
+Uruguay,2018,1238174.10044,Argentina
+Canada,2018,1101126.1036399999,Argentina
+Italy,2018,1062786.6944300001,Argentina
+Germany,2018,1024945.3013800001,Argentina
+"Egypt, Arab Rep.",2018,952531.86646,Argentina
+Malaysia,2018,940400.89543,Argentina
+Saudi Arabia,2018,865856.7501699999,Argentina
+Mexico,2018,857339.8216,Argentina
+United Kingdom,2018,802874.64841,Argentina
+Colombia,2018,800703.4005199999,Argentina
+Russian Federation,2018,670136.1040400001,Argentina
+Bolivia,2018,655730.64502,Argentina
+Poland,2018,617469.85652,Argentina
+Australia,2018,590074.15931,Argentina
+Bangladesh,2018,519705.6244,Argentina
+Thailand,2018,499323.46985,Argentina
+South Africa,2018,484773.04236999986,Argentina
+"Iran, Islamic Rep.",2018,446070.35676999995,Argentina
+Turkey,2018,438114.13672,Argentina
+Ecuador,2018,423620.53164999996,Argentina
+France,2018,345222.73701999994,Argentina
+Morocco,2018,340054.91922,Argentina
+Venezuela,2018,334772.45596999995,Argentina
+Philippines,2018,302378.17969,Argentina
+Russian Federation,2018,645405.8186600001,Armenia
+Switzerland,2018,308167.4498499999,Armenia
+Bulgaria,2018,214919.10877000002,Armenia
+Iraq,2018,150681.64239,Armenia
+Germany,2018,135722.77898,Armenia
+Netherlands,2018,132628.45054,Armenia
+China,2018,107251.87075,Armenia
+"Iran, Islamic Rep.",2018,94299.38865,Armenia
+United Arab Emirates,2018,74697.31746000002,Armenia
+Georgia,2018,68070.92421999999,Armenia
+Syrian Arab Republic,2018,55913.84654,Armenia
+Romania,2018,55029.330160000005,Armenia
+Italy,2018,49812.85392999999,Armenia
+Belgium,2018,49394.61020999999,Armenia
+Unspecified,2018,36832.373177268295,Aruba
+Colombia,2018,14637.414403138,Aruba
+United States,2018,10203.107193970998,Aruba
+China,2018,75127263.63316897,Australia
+Japan,2018,26750540.50200175,Australia
+"Korea, Rep.",2018,14002661.036867607,Australia
+India,2018,11130014.522094343,Australia
+United States,2018,10007702.98539874,Australia
+New Zealand,2018,8039926.504583374,Australia
+"Hong Kong, China",2018,7992362.299527194,Australia
+"Other Asia, nes",2018,6860709.879326624,Australia
+Singapore,2018,5150648.343506111,Australia
+Thailand,2018,4965674.223610797,Australia
+Malaysia,2018,4835737.535649786,Australia
+Indonesia,2018,4687156.796504879,Australia
+Vietnam,2018,3711348.917687228,Australia
+United Kingdom,2018,3562938.911097785,Australia
+Netherlands,2018,2570383.1231283788,Australia
+Papua New Guinea,2018,1904720.4830434087,Australia
+Germany,2018,1793340.6062139112,Australia
+Philippines,2018,1637044.888552836,Australia
+Germany,2018,69379526.65189339,Austria
+United States,2018,16307506.883724902,Austria
+Italy,2018,12824399.211609049,Austria
+Switzerland,2018,10064404.199047247,Austria
+France,2018,9323523.70333976,Austria
+Czech Republic,2018,7836235.755614677,Austria
+Hungary,2018,7253731.523813957,Austria
+Poland,2018,6828926.409214915,Austria
+China,2018,6451485.682119096,Austria
+United Kingdom,2018,6318264.962415395,Austria
+Slovak Republic,2018,4877228.742177142,Austria
+Netherlands,2018,4460579.829669783,Austria
+Spain,2018,4055341.381275881,Austria
+Slovenia,2018,4017819.2638230715,Austria
+Romania,2018,3950706.6968141934,Austria
+Russian Federation,2018,3113042.656222566,Austria
+Belgium,2018,2972603.5570842773,Austria
+Sweden,2018,2561742.5745450994,Austria
+Mexico,2018,2201155.4907767856,Austria
+Australia,2018,2158246.004553065,Austria
+Japan,2018,2098150.3490998307,Austria
+"Korea, Rep.",2018,2008866.3056320446,Austria
+Canada,2018,1918181.7073522706,Austria
+Turkey,2018,1862144.2538909889,Austria
+Croatia,2018,1773622.1088574678,Austria
+India,2018,1447323.1883292592,Austria
+Special Categories,2018,1253156.1805990906,Austria
+Malaysia,2018,1155549.5669463775,Austria
+Brazil,2018,1140261.3981603049,Austria
+Italy,2018,5879466.45377,Azerbaijan
+Turkey,2018,1829408.85306,Azerbaijan
+Israel,2018,1310776.36529,Azerbaijan
+Czech Republic,2018,938396.5525,Azerbaijan
+India,2018,819558.97949,Azerbaijan
+Germany,2018,789754.43623,Azerbaijan
+"Other Asia, nes",2018,714216.2951199999,Azerbaijan
+Russian Federation,2018,667861.7751799999,Azerbaijan
+Indonesia,2018,597606.7617900001,Azerbaijan
+Canada,2018,585435.5075500002,Azerbaijan
+Portugal,2018,528719.26301,Azerbaijan
+Georgia,2018,508166.79030999995,Azerbaijan
+France,2018,444579.3289300001,Azerbaijan
+Spain,2018,396437.8734999999,Azerbaijan
+Ukraine,2018,363943.4075000001,Azerbaijan
+United States,2018,341707.7716,Azerbaijan
+Romania,2018,338161.07107999997,Azerbaijan
+Austria,2018,329767.5424100001,Azerbaijan
+United Kingdom,2018,263545.82898,Azerbaijan
+United States,2018,445410.90187,"Bahamas, The"
+Ireland,2018,28966.26486,"Bahamas, The"
+Panama,2018,28095.7373,"Bahamas, The"
+Turks and Caicos Isl.,2018,18845.265030000002,"Bahamas, The"
+France,2018,11383.78266,"Bahamas, The"
+Unspecified,2018,6898304.99984409,Bahrain
+Saudi Arabia,2018,2108836.453989232,Bahrain
+United Arab Emirates,2018,916417.2793525541,Bahrain
+United States,2018,686654.0466320297,Bahrain
+Oman,2018,664864.5823873272,Bahrain
+"Egypt, Arab Rep.",2018,525296.1280329368,Bahrain
+China,2018,350320.7118059597,Bahrain
+India,2018,314666.5911996647,Bahrain
+Kuwait,2018,251668.47400476402,Bahrain
+Turkey,2018,245045.2692807022,Bahrain
+"Korea, Rep.",2018,121720.6893386856,Bahrain
+Netherlands,2018,119818.7691562573,Bahrain
+"Other Asia, nes",2018,116703.59173018973,Bahrain
+Unspecified,2018,109151.3565,Barbados
+United States,2018,98844.653,Barbados
+Trinidad and Tobago,2018,34071.152500000004,Barbados
+Jamaica,2018,27461.606999999996,Barbados
+Guyana,2018,26859.893000000004,Barbados
+St. Lucia,2018,22705.627500000006,Barbados
+Antigua and Barbuda,2018,13605.479500000003,Barbados
+Canada,2018,12743.116,Barbados
+St. Vincent and the Grenadines,2018,12048.590499999998,Barbados
+Grenada,2018,11269.2995,Barbados
+United Kingdom,2018,10030.0095,Barbados
+Dominica,2018,9452.889000000003,Barbados
+St. Kitts and Nevis,2018,9410.6185,Barbados
+France,2018,8888.464,Barbados
+Russian Federation,2018,15485440.2,Belarus
+Ukraine,2018,4455490.1,Belarus
+United Kingdom,2018,3060705.4000000004,Belarus
+Netherlands,2018,1422684.9,Belarus
+Germany,2018,1399381.9000000001,Belarus
+Lithuania,2018,1353146.9,Belarus
+Poland,2018,1313522.4,Belarus
+Kazakhstan,2018,939781.3999999999,Belarus
+Brazil,2018,585370.6,Belarus
+China,2018,488725.20000000007,Belarus
+Latvia,2018,488169.99999999994,Belarus
+India,2018,299733.4,Belarus
+Azerbaijan,2018,299330.19999999995,Belarus
+United States,2018,251010.90000000002,Belarus
+Indonesia,2018,242868.30000000008,Belarus
+Turkey,2018,183371.09999999998,Belarus
+Belgium,2018,178732.10000000003,Belarus
+Uzbekistan,2018,173751.10000000003,Belarus
+Germany,2018,90650473.7538768,Belgium
+France,2018,73490275.30366148,Belgium
+Netherlands,2018,63169642.578249395,Belgium
+United Kingdom,2018,40812972.82518206,Belgium
+United States,2018,27622295.745462,Belgium
+Italy,2018,26238309.638271403,Belgium
+Spain,2018,14810690.629024103,Belgium
+Poland,2018,11668896.450251937,Belgium
+India,2018,9981038.342208188,Belgium
+China,2018,9591102.860164966,Belgium
+Sweden,2018,8898115.279602712,Belgium
+Luxembourg,2018,8436780.409403915,Belgium
+Turkey,2018,6898188.670164545,Belgium
+Switzerland,2018,6123353.622679528,Belgium
+Austria,2018,5300649.781641375,Belgium
+Russian Federation,2018,4994085.187508758,Belgium
+Brazil,2018,4832624.742608543,Belgium
+Czech Republic,2018,4798759.750982755,Belgium
+Canada,2018,4489836.099546818,Belgium
+Japan,2018,4318452.460346671,Belgium
+United Arab Emirates,2018,4234506.907672098,Belgium
+Bunkers,2018,4064009.0224524844,Belgium
+Denmark,2018,4044036.0543424897,Belgium
+Hungary,2018,3694325.405723341,Belgium
+Nigeria,2018,3398309.767206646,Belgium
+Portugal,2018,3035517.364026116,Belgium
+Finland,2018,2977892.521046099,Belgium
+Ireland,2018,2945519.425510319,Belgium
+Romania,2018,2779811.7719712127,Belgium
+Israel,2018,2587943.5591819417,Belgium
+Australia,2018,2553685.6718489816,Belgium
+"Hong Kong, China",2018,2551573.279476218,Belgium
+Marshall Islands,2018,2356034.206014105,Belgium
+Norway,2018,2242023.2231139974,Belgium
+United States,2018,76491.543095,Belize
+United Kingdom,2018,73084.40828500001,Belize
+Jamaica,2018,14912.414155,Belize
+Ireland,2018,12758.29742,Belize
+Barbados,2018,10280.160269999998,Belize
+Trinidad and Tobago,2018,9226.131495,Belize
+Guatemala,2018,8862.738110000002,Belize
+Netherlands,2018,7147.870925,Belize
+Honduras,2018,5061.719485,Belize
+Germany,2018,2985.488430000001,Belize
+Bangladesh,2018,216423.6277585729,Benin
+India,2018,211229.8286993663,Benin
+Vietnam,2018,95325.4277302823,Benin
+Nigeria,2018,76409.04832830142,Benin
+China,2018,74921.0740982597,Benin
+Malaysia,2018,45115.251412960875,Benin
+Denmark,2018,33730.42092519012,Benin
+"Egypt, Arab Rep.",2018,31959.712591131603,Benin
+Niger,2018,28436.02262783437,Benin
+United States,2018,26697.71223878356,Benin
+Singapore,2018,23256.140137238282,Benin
+Turkey,2018,20852.027412178166,Benin
+United Arab Emirates,2018,14323.027029472561,Benin
+Burkina Faso,2018,12154.847179316079,Benin
+United States,2018,15771.35573,Bermuda
+Unspecified,2018,4232.23207,Bermuda
+United Kingdom,2018,1895.87191,Bermuda
+Canada,2018,1890.8143299999997,Bermuda
+Brazil,2018,1722858.3711600003,Bolivia
+Argentina,2018,1468255.6595599998,Bolivia
+India,2018,740370.6900399999,Bolivia
+Japan,2018,673862.91952,Bolivia
+"Korea, Rep.",2018,579334.6126300001,Bolivia
+United States,2018,538018.57732,Bolivia
+China,2018,468930.0075900001,Bolivia
+Colombia,2018,422266.50635,Bolivia
+Peru,2018,391571.9862800001,Bolivia
+United Arab Emirates,2018,368652.18603000004,Bolivia
+Netherlands,2018,242562.05268000002,Bolivia
+Canada,2018,199909.45721,Bolivia
+Belgium,2018,193821.86413999996,Bolivia
+Ecuador,2018,183245.59764,Bolivia
+Australia,2018,172927.57661000002,Bolivia
+Germany,2018,1008209.05056,Bosnia and Herzegovina
+"Serbia, FR(Serbia/Montenegro)",2018,858108.137,Bosnia and Herzegovina
+Croatia,2018,852504.8478000001,Bosnia and Herzegovina
+Italy,2018,846953.21358,Bosnia and Herzegovina
+Slovenia,2018,789368.24389,Bosnia and Herzegovina
+Austria,2018,740375.60137,Bosnia and Herzegovina
+Montenegro,2018,250163.65728,Bosnia and Herzegovina
+Hungary,2018,181753.07452,Bosnia and Herzegovina
+Turkey,2018,160879.00074,Bosnia and Herzegovina
+Netherlands,2018,136551.21436,Bosnia and Herzegovina
+France,2018,122590.47828,Bosnia and Herzegovina
+Slovak Republic,2018,110520.08828000001,Bosnia and Herzegovina
+Romania,2018,109187.62219,Bosnia and Herzegovina
+Switzerland,2018,108923.81726,Bosnia and Herzegovina
+Poland,2018,101513.33123,Bosnia and Herzegovina
+Luxembourg,2018,82834.77004999999,Bosnia and Herzegovina
+Czech Republic,2018,81192.08064,Bosnia and Herzegovina
+Belgium,2018,1240182.2209276478,Botswana
+India,2018,1199361.074219432,Botswana
+United Arab Emirates,2018,891810.3035829013,Botswana
+South Africa,2018,633233.8926342374,Botswana
+Singapore,2018,526470.482371932,Botswana
+Israel,2018,453391.1313385544,Botswana
+"Hong Kong, China",2018,349704.05149709265,Botswana
+United States,2018,200411.16042689772,Botswana
+Namibia,2018,185784.09697602058,Botswana
+China,2018,64616214.224,Brazil
+United States,2018,36683962.721999995,Brazil
+Argentina,2018,19475862.50800001,Brazil
+Netherlands,2018,17298332.493,Brazil
+Chile,2018,7840087.807,Brazil
+Germany,2018,6477660.195,Brazil
+Mexico,2018,6441825.192,Brazil
+Spain,2018,5222667.810000001,Brazil
+Singapore,2018,5152665.789000001,Brazil
+Japan,2018,4583494.363000001,Brazil
+India,2018,4093195.455,Brazil
+Italy,2018,3822350.8989999993,Brazil
+Paraguay,2018,3673984.761999999,Brazil
+Canada,2018,3583957.106,Brazil
+Colombia,2018,3582749.251000001,Brazil
+"Korea, Rep.",2018,3487203.477,Brazil
+Panama,2018,3323156.406,Brazil
+United Kingdom,2018,3322003.063,Brazil
+Belgium,2018,3313026.9430000004,Brazil
+Uruguay,2018,3272610.4269999997,Brazil
+France,2018,2958918.4290000005,Brazil
+Peru,2018,2806021.875,Brazil
+"Hong Kong, China",2018,2731211.7499999995,Brazil
+Turkey,2018,2486003.468000001,Brazil
+"Iran, Islamic Rep.",2018,2337205.782,Brazil
+"Egypt, Arab Rep.",2018,2188540.793,Brazil
+United Arab Emirates,2018,2145245.589,Brazil
+Russian Federation,2018,2095085.576,Brazil
+Malaysia,2018,2054743.7,Brazil
+Thailand,2018,2054551.6190000002,Brazil
+Saudi Arabia,2018,2046874.2850000001,Brazil
+Vietnam,2018,1988155.3260000001,Brazil
+South Africa,2018,1818130.229,Brazil
+Bolivia,2018,1787584.2170000002,Brazil
+Bunkers,2018,1783771.546,Brazil
+Indonesia,2018,1587441.7250000003,Brazil
+Portugal,2018,1485392.275,Brazil
+Bangladesh,2018,1167468.5569999998,Brazil
+Japan,2018,2282547.9335890575,Brunei
+Thailand,2018,689811.1722472089,Brunei
+"Korea, Rep.",2018,615436.9387215797,Brunei
+Singapore,2018,612021.4886123842,Brunei
+Australia,2018,578287.5941988617,Brunei
+Malaysia,2018,543324.0301761039,Brunei
+India,2018,491807.7253706509,Brunei
+"Other Asia, nes",2018,395140.47977302386,Brunei
+Germany,2018,6220937.517046729,Bulgaria
+Romania,2018,3239054.8974159164,Bulgaria
+Italy,2018,3185399.0043660407,Bulgaria
+Turkey,2018,2718888.969225748,Bulgaria
+Greece,2018,2284015.5982806967,Bulgaria
+France,2018,1625541.4128939048,Bulgaria
+Belgium,2018,1264218.2806095262,Bulgaria
+Netherlands,2018,972089.9551708074,Bulgaria
+China,2018,963628.6391056755,Bulgaria
+Spain,2018,937601.1629608837,Bulgaria
+Czech Republic,2018,914263.3135109269,Bulgaria
+Poland,2018,837597.9284023512,Bulgaria
+United Kingdom,2018,826933.8998217541,Bulgaria
+United States,2018,755894.8781509383,Bulgaria
+"Serbia, FR(Serbia/Montenegro)",2018,751044.3566456765,Bulgaria
+Austria,2018,714070.9755980638,Bulgaria
+Hungary,2018,695529.4940148074,Bulgaria
+Russian Federation,2018,619132.446215769,Bulgaria
+"Macedonia, FYR",2018,523309.4498179802,Bulgaria
+Sweden,2018,385437.5406899582,Bulgaria
+Slovak Republic,2018,332533.85132843675,Bulgaria
+"Egypt, Arab Rep.",2018,322240.8680412436,Bulgaria
+Singapore,2018,307827.88497811276,Bulgaria
+Slovenia,2018,283445.6223038048,Bulgaria
+Ukraine,2018,264127.9876156936,Bulgaria
+Switzerland,2018,255221.13967615436,Bulgaria
+Denmark,2018,249869.507657392,Bulgaria
+Unspecified,2018,227380.8216337446,Bulgaria
+Croatia,2018,226967.9423530288,Bulgaria
+Georgia,2018,225442.740099724,Bulgaria
+Bunkers,2018,223365.77739859078,Bulgaria
+South Africa,2018,195035.37435463764,Bulgaria
+Gibraltar,2018,191641.96444028124,Bulgaria
+India,2018,161344.476307224,Bulgaria
+Switzerland,2018,1730816.4758068796,Burkina Faso
+India,2018,504144.30651366105,Burkina Faso
+Singapore,2018,252695.71185515722,Burkina Faso
+Cote d'Ivoire,2018,219554.43041718632,Burkina Faso
+France,2018,140688.41241696384,Burkina Faso
+Ghana,2018,110232.57005258871,Burkina Faso
+Togo,2018,62248.67425160304,Burkina Faso
+United Arab Emirates,2018,50216.34882675594,Burundi
+"Congo, Dem. Rep.",2018,19350.21813055731,Burundi
+Pakistan,2018,13144.839547900601,Burundi
+Belgium,2018,12128.334363022637,Burundi
+Switzerland,2018,9471.891996208393,Burundi
+Germany,2018,7557.674950908319,Burundi
+"Egypt, Arab Rep.",2018,6473.38061858047,Burundi
+Singapore,2018,5818.30342832858,Burundi
+Rwanda,2018,5631.54062120237,Burundi
+China,2018,5506.215047957469,Burundi
+United Kingdom,2018,4572.740155367791,Burundi
+Uganda,2018,4556.28033955766,Burundi
+Kenya,2018,4198.381809441539,Burundi
+Oman,2018,3145.5400093622397,Burundi
+Tanzania,2018,2767.707163358337,Burundi
+United States,2018,2930049.51804,Cambodia
+Germany,2018,1098734.4287,Cambodia
+Japan,2018,1073133.3806900003,Cambodia
+United Kingdom,2018,1015787.8528099998,Cambodia
+China,2018,908764.2912100002,Cambodia
+Canada,2018,764305.19655,Cambodia
+Spain,2018,513704.69803,Cambodia
+Belgium,2018,493964.25062,Cambodia
+France,2018,436899.5725500001,Cambodia
+Netherlands,2018,430578.15012999997,Cambodia
+Thailand,2018,426305.91214000003,Cambodia
+"Hong Kong, China",2018,425106.69106,Cambodia
+Vietnam,2018,365106.95259999996,Cambodia
+Italy,2018,294283.31898,Cambodia
+"Korea, Rep.",2018,200358.56502,Cambodia
+Poland,2018,144711.48455999995,Cambodia
+Malaysia,2018,136091.67252,Cambodia
+United States,2018,366714502.3396808,Canada
+China,2018,22598228.578603003,Canada
+United Kingdom,2018,13642993.40397821,Canada
+Japan,2018,10305672.31892403,Canada
+Mexico,2018,8224333.091306214,Canada
+"Korea, Rep.",2018,4959659.697393844,Canada
+Germany,2018,4521042.16989964,Canada
+Netherlands,2018,4015533.1731180316,Canada
+India,2018,3586167.0782632236,Canada
+France,2018,3378957.3945498993,Canada
+"Hong Kong, China",2018,3224900.0801311526,Canada
+Belgium,2018,3191918.240446293,Canada
+Spain,2018,47732.885220000004,Cape Verde
+Portugal,2018,11056.590839999999,Cape Verde
+Italy,2018,10006.68352,Cape Verde
+France,2018,33104.513,Central African Republic
+Cameroon,2018,12219.893,Central African Republic
+United Arab Emirates,2018,10606.443000000001,Central African Republic
+China,2018,7380.250999999999,Central African Republic
+Niger,2018,4934.44,Central African Republic
+Morocco,2018,3882.836,Central African Republic
+Vietnam,2018,2309.624,Central African Republic
+China,2018,25305150.677652176,Chile
+United States,2018,10635180.284780538,Chile
+Japan,2018,7045864.881083668,Chile
+"Korea, Rep.",2018,4342623.29085,Chile
+Brazil,2018,3516503.47153,Chile
+Peru,2018,1874499.2645446598,Chile
+Spain,2018,1668389.17245,Chile
+Netherlands,2018,1600771.7454900001,Chile
+Bolivia,2018,1505451.9978046531,Chile
+Mexico,2018,1343648.56813,Chile
+India,2018,1324979.81934,Chile
+"Other Asia, nes",2018,1320598.67694,Chile
+Canada,2018,1090844.60903,Chile
+France,2018,1049459.43432,Chile
+Germany,2018,1008700.04027,Chile
+Russian Federation,2018,930012.6545500001,Chile
+Argentina,2018,905656.2217027348,Chile
+Italy,2018,830911.0037000001,Chile
+Colombia,2018,786800.3794199999,Chile
+United Kingdom,2018,692151.0700100001,Chile
+Paraguay,2018,671977.2733683278,Chile
+United States,2018,632380517.8829999,China
+"Hong Kong, China",2018,503003853.523,China
+Japan,2018,193695633.37699997,China
+"Korea, Rep.",2018,153057086.883,China
+Vietnam,2018,111655333.863,China
+Netherlands,2018,108801870.349,China
+India,2018,108317226.417,China
+Germany,2018,105153975.1000001,China
+"Other Asia, nes",2018,72059733.337,China
+Singapore,2018,70096129.705,China
+United Kingdom,2018,67942938.081,China
+Russian Federation,2018,63922458.697,China
+Mexico,2018,62423943.11399999,China
+Malaysia,2018,61816209.93700001,China
+Australia,2018,58557160.851,China
+Indonesia,2018,57700233.54,China
+Thailand,2018,57555083.370000005,China
+Brazil,2018,45628252.868999995,China
+Italy,2018,43176408.345,China
+Philippines,2018,42877637.175000004,China
+Canada,2018,41412485.692999996,China
+United Arab Emirates,2018,40506539.9,China
+France,2018,38504828.032,China
+Spain,2018,28756247.387,China
+Poland,2018,26532958.34600001,China
+Turkey,2018,24203427.952,China
+Pakistan,2018,22441699.376000002,China
+Bangladesh,2018,21249782.629,China
+Czech Republic,2018,20824873.142000012,China
+South Africa,2018,20437432.463,China
+Saudi Arabia,2018,20173535.224,China
+Belgium,2018,19593500.081,China
+"Iran, Islamic Rep.",2018,18360570.774,China
+Chile,2018,18006249.417999998,China
+Nigeria,2018,16439002.019000001,China
+"Egypt, Arab Rep.",2018,15226621.254999999,China
+Kazakhstan,2018,13222219.446999999,China
+Myanmar,2018,13091073.77,China
+Argentina,2018,11418647.265,China
+United States,2018,11489956.204310002,Colombia
+China,2018,4058190.44026,Colombia
+Panama,2018,3082508.7628800003,Colombia
+Ecuador,2018,2086190.1632300003,Colombia
+Mexico,2018,1691662.3841199998,Colombia
+Turkey,2018,1691118.3268100002,Colombia
+Brazil,2018,1566938.80403,Colombia
+Peru,2018,1225970.51481,Colombia
+Chile,2018,1215054.1034999997,Colombia
+Spain,2018,1191758.61512,Colombia
+Netherlands,2018,1035031.5898699998,Colombia
+Canada,2018,869002.4947299998,Colombia
+St. Lucia,2018,799213.0160799997,Colombia
+"Korea, Rep.",2018,627330.7555099999,Colombia
+India,2018,549848.9027900001,Colombia
+Japan,2018,472980.85329999996,Colombia
+Germany,2018,448126.35922,Colombia
+Italy,2018,442849.47777,Colombia
+Israel,2018,429762.56875,Colombia
+United Kingdom,2018,420379.41288,Colombia
+Singapore,2018,408346.74299000006,Colombia
+Belgium,2018,405180.42309,Colombia
+Guatemala,2018,375203.24958,Colombia
+Venezuela,2018,371674.84531,Colombia
+Dominican Republic,2018,358799.76577,Colombia
+"Bahamas, The",2018,356415.68642,Colombia
+Switzerland,2018,330329.62236999994,Colombia
+Free Zones,2018,328056.5422,Colombia
+Portugal,2018,318552.24098000006,Colombia
+France,2018,16740.80882982132,Comoros
+India,2018,15389.4907582527,Comoros
+Germany,2018,4295.30732957113,Comoros
+United Arab Emirates,2018,1425.3562514599998,Comoros
+Netherlands,2018,1241.41522276212,Comoros
+Czech Republic,2018,1115.25916,Comoros
+Canada,2018,1010.28120336,Comoros
+Singapore,2018,885.5062,Comoros
+South Africa,2018,10572332.667005042,"Congo, Dem. Rep."
+China,2018,3642896.146525505,"Congo, Dem. Rep."
+United Arab Emirates,2018,1389861.629177253,"Congo, Dem. Rep."
+Tanzania,2018,1321767.3766962814,"Congo, Dem. Rep."
+Zambia,2018,1142888.7097328496,"Congo, Dem. Rep."
+Singapore,2018,696181.5139498103,"Congo, Dem. Rep."
+China,2018,6994593.673154121,"Congo, Rep."
+Italy,2018,744670.3159422355,"Congo, Rep."
+Gabon,2018,723004.455142312,"Congo, Rep."
+Angola,2018,542561.299972673,"Congo, Rep."
+Singapore,2018,455328.19319265895,"Congo, Rep."
+Namibia,2018,373757.30367758253,"Congo, Rep."
+Cameroon,2018,323544.7487680045,"Congo, Rep."
+Spain,2018,293897.5520922535,"Congo, Rep."
+United States,2018,282500.46468631394,"Congo, Rep."
+Norway,2018,182377.60745594828,"Congo, Rep."
+Netherlands,2018,171119.23043507646,"Congo, Rep."
+Canada,2018,161167.99182320313,"Congo, Rep."
+France,2018,149212.35244902616,"Congo, Rep."
+United States,2018,4394630.936690001,Costa Rica
+Netherlands,2018,666342.23965,Costa Rica
+Guatemala,2018,602718.62118,Costa Rica
+Panama,2018,598650.6436199999,Costa Rica
+Belgium,2018,544891.34249,Costa Rica
+Nicaragua,2018,496755.22817000013,Costa Rica
+Honduras,2018,415586.86018,Costa Rica
+El Salvador,2018,306377.73008,Costa Rica
+Mexico,2018,303305.11925,Costa Rica
+Dominican Republic,2018,248708.64232000004,Costa Rica
+Japan,2018,229506.58768,Costa Rica
+United Kingdom,2018,196830.08463,Costa Rica
+Italy,2018,178843.11177,Costa Rica
+Spain,2018,177948.18869000004,Costa Rica
+Germany,2018,166329.61309999996,Costa Rica
+China,2018,153380.15755,Costa Rica
+Ireland,2018,90281.65742999999,Costa Rica
+Canada,2018,65395.839940000005,Costa Rica
+Netherlands,2018,1353756.9549883876,Cote d'Ivoire
+United States,2018,1093178.0143044346,Cote d'Ivoire
+Vietnam,2018,801983.280426961,Cote d'Ivoire
+Germany,2018,754844.8382352963,Cote d'Ivoire
+France,2018,659043.6986782459,Cote d'Ivoire
+Burkina Faso,2018,624449.5229249689,Cote d'Ivoire
+Mali,2018,573419.0057656221,Cote d'Ivoire
+India,2018,525844.8953728111,Cote d'Ivoire
+Malaysia,2018,458468.63579640654,Cote d'Ivoire
+Belgium,2018,450113.04199530964,Cote d'Ivoire
+Ghana,2018,436356.4929881447,Cote d'Ivoire
+Switzerland,2018,431006.2468957694,Cote d'Ivoire
+South Africa,2018,348645.5589673832,Cote d'Ivoire
+United Kingdom,2018,290524.3750801233,Cote d'Ivoire
+Spain,2018,285377.2336371133,Cote d'Ivoire
+Canada,2018,262281.86824680085,Cote d'Ivoire
+Nigeria,2018,208758.19547608672,Cote d'Ivoire
+Indonesia,2018,207861.82029320011,Cote d'Ivoire
+Italy,2018,182020.83490264232,Cote d'Ivoire
+Unspecified,2018,178876.53139786833,Cote d'Ivoire
+China,2018,178156.56368066013,Cote d'Ivoire
+Turkey,2018,162655.04037405242,Cote d'Ivoire
+Senegal,2018,120246.61828121131,Cote d'Ivoire
+Togo,2018,114935.27756273723,Cote d'Ivoire
+Estonia,2018,113012.22948982629,Cote d'Ivoire
+Italy,2018,2745311.725,Croatia
+Germany,2018,2695585.8599999994,Croatia
+Slovenia,2018,2191489.4790000003,Croatia
+Bosnia and Herzegovina,2018,1729468.964,Croatia
+Austria,2018,1356449.427,Croatia
+"Serbia, FR(Serbia/Montenegro)",2018,970430.282,Croatia
+Hungary,2018,627945.1120000001,Croatia
+France,2018,558490.136,Croatia
+United States,2018,404309.975,Croatia
+Belgium,2018,327560.681,Croatia
+Romania,2018,325936.08900000004,Croatia
+Poland,2018,302640.249,Croatia
+Luxembourg,2018,300809.452,Croatia
+Czech Republic,2018,297311.762,Croatia
+Spain,2018,288999.79199999996,Croatia
+United Kingdom,2018,286693.55700000003,Croatia
+Switzerland,2018,279311.01,Croatia
+Montenegro,2018,242040.27599999998,Croatia
+Netherlands,2018,230578.11200000002,Croatia
+China,2018,227773.09300000002,Croatia
+Russian Federation,2018,204039.57100000005,Croatia
+Slovak Republic,2018,188344.26900000003,Croatia
+Gibraltar,2018,174787.50999999998,Croatia
+"Macedonia, FYR",2018,170123.76,Croatia
+Sweden,2018,165289.19100000002,Croatia
+Norway,2018,152861.114,Croatia
+Turkey,2018,144201.05599999998,Croatia
+Bulgaria,2018,141857.86,Croatia
+Canada,2018,140102.009,Croatia
+Cayman Islands,2018,775185.320537155,Cyprus
+Norway,2018,552716.7656486715,Cyprus
+Libya,2018,456558.6117171895,Cyprus
+Greece,2018,408957.2722550407,Cyprus
+Bunkers,2018,366585.4765540045,Cyprus
+Marshall Islands,2018,322166.49391469,Cyprus
+Unspecified,2018,311238.41596184915,Cyprus
+"Hong Kong, China",2018,303155.1142477097,Cyprus
+Ireland,2018,265512.1887610926,Cyprus
+Germany,2018,265178.18422988727,Cyprus
+United Kingdom,2018,218858.38689430643,Cyprus
+"Egypt, Arab Rep.",2018,195778.7219043158,Cyprus
+United States,2018,176638.98332238154,Cyprus
+Liberia,2018,167970.24253860724,Cyprus
+Lebanon,2018,148050.0951550317,Cyprus
+Singapore,2018,128363.41531707064,Cyprus
+Israel,2018,112830.87814986055,Cyprus
+China,2018,102503.1885935489,Cyprus
+Slovak Republic,2018,92304.9022546913,Cyprus
+United Arab Emirates,2018,48611.0968142248,Cyprus
+Sweden,2018,47018.28838798655,Cyprus
+Algeria,2018,44691.82240882201,Cyprus
+Namibia,2018,43010.68903952085,Cyprus
+Saudi Arabia,2018,42480.82729739535,Cyprus
+Bulgaria,2018,41185.76864121855,Cyprus
+Russian Federation,2018,40110.3022076976,Cyprus
+Czech Republic,2018,38586.136176747896,Cyprus
+Netherlands,2018,37445.5249890711,Cyprus
+France,2018,36933.99140922674,Cyprus
+Germany,2018,91739919.851,Czech Republic
+Slovak Republic,2018,19214997.228,Czech Republic
+Poland,2018,15137241.236999998,Czech Republic
+France,2018,14720204.539,Czech Republic
+United Kingdom,2018,13121507.313000001,Czech Republic
+Austria,2018,11357720.071,Czech Republic
+Netherlands,2018,11353030.11499999,Czech Republic
+Italy,2018,10112336.230999999,Czech Republic
+Spain,2018,8900869.068,Czech Republic
+Hungary,2018,8415609.521,Czech Republic
+Russian Federation,2018,6426278.435999999,Czech Republic
+United States,2018,5996130.083,Czech Republic
+Belgium,2018,5877833.393,Czech Republic
+Sweden,2018,5014560.211,Czech Republic
+Romania,2018,4123679.8660000004,Czech Republic
+China,2018,3882871.112,Czech Republic
+Switzerland,2018,3691511.282,Czech Republic
+Turkey,2018,3244308.9290000005,Czech Republic
+Denmark,2018,2312988.322,Czech Republic
+Ukraine,2018,2259521.9639999997,Czech Republic
+Ireland,2018,2164186.1859999998,Czech Republic
+Finland,2018,1634876.826,Czech Republic
+Bulgaria,2018,1320080.913,Czech Republic
+Germany,2018,19348258.839522474,Denmark
+Special Categories,2018,17059407.208443843,Denmark
+Sweden,2018,12731285.68532779,Denmark
+United Kingdom,2018,8885509.118866574,Denmark
+Norway,2018,7081681.047431099,Denmark
+United States,2018,6199922.280265208,Denmark
+Netherlands,2018,5398183.435676223,Denmark
+France,2018,4130028.176852067,Denmark
+China,2018,4027867.726881841,Denmark
+Poland,2018,3536881.716930861,Denmark
+Italy,2018,2924520.105858144,Denmark
+Spain,2018,2435478.682359893,Denmark
+Finland,2018,2339002.6906247158,Denmark
+Belgium,2018,2139978.5623691576,Denmark
+Japan,2018,1617418.6333800058,Denmark
+Australia,2018,1204773.1551063387,Denmark
+Russian Federation,2018,1146470.1724747834,Denmark
+"Hong Kong, China",2018,1014172.850555253,Denmark
+Turkey,2018,1013539.1722596961,Denmark
+Austria,2018,978570.9983423147,Denmark
+"Korea, Rep.",2018,961859.5284566933,Denmark
+Switzerland,2018,912959.3126220416,Denmark
+Ireland,2018,910607.9251447323,Denmark
+Canada,2018,885580.5944866973,Denmark
+Czech Republic,2018,840629.0785780002,Denmark
+Hungary,2018,813473.9843343564,Denmark
+Faeroe Islands,2018,725135.055946132,Denmark
+Marshall Islands,2018,707482.4860731198,Denmark
+Lithuania,2018,701760.0428134648,Denmark
+Saudi Arabia,2018,699855.7364907801,Denmark
+Singapore,2018,660721.6313134097,Denmark
+Iceland,2018,649599.9195574827,Denmark
+India,2018,618703.8028109523,Denmark
+United States,2018,6101754.385409,Dominican Republic
+Haiti,2018,893545.33195,Dominican Republic
+India,2018,674840.84201,Dominican Republic
+Canada,2018,638582.1101600002,Dominican Republic
+Netherlands,2018,257431.52317999993,Dominican Republic
+China,2018,153204.17385999998,Dominican Republic
+Switzerland,2018,150109.75864000001,Dominican Republic
+Spain,2018,121856.61283299999,Dominican Republic
+United Kingdom,2018,105014.78220999999,Dominican Republic
+Germany,2018,95840.5588,Dominican Republic
+Italy,2018,88631.83149019998,Dominican Republic
+Jamaica,2018,73084.0634876,Dominican Republic
+United States,2018,6724944.93013,Ecuador
+Peru,2018,1628866.2104500001,Ecuador
+China,2018,1493507.9753599998,Ecuador
+Chile,2018,1478198.5089000002,Ecuador
+Panama,2018,1245835.7813600001,Ecuador
+Vietnam,2018,1212271.5414700003,Ecuador
+Colombia,2018,898760.75211,Ecuador
+Russian Federation,2018,837874.1732199999,Ecuador
+Italy,2018,646456.58689,Ecuador
+Spain,2018,582378.2646400001,Ecuador
+Germany,2018,505512.9530200001,Ecuador
+Netherlands,2018,436035.68076,Ecuador
+Japan,2018,318318.29511,Ecuador
+India,2018,292425.54008,Ecuador
+France,2018,268238.80641000014,Ecuador
+Argentina,2018,243288.24981999997,Ecuador
+Belgium,2018,209956.85892,Ecuador
+United Kingdom,2018,187167.22945,Ecuador
+Turkey,2018,167663.23416999998,Ecuador
+Mexico,2018,149572.47556,Ecuador
+Indonesia,2018,129279.40475000002,Ecuador
+Italy,2018,2060951.6553009024,"Egypt, Arab Rep."
+Turkey,2018,2057172.9440613685,"Egypt, Arab Rep."
+United Arab Emirates,2018,1983123.1769956383,"Egypt, Arab Rep."
+United States,2018,1729650.457670222,"Egypt, Arab Rep."
+Saudi Arabia,2018,1417552.6080596072,"Egypt, Arab Rep."
+United Kingdom,2018,1409226.218594391,"Egypt, Arab Rep."
+Spain,2018,1289945.5952313808,"Egypt, Arab Rep."
+India,2018,1152358.6882445447,"Egypt, Arab Rep."
+China,2018,1039657.0211459858,"Egypt, Arab Rep."
+Algeria,2018,992324.4862214029,"Egypt, Arab Rep."
+France,2018,905875.1108500076,"Egypt, Arab Rep."
+Germany,2018,673797.9563538481,"Egypt, Arab Rep."
+Libya,2018,671469.5375517466,"Egypt, Arab Rep."
+Jordan,2018,634995.5287939485,"Egypt, Arab Rep."
+Unspecified,2018,562102.4326761003,"Egypt, Arab Rep."
+Netherlands,2018,523585.9356266698,"Egypt, Arab Rep."
+Lebanon,2018,519453.231615415,"Egypt, Arab Rep."
+Tunisia,2018,513219.67235984176,"Egypt, Arab Rep."
+Morocco,2018,510459.6827552258,"Egypt, Arab Rep."
+Malta,2018,496167.82988745545,"Egypt, Arab Rep."
+Iraq,2018,446918.0347689166,"Egypt, Arab Rep."
+Russian Federation,2018,422062.22853273456,"Egypt, Arab Rep."
+Greece,2018,408994.4647876811,"Egypt, Arab Rep."
+Sudan,2018,397939.5146741995,"Egypt, Arab Rep."
+Kenya,2018,362985.9654320817,"Egypt, Arab Rep."
+Belgium,2018,330669.46946549567,"Egypt, Arab Rep."
+Syrian Arab Republic,2018,328403.99250119453,"Egypt, Arab Rep."
+Yemen,2018,285482.87517415325,"Egypt, Arab Rep."
+Kuwait,2018,278658.745599758,"Egypt, Arab Rep."
+Brazil,2018,260421.9987298331,"Egypt, Arab Rep."
+Malaysia,2018,245096.75889916986,"Egypt, Arab Rep."
+Hungary,2018,222040.48761715437,"Egypt, Arab Rep."
+Switzerland,2018,212039.51273238254,"Egypt, Arab Rep."
+"Korea, Rep.",2018,201381.31798939238,"Egypt, Arab Rep."
+Nigeria,2018,179558.62112728876,"Egypt, Arab Rep."
+Ethiopia(excludes Eritrea),2018,170197.85247391372,"Egypt, Arab Rep."
+Oman,2018,167405.7972469529,"Egypt, Arab Rep."
+Pakistan,2018,160408.7713633163,"Egypt, Arab Rep."
+Japan,2018,146371.0640969962,"Egypt, Arab Rep."
+Portugal,2018,144796.608104622,"Egypt, Arab Rep."
+Romania,2018,142430.4678026604,"Egypt, Arab Rep."
+Poland,2018,125148.04629072052,"Egypt, Arab Rep."
+United States,2018,2838826.83233,El Salvador
+Honduras,2018,905817.5971700002,El Salvador
+Guatemala,2018,847436.5052900001,El Salvador
+Nicaragua,2018,406861.72206000006,El Salvador
+Costa Rica,2018,254613.20017999999,El Salvador
+Mexico,2018,146115.07822999998,El Salvador
+Panama,2018,122471.35983999998,El Salvador
+Finland,2018,3096741.0523065384,Estonia
+Sweden,2018,2230167.4475261304,Estonia
+Russian Federation,2018,2086090.5041728485,Estonia
+United States,2018,1856192.981697844,Estonia
+Latvia,2018,1727529.2493403342,Estonia
+Germany,2018,1321749.1450901008,Estonia
+Lithuania,2018,1006962.5685800766,Estonia
+Norway,2018,697587.8447029034,Estonia
+Netherlands,2018,510569.68483693263,Estonia
+Denmark,2018,490084.4342735137,Estonia
+Poland,2018,452439.95925660536,Estonia
+France,2018,405147.7291290056,Estonia
+United Kingdom,2018,365017.2567193988,Estonia
+Singapore,2018,321675.13072650606,Estonia
+Belgium,2018,318202.1309348069,Estonia
+China,2018,289706.6226881136,Estonia
+Bunkers,2018,220743.80865793928,Estonia
+Italy,2018,216468.21896644685,Estonia
+Saudi Arabia,2018,213388.32239226752,Estonia
+Canada,2018,201483.12462609232,Estonia
+Ukraine,2018,198884.86658982045,Estonia
+Spain,2018,197264.23826941167,Estonia
+Turkey,2018,192933.84722394994,Estonia
+Romania,2018,169961.66621172128,Estonia
+Switzerland,2018,149890.7325595908,Estonia
+Czech Republic,2018,146265.22918301483,Estonia
+South Africa,2018,1292940.5910000487,Eswatini
+Kenya,2018,93611.57264294964,Eswatini
+Nigeria,2018,78238.43845945937,Eswatini
+Mozambique,2018,64844.98714160934,Eswatini
+Tanzania,2018,34799.52998090915,Eswatini
+Angola,2018,30038.287103471157,Eswatini
+Zimbabwe,2018,26520.745028809677,Eswatini
+Uganda,2018,25822.25889323481,Eswatini
+China,2018,23841.254772807915,Eswatini
+Italy,2018,22373.021509088663,Eswatini
+China,2018,142367.49845428314,Ethiopia(excludes Eritrea)
+Saudi Arabia,2018,137530.48989412753,Ethiopia(excludes Eritrea)
+United Arab Emirates,2018,126398.79916933467,Ethiopia(excludes Eritrea)
+United States,2018,121349.99266622895,Ethiopia(excludes Eritrea)
+Djibouti,2018,92260.58317534496,Ethiopia(excludes Eritrea)
+Israel,2018,91618.94781298535,Ethiopia(excludes Eritrea)
+Lao PDR,2018,82827.29779629075,Ethiopia(excludes Eritrea)
+Somalia,2018,65059.71293082166,Ethiopia(excludes Eritrea)
+Vietnam,2018,62340.84721994358,Ethiopia(excludes Eritrea)
+Germany,2018,59562.42064133098,Ethiopia(excludes Eritrea)
+Japan,2018,51489.49502443788,Ethiopia(excludes Eritrea)
+India,2018,48505.16748601006,Ethiopia(excludes Eritrea)
+Turkey,2018,43519.67352311904,Ethiopia(excludes Eritrea)
+Switzerland,2018,41204.19329113218,Ethiopia(excludes Eritrea)
+Belgium,2018,34979.70599180753,Ethiopia(excludes Eritrea)
+Sudan,2018,34810.862687659,Ethiopia(excludes Eritrea)
+Kenya,2018,30083.01453440301,Ethiopia(excludes Eritrea)
+Indonesia,2018,30003.454478583702,Ethiopia(excludes Eritrea)
+Italy,2018,26356.475676330043,Ethiopia(excludes Eritrea)
+"Korea, Rep.",2018,24510.97669387732,Ethiopia(excludes Eritrea)
+Yemen,2018,21776.555830674028,Ethiopia(excludes Eritrea)
+United Kingdom,2018,21575.665187615432,Ethiopia(excludes Eritrea)
+Togo,2018,20637.887064049006,Ethiopia(excludes Eritrea)
+Nigeria,2018,18262.49766040042,Ethiopia(excludes Eritrea)
+"Hong Kong, China",2018,15266.437851097573,Ethiopia(excludes Eritrea)
+Netherlands,2018,14901.7981574958,Ethiopia(excludes Eritrea)
+Jordan,2018,14279.48371713206,Ethiopia(excludes Eritrea)
+France,2018,14051.454185049033,Ethiopia(excludes Eritrea)
+Tanzania,2018,13528.899763038655,Ethiopia(excludes Eritrea)
+Pakistan,2018,10711.660808488792,Ethiopia(excludes Eritrea)
+United States,2018,207573.4407719145,Fiji
+Australia,2018,151865.7532820911,Fiji
+New Zealand,2018,89924.18217990143,Fiji
+Bunkers,2018,83401.4302513679,Fiji
+Japan,2018,77315.08613399476,Fiji
+China,2018,61789.80490526743,Fiji
+Unspecified,2018,59125.927569141095,Fiji
+Tonga,2018,53041.24840021352,Fiji
+Vanuatu,2018,31052.765010626776,Fiji
+Samoa,2018,25107.813327797936,Fiji
+Papua New Guinea,2018,24582.027295972122,Fiji
+Tuvalu,2018,23605.848555657125,Fiji
+Kiribati,2018,20572.506197625582,Fiji
+American Samoa,2018,17541.50749009204,Fiji
+New Caledonia,2018,15460.245405703841,Fiji
+Cook Islands,2018,15185.674792462622,Fiji
+Vietnam,2018,14933.946640544556,Fiji
+Netherlands,2018,13030.444706877479,Fiji
+Solomon Islands,2018,12662.92252340548,Fiji
+French Polynesia,2018,12536.073635941279,Fiji
+Germany,2018,12715730.928593624,Finland
+Sweden,2018,8689682.664766354,Finland
+United States,2018,6065624.768357541,Finland
+Netherlands,2018,5513052.143524874,Finland
+China,2018,5228117.749359137,Finland
+Russian Federation,2018,5191313.961272578,Finland
+United Kingdom,2018,3560722.3686248334,Finland
+France,2018,2573976.0609552627,Finland
+Norway,2018,2554350.6064514513,Finland
+Belgium,2018,2353376.871662821,Finland
+Poland,2018,2352093.022332095,Finland
+Estonia,2018,2264246.6775769955,Finland
+Italy,2018,2099658.0807919716,Finland
+Unspecified,2018,1854858.8398626542,Finland
+Denmark,2018,1629571.7360358252,Finland
+Spain,2018,1379175.9312775987,Finland
+Japan,2018,1357104.5052001271,Finland
+"Korea, Rep.",2018,1310853.9031709102,Finland
+Australia,2018,1148163.7807290282,Finland
+Canada,2018,1005797.8617808896,Finland
+Turkey,2018,982873.3158020675,Finland
+India,2018,903910.5611502904,Finland
+Latvia,2018,804503.3282205552,Finland
+Switzerland,2018,792113.0603570505,Finland
+Mexico,2018,744603.5740013206,Finland
+Indonesia,2018,735513.1367316105,Finland
+Lithuania,2018,734129.8152150917,Finland
+Austria,2018,608723.6310482817,Finland
+Czech Republic,2018,517968.13243501127,Finland
+"Egypt, Arab Rep.",2018,504838.7787927262,Finland
+Brazil,2018,476021.2788154838,Finland
+South Africa,2018,455736.4112942425,Finland
+Chile,2018,452171.2370563891,Finland
+Hungary,2018,450369.62735397794,Finland
+Germany,2018,111089124.66888753,France
+United States,2018,60791324.68092761,France
+Spain,2018,55411531.69613227,France
+Italy,2018,48658429.48052084,France
+United Kingdom,2018,47119760.393709965,France
+Belgium,2018,45874332.697184935,France
+China,2018,37398760.71267061,France
+Netherlands,2018,23867611.400786698,France
+Switzerland,2018,19878462.658059485,France
+Poland,2018,14826815.684190985,France
+Singapore,2018,13609044.783106133,France
+India,2018,10864901.310264,France
+"Hong Kong, China",2018,9657970.50838605,France
+Turkey,2018,9630512.925602995,France
+Japan,2018,9365372.830066066,France
+Russian Federation,2018,8383409.627814665,France
+Sweden,2018,8148329.573543064,France
+Brazil,2018,7750889.96835801,France
+Algeria,2018,7648728.881629731,France
+Portugal,2018,7499056.580077563,France
+Czech Republic,2018,7483084.569414895,France
+Morocco,2018,7002424.242263092,France
+Romania,2018,6856869.975083569,France
+"Korea, Rep.",2018,6559431.0196075365,France
+Qatar,2018,6470881.419887617,France
+Austria,2018,5780536.459511735,France
+Saudi Arabia,2018,5695395.242920077,France
+Mexico,2018,5682705.0645513795,France
+Hungary,2018,5673616.041694978,France
+Tunisia,2018,4968985.852932952,France
+Slovak Republic,2018,4917895.3769268785,France
+Canada,2018,4644327.830358124,France
+United Arab Emirates,2018,4578700.740365002,France
+Denmark,2018,4241894.436492773,France
+Ireland,2018,4111961.092381299,France
+Australia,2018,4037209.5881467224,France
+Luxembourg,2018,4023307.2507062485,France
+Malaysia,2018,3801384.773516977,France
+"Other Asia, nes",2018,3702547.7806435125,France
+Mali,2018,6561.02215019893,"Gambia, The"
+"Korea, Rep.",2018,1052.33186906527,"Gambia, The"
+Cape Verde,2018,849.029966307064,"Gambia, The"
+Guinea-Bissau,2018,752.3380053289131,"Gambia, The"
+India,2018,687.3119615466001,"Gambia, The"
+Guinea,2018,304.055757126758,"Gambia, The"
+Vietnam,2018,188.52253641983,"Gambia, The"
+Azerbaijan,2018,544704.30106,Georgia
+Russian Federation,2018,459167.05877000006,Georgia
+Armenia,2018,308782.44813,Georgia
+Bulgaria,2018,259377.41821,Georgia
+Turkey,2018,236108.91293,Georgia
+China,2018,196384.58415,Georgia
+Ukraine,2018,179488.31392000002,Georgia
+United States,2018,159965.90275,Georgia
+Kazakhstan,2018,98452.00554999999,Georgia
+Uzbekistan,2018,80398.09644000004,Georgia
+"Iran, Islamic Rep.",2018,76379.90061,Georgia
+Switzerland,2018,74760.27357000002,Georgia
+Spain,2018,62180.101389999996,Georgia
+Romania,2018,57549.18692999999,Georgia
+Netherlands,2018,50813.50312000001,Georgia
+Germany,2018,50513.85079999999,Georgia
+Turkmenistan,2018,49036.24924999999,Georgia
+France,2018,44039.853180000006,Georgia
+Italy,2018,43577.40849000001,Georgia
+Lithuania,2018,43469.29486999999,Georgia
+United Arab Emirates,2018,43006.0353,Georgia
+Kyrgyz Republic,2018,28876.01565,Georgia
+United States,2018,179653724.60542914,Germany
+China,2018,162163599.43676206,Germany
+France,2018,155865522.8485521,Germany
+United Kingdom,2018,122533459.52471946,Germany
+Netherlands,2018,117164173.25027396,Germany
+Italy,2018,101647394.62626345,Germany
+Poland,2018,92627212.1279601,Germany
+Austria,2018,91434605.94648759,Germany
+Switzerland,2018,74759591.46837334,Germany
+Czech Republic,2018,70463664.98081622,Germany
+Spain,2018,67739463.8407785,Germany
+Belgium,2018,60908612.33103076,Germany
+Hungary,2018,45421943.226461425,Germany
+Russian Federation,2018,43701430.99251279,Germany
+Sweden,2018,41571824.066245764,Germany
+Turkey,2018,30626856.70721131,Germany
+Japan,2018,30311395.42811001,Germany
+Denmark,2018,30306802.008029293,Germany
+Romania,2018,26379530.712623596,Germany
+"Korea, Rep.",2018,25836996.740244523,Germany
+Mexico,2018,25202378.66802683,Germany
+Slovak Republic,2018,22747806.377524875,Germany
+India,2018,22248797.787920006,Germany
+Finland,2018,17177710.67010556,Germany
+Portugal,2018,16272914.26115564,Germany
+Ireland,2018,16047048.965613816,Germany
+South Africa,2018,16046130.328150552,Germany
+Canada,2018,15635944.940528639,Germany
+Australia,2018,15548999.015877325,Germany
+Brazil,2018,15268872.826782074,Germany
+United Arab Emirates,2018,14270906.609993726,Germany
+Norway,2018,13813866.055274934,Germany
+Singapore,2018,13331094.251208927,Germany
+"Other Asia, nes",2018,12829408.739076938,Germany
+Special Categories,2018,11466788.41072846,Germany
+Saudi Arabia,2018,9993053.938321995,Germany
+India,2018,3716502.84329625,Ghana
+China,2018,2032399.085206957,Ghana
+South Africa,2018,1742683.9814034563,Ghana
+Switzerland,2018,1631749.8276414103,Ghana
+Netherlands,2018,1229868.2629059746,Ghana
+Malaysia,2018,1109464.3282072777,Ghana
+United States,2018,614210.7248137589,Ghana
+United Arab Emirates,2018,590933.0594150377,Ghana
+Spain,2018,584532.9624799306,Ghana
+United Kingdom,2018,492634.3644691581,Ghana
+France,2018,358089.69529438287,Ghana
+Italy,2018,304561.8206335439,Ghana
+Burkina Faso,2018,281180.76252913603,Ghana
+Germany,2018,214369.04863790996,Ghana
+Vietnam,2018,197715.01439384432,Ghana
+Japan,2018,166285.46028439514,Ghana
+Belgium,2018,165342.5744513752,Ghana
+Brazil,2018,150839.67019169373,Ghana
+Italy,2018,4504049.147999391,Greece
+Germany,2018,2599397.4702850594,Greece
+Turkey,2018,2527688.3452931056,Greece
+Cyprus,2018,2209833.2537232284,Greece
+Lebanon,2018,1761509.4850940425,Greece
+Bulgaria,2018,1728162.354729104,Greece
+United States,2018,1606765.636861342,Greece
+Spain,2018,1567767.4161315737,Greece
+United Kingdom,2018,1444515.1853610422,Greece
+"Egypt, Arab Rep.",2018,1397591.1512973504,Greece
+France,2018,1222332.0725611139,Greece
+Romania,2018,1127072.0398112722,Greece
+China,2018,1105581.3638145821,Greece
+"Macedonia, FYR",2018,967502.5973876638,Greece
+Saudi Arabia,2018,859394.5573382319,Greece
+Netherlands,2018,805826.346667354,Greece
+Gibraltar,2018,672777.600556028,Greece
+Albania,2018,644720.7957258859,Greece
+Poland,2018,613190.0227646999,Greece
+Singapore,2018,530800.9651095722,Greece
+Israel,2018,512414.221725084,Greece
+Slovenia,2018,511800.707275426,Greece
+Libya,2018,509014.5961612359,Greece
+Belgium,2018,445059.55839025194,Greece
+Malta,2018,423103.50774366,Greece
+United Arab Emirates,2018,398387.25646035594,Greece
+"Serbia, FR(Serbia/Montenegro)",2018,384647.46531912,Greece
+Tunisia,2018,349957.27135633,Greece
+Austria,2018,346931.480948106,Greece
+Czech Republic,2018,297121.260962632,Greece
+Russian Federation,2018,296170.157224596,Greece
+Portugal,2018,285393.90807737596,Greece
+Sweden,2018,272699.8385942781,Greece
+Denmark,2018,241112.43699854205,Greece
+Hungary,2018,225935.75165148,Greece
+Liberia,2018,223666.15270328597,Greece
+Ukraine,2018,218255.20316028997,Greece
+Algeria,2018,217088.88582302595,Greece
+Australia,2018,199540.52125795197,Greece
+Canada,2018,191710.292573716,Greece
+India,2018,182947.786000166,Greece
+Denmark,2018,526303.68356,Greenland
+Unspecified,2018,49602.81822,Greenland
+Latvia,2018,47863.92732,Greenland
+United States,2018,3914126.0760000004,Guatemala
+El Salvador,2018,1379738.726,Guatemala
+Honduras,2018,972404.316,Guatemala
+Nicaragua,2018,554197.837,Guatemala
+Mexico,2018,517811.5709999999,Guatemala
+Costa Rica,2018,447168.899,Guatemala
+Netherlands,2018,357879.8829999999,Guatemala
+Panama,2018,259431.10999999996,Guatemala
+Dominican Republic,2018,178261.12699999995,Guatemala
+Canada,2018,166606.98000000004,Guatemala
+Spain,2018,151272.016,Guatemala
+Italy,2018,147874.14999999997,Guatemala
+Saudi Arabia,2018,124921.69599999998,Guatemala
+Chile,2018,121686.80400000003,Guatemala
+Japan,2018,114525.09700000001,Guatemala
+Germany,2018,110539.16,Guatemala
+Belize,2018,93328.12799999998,Guatemala
+United Arab Emirates,2018,86432.26699999998,Guatemala
+United Kingdom,2018,78021.723,Guatemala
+Belgium,2018,77252.732,Guatemala
+"Korea, Rep.",2018,68925.66499999996,Guatemala
+Peru,2018,58851.46300000001,Guatemala
+Canada,2018,512637.7552904571,Guyana
+United Arab Emirates,2018,215513.5999680725,Guyana
+United States,2018,148427.09238170495,Guyana
+Jamaica,2018,46450.27479826398,Guyana
+Ukraine,2018,36715.362130125905,Guyana
+United Kingdom,2018,35125.68553934423,Guyana
+Netherlands,2018,34060.76923689986,Guyana
+Trinidad and Tobago,2018,33911.48903620743,Guyana
+Mexico,2018,30224.162180546056,Guyana
+Panama,2018,27637.564572057647,Guyana
+Belgium,2018,24555.197192635223,Guyana
+Cuba,2018,23114.634668928476,Guyana
+Portugal,2018,21753.4334201447,Guyana
+France,2018,18497.579466927265,Guyana
+Germany,2018,14592.810959837558,Guyana
+China,2018,14519.09205153478,Guyana
+Spain,2018,12396.883158235365,Guyana
+United States,2018,1771668.31082,Honduras
+Unspecified,2018,349915.21319999994,Honduras
+El Salvador,2018,321205.26554999995,Honduras
+Germany,2018,302687.84917999984,Honduras
+Belgium,2018,261584.99353000004,Honduras
+Guatemala,2018,218513.85193999996,Honduras
+Nicaragua,2018,213588.87358,Honduras
+Netherlands,2018,157359.96602999998,Honduras
+Costa Rica,2018,86442.72180000001,Honduras
+Spain,2018,78223.75666,Honduras
+United Kingdom,2018,76418.68018,Honduras
+Mexico,2018,65994.41853000001,Honduras
+Italy,2018,61515.029669999996,Honduras
+France,2018,53723.36353,Honduras
+Dominican Republic,2018,46178.36504999999,Honduras
+China,2018,36385.974650000004,Honduras
+China,2018,538434688.8045694,"Hong Kong, China"
+United States,2018,63775159.82028744,"Hong Kong, China"
+India,2018,27714220.740353003,"Hong Kong, China"
+Japan,2018,23203321.365850147,"Hong Kong, China"
+Thailand,2018,18306227.774401873,"Hong Kong, China"
+Singapore,2018,18134426.535112157,"Hong Kong, China"
+"Other Asia, nes",2018,18106425.54408646,"Hong Kong, China"
+Netherlands,2018,15949858.692004554,"Hong Kong, China"
+Vietnam,2018,15535883.424150653,"Hong Kong, China"
+Germany,2018,14895822.026101083,"Hong Kong, China"
+"Korea, Rep.",2018,12726203.977136187,"Hong Kong, China"
+United Arab Emirates,2018,10956315.951955322,"Hong Kong, China"
+United Kingdom,2018,8876175.53145488,"Hong Kong, China"
+Mexico,2018,7705371.93716711,"Hong Kong, China"
+Malaysia,2018,7603791.46077824,"Hong Kong, China"
+Russian Federation,2018,6733384.153312879,"Hong Kong, China"
+France,2018,6733224.092623325,"Hong Kong, China"
+Philippines,2018,6427401.019127481,"Hong Kong, China"
+Australia,2018,6240990.325989011,"Hong Kong, China"
+Germany,2018,49698574.433,Hungary
+Slovak Republic,2018,8652419.18,Hungary
+Italy,2018,7773140.319,Hungary
+Romania,2018,7411846.33,Hungary
+France,2018,7355641.891999999,Hungary
+Austria,2018,7277300.722,Hungary
+Czech Republic,2018,7142056.474,Hungary
+Poland,2018,6518661.960999999,Hungary
+Netherlands,2018,6217145.049000001,Hungary
+United Kingdom,2018,6095658.759000001,Hungary
+United States,2018,5076054.586,Hungary
+Spain,2018,5070873.364,Hungary
+Belgium,2018,3374057.735,Hungary
+China,2018,3188392.037,Hungary
+Turkey,2018,3149886.815,Hungary
+Sweden,2018,2973878.7369999997,Hungary
+Ukraine,2018,2777814.1050000004,Hungary
+Russian Federation,2018,2328367.042,Hungary
+"Serbia, FR(Serbia/Montenegro)",2018,2219212.0949999997,Hungary
+Croatia,2018,2097674.664,Hungary
+Slovenia,2018,1611147.545,Hungary
+Bulgaria,2018,1557106.084,Hungary
+Mexico,2018,1443294.588,Hungary
+Switzerland,2018,1428319.0550000002,Hungary
+Netherlands,2018,1697030.3197656411,Iceland
+United Kingdom,2018,550596.6989053544,Iceland
+Spain,2018,462142.5589767326,Iceland
+France,2018,358678.8916904763,Iceland
+Norway,2018,356308.67696650216,Iceland
+United States,2018,341133.1874400466,Iceland
+Germany,2018,336164.6073876221,Iceland
+China,2018,146086.2219616832,Iceland
+Denmark,2018,130362.27876888846,Iceland
+Canada,2018,116638.9155319238,Iceland
+Japan,2018,114868.11589603107,Iceland
+Russian Federation,2018,97475.36836397409,Iceland
+Portugal,2018,90128.60765796262,Iceland
+Belgium,2018,85482.29634229591,Iceland
+Faeroe Islands,2018,74588.07675792718,Iceland
+Poland,2018,67790.08447932554,Iceland
+Nigeria,2018,63605.31183721414,Iceland
+Italy,2018,51113.134832642936,Iceland
+United States,2018,57640491.08785814,India
+United Arab Emirates,2018,31703012.484268263,India
+China,2018,17759273.572875366,India
+"Hong Kong, China",2018,13452365.626832923,India
+Singapore,2018,11990082.760358501,India
+Germany,2018,11119916.776788969,India
+United Kingdom,2018,11047538.512153689,India
+Bangladesh,2018,10599621.671213953,India
+Netherlands,2018,9054608.653865043,India
+Nepal,2018,8603421.07131844,India
+Belgium,2018,7618047.8702170765,India
+Vietnam,2018,7264140.327271764,India
+Malaysia,2018,7031382.958586843,India
+Turkey,2018,6278748.929636305,India
+Italy,2018,6250222.756509458,India
+Saudi Arabia,2018,6148975.588774297,India
+Sri Lanka,2018,6069469.427079469,India
+Indonesia,2018,5972761.477752494,India
+France,2018,5918300.60444751,India
+Japan,2018,5413208.272523399,India
+Thailand,2018,5356956.904072753,India
+"Korea, Rep.",2018,5150746.927169852,India
+South Africa,2018,4808842.887287698,India
+Mexico,2018,4518360.544800164,India
+Spain,2018,4476321.254108537,India
+Australia,2018,4354530.685930459,India
+Brazil,2018,4155572.478157905,India
+Israel,2018,3999772.4686388485,India
+Nigeria,2018,3563159.692609198,India
+"Egypt, Arab Rep.",2018,3206093.326861648,India
+"Iran, Islamic Rep.",2018,3123733.626608787,India
+"Other Asia, nes",2018,3075844.84528451,India
+Canada,2018,3072399.605968649,India
+Russian Federation,2018,2878957.906697374,India
+Oman,2018,2820205.533121166,India
+Kenya,2018,2529454.298873279,India
+Pakistan,2018,2440158.893929636,India
+Unspecified,2018,2396187.0129423034,India
+Philippines,2018,2114293.9710808485,India
+Tanzania,2018,2069838.1020265757,India
+Iraq,2018,1904348.678550576,India
+Qatar,2018,1892576.714215075,India
+Poland,2018,1742136.8396331817,India
+Kuwait,2018,1590504.7992378809,India
+Colombia,2018,1410651.7734506926,India
+Myanmar,2018,1387371.30768379,India
+Switzerland,2018,1278913.4041164855,India
+China,2018,27493549.05115,Indonesia
+Japan,2018,20754300.766459998,Indonesia
+United States,2018,18507788.84258,Indonesia
+Singapore,2018,15429917.127716001,Indonesia
+India,2018,14092776.00364,Indonesia
+Malaysia,2018,10391876.376780001,Indonesia
+"Korea, Rep.",2018,9836979.829551,Indonesia
+Thailand,2018,8361875.58829,Indonesia
+Philippines,2018,7871984.60926,Indonesia
+Vietnam,2018,5236205.4266,Indonesia
+"Other Asia, nes",2018,4872280.102169999,Indonesia
+Netherlands,2018,3975904.2977300007,Indonesia
+Germany,2018,3170081.1939899996,Indonesia
+"Hong Kong, China",2018,2934602.36522,Indonesia
+Australia,2018,2894069.1126800003,Indonesia
+Pakistan,2018,2557474.8688700004,Indonesia
+Spain,2018,2257917.9786199997,Indonesia
+Italy,2018,1952681.59582,Indonesia
+Bangladesh,2018,1894769.1767600004,Indonesia
+United Arab Emirates,2018,1531526.3875090003,Indonesia
+United Kingdom,2018,1479911.01672,Indonesia
+Brazil,2018,1404633.2829300002,Indonesia
+Saudi Arabia,2018,1250734.23087,Indonesia
+Belgium,2018,1244674.59324,Indonesia
+France,2018,1213779.66817,Indonesia
+Turkey,2018,1209677.28519,Indonesia
+"Other Asia, nes",2018,41581680.3045,"Iran, Islamic Rep."
+Unspecified,2018,12512296.47366,"Iran, Islamic Rep."
+Iraq,2018,9286124.004,"Iran, Islamic Rep."
+China,2018,9219856.085999997,"Iran, Islamic Rep."
+United Arab Emirates,2018,5996382.761,"Iran, Islamic Rep."
+Afghanistan,2018,3028255.635,"Iran, Islamic Rep."
+"Korea, Rep.",2018,2567944.5439999998,"Iran, Islamic Rep."
+Turkey,2018,2382780.5179999997,"Iran, Islamic Rep."
+India,2018,2044246.8889999997,"Iran, Islamic Rep."
+United States,2018,47785805.77204341,Ireland
+Belgium,2018,22001319.141511507,Ireland
+United Kingdom,2018,20573224.333871055,Ireland
+Germany,2018,14149601.42984722,Ireland
+Netherlands,2018,8083351.137005037,Ireland
+China,2018,7946751.408708356,Ireland
+Switzerland,2018,7828821.589911949,Ireland
+France,2018,7316865.88564151,Ireland
+Unspecified,2018,5608952.640412112,Ireland
+Japan,2018,5053668.829327667,Ireland
+Italy,2018,4602821.235963274,Ireland
+Spain,2018,3354041.9091335856,Ireland
+Poland,2018,1855680.0068045098,Ireland
+Canada,2018,1685463.3166410357,Ireland
+Mexico,2018,1473709.42464992,Ireland
+Sweden,2018,1445135.9827097026,Ireland
+Australia,2018,1212738.4436004574,Ireland
+"Hong Kong, China",2018,1098355.2512564177,Ireland
+Singapore,2018,1086369.3994566202,Ireland
+United States,2018,19921642.0,Israel
+China,2018,7783134.0,Israel
+United Kingdom,2018,4638408.0,Israel
+"Hong Kong, China",2018,4525429.0,Israel
+Bunkers,2018,2946106.0,Israel
+Netherlands,2018,2898142.0,Israel
+India,2018,2585962.0,Israel
+Germany,2018,2379979.0,Israel
+Belgium,2018,2342345.0,Israel
+Turkey,2018,2117577.0,Israel
+France,2018,1818709.0,Israel
+Switzerland,2018,1388374.0,Israel
+Japan,2018,1335920.0,Israel
+Brazil,2018,1251236.0,Israel
+"Korea, Rep.",2018,1229845.0,Israel
+Spain,2018,1150579.0,Israel
+Italy,2018,1073448.0,Israel
+Canada,2018,935412.0,Israel
+Cyprus,2018,822172.0,Israel
+Singapore,2018,788656.0,Israel
+Russian Federation,2018,749753.0,Israel
+"Other Asia, nes",2018,724403.0,Israel
+Australia,2018,706670.0,Israel
+Greece,2018,660594.0,Israel
+Germany,2018,85615245.48580086,Italy
+France,2018,68917981.14801653,Italy
+United States,2018,62168021.69825506,Italy
+Spain,2018,36461015.890566625,Italy
+United Kingdom,2018,34119340.38777728,Italy
+Switzerland,2018,29836249.508990433,Italy
+Poland,2018,21952792.08145996,Italy
+China,2018,20180379.35773832,Italy
+Belgium,2018,18279238.190800212,Italy
+Netherlands,2018,16508756.618971381,Italy
+Austria,2018,14972073.578851458,Italy
+Turkey,2018,14220484.726210875,Italy
+Russian Federation,2018,11534307.285751484,Italy
+Romania,2018,11450145.104012026,Italy
+Czech Republic,2018,10248952.10633229,Italy
+Japan,2018,8793716.925149096,Italy
+Hungary,2018,7750406.781893369,Italy
+Sweden,2018,7658062.645447104,Italy
+Mexico,2018,7552673.816870968,Italy
+"Hong Kong, China",2018,6976799.157030916,Italy
+India,2018,6755458.173560761,Italy
+Slovenia,2018,6596576.502197484,Italy
+"Korea, Rep.",2018,6577594.126711162,Italy
+United Arab Emirates,2018,6538802.913243849,Italy
+Brazil,2018,6534560.953652253,Italy
+Greece,2018,6350588.499881396,Italy
+Australia,2018,6273002.421194291,Italy
+Portugal,2018,6213865.325771632,Italy
+Canada,2018,6016984.7069600485,Italy
+Algeria,2018,5395597.033948854,Italy
+Slovak Republic,2018,5043968.565402031,Italy
+Saudi Arabia,2018,4993506.802446116,Italy
+Tunisia,2018,4869736.666206125,Italy
+"Egypt, Arab Rep.",2018,4638299.3741977755,Italy
+Denmark,2018,4435417.02100031,Italy
+Croatia,2018,4294478.969357157,Italy
+Bulgaria,2018,3536875.6425599046,Italy
+Israel,2018,3529825.2784945713,Italy
+Singapore,2018,3413043.4265277116,Italy
+"Iran, Islamic Rep.",2018,3339028.2760502575,Italy
+South Africa,2018,3032823.420101176,Italy
+Morocco,2018,3030033.390205954,Italy
+"Serbia, FR(Serbia/Montenegro)",2018,2768894.7773749977,Italy
+Finland,2018,2757221.8607471655,Italy
+Norway,2018,2749689.532716522,Italy
+United States,2018,587786.83572,Jamaica
+Norway,2018,272439.68022000004,Jamaica
+Canada,2018,208013.01683000007,Jamaica
+Netherlands,2018,199446.48127,Jamaica
+Iceland,2018,107095.88202,Jamaica
+Russian Federation,2018,67760.68495000001,Jamaica
+United Kingdom,2018,54467.39178,Jamaica
+"Hong Kong, China",2018,49447.31979000001,Jamaica
+France,2018,43783.47424000001,Jamaica
+Ghana,2018,36026.14304,Jamaica
+China,2018,35138.20514000001,Jamaica
+Trinidad and Tobago,2018,19640.29342,Jamaica
+Venezuela,2018,16178.67297,Jamaica
+Cayman Islands,2018,14393.142470000003,Jamaica
+China,2018,199578387.33141774,Japan
+United States,2018,183953918.99270472,Japan
+"Korea, Rep.",2018,63286963.29816282,Japan
+"Other Asia, nes",2018,54530430.81540044,Japan
+Thailand,2018,45313524.42275965,Japan
+"Hong Kong, China",2018,41699618.23242785,Japan
+Singapore,2018,26306243.089143082,Japan
+Germany,2018,25930049.062729493,Japan
+Indonesia,2018,23603363.878667638,Japan
+Vietnam,2018,22338358.44975843,Japan
+Australia,2018,19899469.03648,Japan
+Netherlands,2018,19365653.9032567,Japan
+Malaysia,2018,18944932.62938396,Japan
+United Kingdom,2018,17734658.84076756,Japan
+Mexico,2018,17670445.72724834,Japan
+Philippines,2018,16050544.769261222,Japan
+India,2018,15330882.023634959,Japan
+Canada,2018,12076191.71251845,Japan
+Panama,2018,11663111.05694751,Japan
+France,2018,10128341.94102486,Japan
+Russian Federation,2018,9789890.53646181,Japan
+United Arab Emirates,2018,9719776.6928868,Japan
+Belgium,2018,9601521.14876628,Japan
+Italy,2018,6331783.08818922,Japan
+Brazil,2018,6010822.52775084,Japan
+United States,2018,1800943.892282648,Jordan
+Free Zones,2018,1140020.136587277,Jordan
+Saudi Arabia,2018,813606.242688261,Jordan
+Iraq,2018,730969.7394191062,Jordan
+India,2018,687675.926102055,Jordan
+United Arab Emirates,2018,342840.688897938,Jordan
+Kuwait,2018,255333.064887538,Jordan
+Occ.Pal.Terr,2018,241865.787411523,Jordan
+Qatar,2018,171552.164194961,Jordan
+"Egypt, Arab Rep.",2018,150300.365365887,Jordan
+Lebanon,2018,146259.54620745598,Jordan
+Indonesia,2018,133085.19555351898,Jordan
+China,2018,112583.86307922598,Jordan
+Israel,2018,110219.40483621102,Jordan
+Turkey,2018,95651.83839674103,Jordan
+Algeria,2018,94028.87890098999,Jordan
+Malaysia,2018,92716.439188758,Jordan
+Sudan,2018,92553.63774611901,Jordan
+Syrian Arab Republic,2018,79980.41538743301,Jordan
+Oman,2018,76400.33012857298,Jordan
+Canada,2018,75659.62856457499,Jordan
+Italy,2018,11739915.369140001,Kazakhstan
+China,2018,6312320.47856,Kazakhstan
+Netherlands,2018,6199471.24768,Kazakhstan
+Russian Federation,2018,5567779.38232,Kazakhstan
+France,2018,3841294.2818400003,Kazakhstan
+"Korea, Rep.",2018,2976860.9697099994,Kazakhstan
+Switzerland,2018,2900649.09419,Kazakhstan
+Spain,2018,1862249.1357900004,Kazakhstan
+Uzbekistan,2018,1676204.3917699999,Kazakhstan
+Japan,2018,1503013.87378,Kazakhstan
+Romania,2018,1498423.4133099997,Kazakhstan
+Turkey,2018,1242472.48108,Kazakhstan
+Greece,2018,1214690.3635200001,Kazakhstan
+Ukraine,2018,1072844.92073,Kazakhstan
+United States,2018,968008.63042,Kazakhstan
+India,2018,953638.4090400002,Kazakhstan
+Poland,2018,893397.1195,Kazakhstan
+United Kingdom,2018,796935.72165,Kazakhstan
+Kyrgyz Republic,2018,693484.1046600001,Kazakhstan
+Lithuania,2018,676332.64952,Kazakhstan
+Tajikistan,2018,529426.6039300001,Kazakhstan
+Afghanistan,2018,517993.9533399999,Kazakhstan
+Uganda,2018,659933.9783159596,Kenya
+Pakistan,2018,587088.3492970339,Kenya
+United States,2018,466413.1050127046,Kenya
+Netherlands,2018,458994.86445796036,Kenya
+United Kingdom,2018,389431.8166618265,Kenya
+Tanzania,2018,353120.1078395935,Kenya
+United Arab Emirates,2018,347332.81417453807,Kenya
+"Egypt, Arab Rep.",2018,203459.87008170085,Kenya
+Rwanda,2018,188520.18378193525,Kenya
+Somalia,2018,154669.30129596952,Kenya
+"Congo, Dem. Rep.",2018,153401.14300402006,Kenya
+South Sudan,2018,130588.5346391491,Kenya
+China,2018,112868.19154900314,Kenya
+Germany,2018,109264.91776047864,Kenya
+Saudi Arabia,2018,101013.53673656634,Kenya
+India,2018,91526.54583767717,Kenya
+Russian Federation,2018,84937.85197230846,Kenya
+France,2018,80224.75339383152,Kenya
+Thailand,2018,71666.50192366044,Kenya
+"Hong Kong, China",2018,69872.94585679418,Kenya
+Burundi,2018,66431.84415243161,Kenya
+South Africa,2018,62904.876395327665,Kenya
+Belgium,2018,62446.15326158431,Kenya
+Ethiopia(excludes Eritrea),2018,61485.26585932657,Kenya
+Sudan,2018,61437.144745757934,Kenya
+Qatar,2018,58264.98240263975,Kenya
+Zambia,2018,56055.74211494952,Kenya
+"Other Asia, nes",2018,51371.189792878584,Kenya
+Japan,2018,50083.89648821849,Kenya
+Yemen,2018,48274.18907272223,Kenya
+Spain,2018,43884.13455885429,Kenya
+Italy,2018,39753.25926195619,Kenya
+Afghanistan,2018,38328.13830276591,Kenya
+Switzerland,2018,34872.32560761554,Kenya
+Malawi,2018,33474.16556765373,Kenya
+Norway,2018,30657.901048268563,Kenya
+Canada,2018,30568.30294248499,Kenya
+China,2018,247534179.421,"Korea, Rep."
+United States,2018,106106464.23700002,"Korea, Rep."
+"Hong Kong, China",2018,83790637.90900001,"Korea, Rep."
+Vietnam,2018,75836697.598,"Korea, Rep."
+Japan,2018,37914538.69000001,"Korea, Rep."
+"Other Asia, nes",2018,28894621.110999987,"Korea, Rep."
+India,2018,21057917.585,"Korea, Rep."
+Philippines,2018,18781961.367,"Korea, Rep."
+Singapore,2018,17505099.155,"Korea, Rep."
+Mexico,2018,16389022.99899999,"Korea, Rep."
+Germany,2018,14066990.66300001,"Korea, Rep."
+Malaysia,2018,12130335.756000001,"Korea, Rep."
+Indonesia,2018,11111072.209,"Korea, Rep."
+Thailand,2018,10968729.155,"Korea, Rep."
+Australia,2018,10648374.351999998,"Korea, Rep."
+Russian Federation,2018,9740422.56,"Korea, Rep."
+United Kingdom,2018,9002594.45,"Korea, Rep."
+Brazil,2018,7844034.807,"Korea, Rep."
+Canada,2018,7315316.348,"Korea, Rep."
+Turkey,2018,7314886.244999999,"Korea, Rep."
+Poland,2018,6664892.051,"Korea, Rep."
+Netherlands,2018,6620327.431,"Korea, Rep."
+United Arab Emirates,2018,5638740.872,"Korea, Rep."
+Norway,2018,5411516.7129999995,"Korea, Rep."
+Italy,2018,5302397.737000001,"Korea, Rep."
+Saudi Arabia,2018,5038691.629,"Korea, Rep."
+France,2018,4894661.149999999,"Korea, Rep."
+Slovak Republic,2018,4527261.403000001,"Korea, Rep."
+Belgium,2018,4443201.868000001,"Korea, Rep."
+Marshall Islands,2018,4076080.618,"Korea, Rep."
+Unspecified,2018,65374702.372,Kuwait
+United Arab Emirates,2018,1162363.753,Kuwait
+United Kingdom,2018,670371.4869999997,Kyrgyz Republic
+Russian Federation,2018,375533.182,Kyrgyz Republic
+Kazakhstan,2018,285556.634,Kyrgyz Republic
+Uzbekistan,2018,176652.38299999997,Kyrgyz Republic
+Turkey,2018,127001.05600000003,Kyrgyz Republic
+China,2018,66433.36200000001,Kyrgyz Republic
+Tajikistan,2018,48241.878000000004,Kyrgyz Republic
+Lithuania,2018,46343.564999999995,Kyrgyz Republic
+Thailand,2018,3075497.7313099997,Lao PDR
+China,2018,1528588.51072,Lao PDR
+Vietnam,2018,880695.6709299999,Lao PDR
+Lithuania,2018,2891362.9147279556,Latvia
+Estonia,2018,1822643.8765505806,Latvia
+Russian Federation,2018,1673926.8313486238,Latvia
+Germany,2018,1210183.318326504,Latvia
+Sweden,2018,1171019.9582493869,Latvia
+United States,2018,1060776.0230502835,Latvia
+United Kingdom,2018,903759.90397649,Latvia
+Poland,2018,673053.2516279825,Latvia
+Denmark,2018,672949.6417601241,Latvia
+Norway,2018,377770.3176295279,Latvia
+Netherlands,2018,376163.15283536597,Latvia
+Finland,2018,374769.0411319546,Latvia
+France,2018,320840.4628621845,Latvia
+Italy,2018,295812.1712079163,Latvia
+Czech Republic,2018,234659.91917833692,Latvia
+Spain,2018,227285.51699689223,Latvia
+Belarus,2018,224348.33074313897,Latvia
+Belgium,2018,217033.81421378336,Latvia
+China,2018,203167.37851290358,Latvia
+Ukraine,2018,182476.2830383079,Latvia
+Turkey,2018,170288.46188519863,Latvia
+Saudi Arabia,2018,141222.60399057777,Latvia
+Austria,2018,132701.04765607262,Latvia
+Uzbekistan,2018,109644.3899035789,Latvia
+Hungary,2018,103659.96913655772,Latvia
+Switzerland,2018,98247.52616797772,Latvia
+United Arab Emirates,2018,472818.0647163282,Lebanon
+Syrian Arab Republic,2018,228622.94952104648,Lebanon
+Saudi Arabia,2018,224862.56126804958,Lebanon
+Iraq,2018,178373.28676009233,Lebanon
+South Africa,2018,174156.207954954,Lebanon
+Qatar,2018,140724.01864529768,Lebanon
+Switzerland,2018,130244.99261455152,Lebanon
+Turkey,2018,129870.7423184667,Lebanon
+Jordan,2018,87922.50492928157,Lebanon
+"Egypt, Arab Rep.",2018,85883.43147425023,Lebanon
+Kuwait,2018,78028.97831102595,Lebanon
+United States,2018,64477.46436723128,Lebanon
+"Korea, Rep.",2018,56837.503839416706,Lebanon
+Spain,2018,56664.8553790905,Lebanon
+France,2018,52035.81928935558,Lebanon
+Cote d'Ivoire,2018,50466.62585428909,Lebanon
+Germany,2018,49858.45512833528,Lebanon
+Greece,2018,42427.18917203258,Lebanon
+"Congo, Rep.",2018,42308.264678006824,Lebanon
+Italy,2018,40394.09041706458,Lebanon
+United Kingdom,2018,37226.701317834915,Lebanon
+Algeria,2018,36670.03178411577,Lebanon
+Nigeria,2018,35978.2303993379,Lebanon
+Netherlands,2018,28273.68112901346,Lebanon
+Unspecified,2018,27652.0992091984,Lebanon
+Ghana,2018,27590.844924963683,Lebanon
+"Hong Kong, China",2018,27064.8419364213,Lebanon
+Brazil,2018,26029.67520543006,Lebanon
+Belgium,2018,25306.000447746723,Lebanon
+China,2018,24430.035907791498,Lebanon
+Canada,2018,24190.65542887168,Lebanon
+Oman,2018,23801.07785214852,Lebanon
+Liberia,2018,21975.88366126601,Lebanon
+Guinea,2018,21584.5261356974,Lebanon
+Angola,2018,19243.15769291276,Lebanon
+Australia,2018,18211.605578529015,Lebanon
+Morocco,2018,18172.76045313634,Lebanon
+Bangladesh,2018,18008.190077016,Lebanon
+Free Zones,2018,17640.2765989636,Lebanon
+Bulgaria,2018,16741.369083271344,Lebanon
+Italy,2018,10096326.382729998,Libya
+China,2018,4981255.38294,Libya
+Spain,2018,3046536.56173,Libya
+France,2018,2873807.473,Libya
+United Arab Emirates,2018,1031553.2146,Libya
+United States,2018,952591.6369,Libya
+Greece,2018,914904.3397,Libya
+United Kingdom,2018,823234.5272100001,Libya
+Netherlands,2018,808001.5177,Libya
+Malaysia,2018,740602.0356000001,Libya
+Singapore,2018,605883.0240000001,Libya
+Denmark,2018,394197.9202,Libya
+Russian Federation,2018,6182513.74593,Lithuania
+Latvia,2018,3669389.9989300002,Lithuania
+Poland,2018,2914335.751,Lithuania
+Germany,2018,2466722.342,Lithuania
+Estonia,2018,1768096.3410000005,Lithuania
+Belarus,2018,1617546.1600000001,Lithuania
+United States,2018,1591160.2419999999,Lithuania
+Sweden,2018,1332900.5790000004,Lithuania
+United Kingdom,2018,1125498.00298,Lithuania
+Netherlands,2018,1113061.1479999998,Lithuania
+Ukraine,2018,1096424.2069899999,Lithuania
+Norway,2018,850085.1510000001,Lithuania
+France,2018,781280.79,Lithuania
+Denmark,2018,737663.5070000001,Lithuania
+Italy,2018,718310.6380000002,Lithuania
+Kazakhstan,2018,634781.20398,Lithuania
+Finland,2018,620824.789,Lithuania
+Belgium,2018,506041.52600000007,Lithuania
+Singapore,2018,447157.9100000001,Lithuania
+Czech Republic,2018,385895.33800000016,Lithuania
+Japan,2018,359663.58800000005,Lithuania
+Spain,2018,355511.677,Lithuania
+Uzbekistan,2018,344055.71900000004,Lithuania
+Hungary,2018,323574.84799999994,Lithuania
+Turkey,2018,269143.70900000003,Lithuania
+Germany,2018,4646919.054902863,Luxembourg
+France,2018,2683938.874986567,Luxembourg
+Belgium,2018,2052295.2084494368,Luxembourg
+Netherlands,2018,1110122.697024023,Luxembourg
+Italy,2018,836931.975562833,Luxembourg
+United Kingdom,2018,643751.2595979015,Luxembourg
+United States,2018,564696.2170943881,Luxembourg
+Poland,2018,503586.34156855196,Luxembourg
+Spain,2018,489503.53013211704,Luxembourg
+Austria,2018,356937.65168243734,Luxembourg
+China,2018,316853.6037061247,Luxembourg
+Sweden,2018,280730.68892608234,Luxembourg
+Czech Republic,2018,277676.74089813634,Luxembourg
+Turkey,2018,257683.95697350858,Luxembourg
+Switzerland,2018,240715.30777424187,Luxembourg
+Russian Federation,2018,178548.3365980784,Luxembourg
+Ireland,2018,152285.34142240073,Luxembourg
+Denmark,2018,150581.69356920954,Luxembourg
+Canada,2018,114610.72680351355,Luxembourg
+Hungary,2018,108545.54387108363,Luxembourg
+Japan,2018,101710.1369065005,Luxembourg
+Portugal,2018,101616.10683905846,Luxembourg
+Mexico,2018,98170.95199862636,Luxembourg
+Romania,2018,94020.08997194548,Luxembourg
+Special Categories,2018,88871.12721460979,Luxembourg
+"Hong Kong, China",2018,757912.9786195826,Macao
+China,2018,161897.3396204244,Macao
+United States,2018,646615.9186640591,Madagascar
+France,2018,620971.2154319758,Madagascar
+Germany,2018,211480.22487582307,Madagascar
+Japan,2018,204686.38998982403,Madagascar
+Netherlands,2018,150791.65873516904,Madagascar
+China,2018,142372.00140531422,Madagascar
+United Arab Emirates,2018,121985.91656426145,Madagascar
+South Africa,2018,109663.4063750371,Madagascar
+"Korea, Rep.",2018,85998.43768055149,Madagascar
+Unspecified,2018,84485.04515395849,Madagascar
+Mauritius,2018,83326.25823232801,Madagascar
+India,2018,77251.41000612565,Madagascar
+Canada,2018,72131.94155020229,Madagascar
+Singapore,2018,50349.137063289214,Madagascar
+"Other Asia, nes",2018,42150.77884594462,Madagascar
+United Kingdom,2018,40337.85703475717,Madagascar
+Spain,2018,37447.97949143877,Madagascar
+Belgium,2018,35373.31023452969,Madagascar
+Sweden,2018,32764.04038132216,Madagascar
+Belgium,2018,133864.77268999995,Malawi
+South Africa,2018,87387.86020000001,Malawi
+Zambia,2018,51158.70699,Malawi
+Kenya,2018,48395.339700000004,Malawi
+United States,2018,48106.43186999999,Malawi
+"Egypt, Arab Rep.",2018,46640.29948,Malawi
+Netherlands,2018,43982.498589999996,Malawi
+Germany,2018,40493.00044999999,Malawi
+Zimbabwe,2018,37768.211800000005,Malawi
+United Kingdom,2018,33101.50031999999,Malawi
+China,2018,31397.16051,Malawi
+Italy,2018,30476.75634,Malawi
+Ukraine,2018,27394.06945,Malawi
+Russian Federation,2018,21583.99242,Malawi
+Poland,2018,19269.31584,Malawi
+Tanzania,2018,17902.04731,Malawi
+Mozambique,2018,16664.26488,Malawi
+United Arab Emirates,2018,16108.60426,Malawi
+India,2018,15692.977579999997,Malawi
+"Korea, Rep.",2018,11098.84565,Malawi
+Singapore,2018,10462.172429999999,Malawi
+Indonesia,2018,6779.5768100000005,Malawi
+Switzerland,2018,6366.19623,Malawi
+Brazil,2018,5378.520149999999,Malawi
+Singapore,2018,51491351.76462669,Malaysia
+China,2018,48152472.84948594,Malaysia
+"Hong Kong, China",2018,32976527.95307141,Malaysia
+United States,2018,32802580.611783464,Malaysia
+Japan,2018,21018851.06571489,Malaysia
+Thailand,2018,19759996.884481966,Malaysia
+"Other Asia, nes",2018,11689213.515753772,Malaysia
+Germany,2018,11328814.202570435,Malaysia
+"Korea, Rep.",2018,11080686.81761497,Malaysia
+Vietnam,2018,10346595.103495914,Malaysia
+India,2018,10234164.355779529,Malaysia
+Netherlands,2018,9435440.56391827,Malaysia
+Australia,2018,9375505.943958377,Malaysia
+Indonesia,2018,9182846.572762478,Malaysia
+Philippines,2018,5079240.477163376,Malaysia
+Mexico,2018,3580302.7533168,Malaysia
+United Arab Emirates,2018,3300575.5189307285,Malaysia
+United Kingdom,2018,2563127.2297613407,Malaysia
+France,2018,2429935.8329782286,Malaysia
+Bangladesh,2018,2274357.4343898133,Malaysia
+Thailand,2018,65889.35676455221,Maldives
+Germany,2018,23090.41471696193,Maldives
+United Kingdom,2018,16767.06447185985,Maldives
+United States,2018,15037.745997204218,Maldives
+France,2018,13442.808949719187,Maldives
+Italy,2018,7936.396563996281,Maldives
+Sri Lanka,2018,6204.960857324134,Maldives
+Switzerland,2018,5658.511203696733,Maldives
+Vietnam,2018,3751.4615471742877,Maldives
+Spain,2018,3656.6231476754033,Maldives
+Japan,2018,2931.277489788935,Maldives
+Bunkers,2018,578974.5756025198,Malta
+France,2018,483462.925306814,Malta
+Germany,2018,441107.80797678453,Malta
+Italy,2018,428011.1971644269,Malta
+Singapore,2018,340627.77437861223,Malta
+Libya,2018,296683.4163928746,Malta
+United States,2018,274019.3843366951,Malta
+"Hong Kong, China",2018,256368.1726422181,Malta
+Japan,2018,198410.14526114703,Malta
+"Egypt, Arab Rep.",2018,112620.6828941244,Malta
+Netherlands,2018,99937.02125561827,Malta
+United Kingdom,2018,83176.25264591488,Malta
+China,2018,61892.640939805366,Malta
+Tunisia,2018,61296.949951216084,Malta
+Spain,2018,59352.8371663801,Malta
+Gibraltar,2018,47037.27810065701,Malta
+Poland,2018,38758.326213625085,Malta
+Turkey,2018,38713.53744411246,Malta
+Sweden,2018,31404.161093783718,Malta
+Hungary,2018,31073.90986430482,Malta
+Venezuela,2018,30602.391487389803,Malta
+Canada,2018,27805.12398859344,Malta
+"Korea, Rep.",2018,26033.617153187563,Malta
+Mexico,2018,24310.06211931875,Malta
+Philippines,2018,23444.86309871317,Malta
+United Arab Emirates,2018,22319.14826287997,Malta
+Saudi Arabia,2018,21654.76754898471,Malta
+Malaysia,2018,21608.63921180506,Malta
+China,2018,654166.4894000001,Mauritania
+Spain,2018,310003.72149,Mauritania
+Switzerland,2018,193300.47538,Mauritania
+Japan,2018,186859.30961000003,Mauritania
+Russian Federation,2018,137032.29008,Mauritania
+Cote d'Ivoire,2018,93998.59267999999,Mauritania
+Germany,2018,69836.92715,Mauritania
+Italy,2018,66546.70974,Mauritania
+Togo,2018,44383.41276,Mauritania
+Nigeria,2018,34878.38314,Mauritania
+Turkey,2018,30178.246200000005,Mauritania
+"Korea, Rep.",2018,27393.588799999998,Mauritania
+France,2018,263551.32931535767,Mauritius
+United States,2018,233215.7293618196,Mauritius
+United Kingdom,2018,222938.43962616866,Mauritius
+South Africa,2018,219902.76102778697,Mauritius
+Madagascar,2018,129926.88501795701,Mauritius
+Spain,2018,103111.34438530201,Mauritius
+Italy,2018,91415.53409399003,Mauritius
+Netherlands,2018,85663.9872281272,Mauritius
+Vietnam,2018,76160.053076496,Mauritius
+Kenya,2018,57417.60635252985,Mauritius
+Germany,2018,43495.23140256469,Mauritius
+China,2018,34905.85432176667,Mauritius
+Seychelles,2018,31993.215694274957,Mauritius
+Belgium,2018,30408.83846336088,Mauritius
+India,2018,26808.689837450678,Mauritius
+Singapore,2018,26642.583791791323,Mauritius
+"Other Asia, nes",2018,23256.133176599298,Mauritius
+Japan,2018,22293.885075751405,Mauritius
+Thailand,2018,21661.215687641517,Mauritius
+United Arab Emirates,2018,21656.69695335232,Mauritius
+Bangladesh,2018,20148.807969202764,Mauritius
+United States,2018,505375097.111,Mexico
+Canada,2018,18747037.47299999,Mexico
+China,2018,9038670.420999998,Mexico
+Germany,2018,8363211.284000001,Mexico
+Brazil,2018,5696280.631,Mexico
+Spain,2018,4899782.003,Mexico
+Japan,2018,4769992.943,Mexico
+Romania,2018,793793.394,Moldova
+Italy,2018,310057.138,Moldova
+Russian Federation,2018,229067.48500000002,Moldova
+Germany,2018,145780.97199999998,Moldova
+Turkey,2018,107490.465,Moldova
+Ukraine,2018,88665.18900000001,Moldova
+Belarus,2018,84773.92599999999,Moldova
+United Kingdom,2018,78661.36,Moldova
+Poland,2018,74157.85,Moldova
+Switzerland,2018,62481.12600000001,Moldova
+Unspecified,2018,54377.868,Moldova
+Bulgaria,2018,49594.17,Moldova
+France,2018,49128.21499999999,Moldova
+Austria,2018,39478.471,Moldova
+Czech Republic,2018,39424.846,Moldova
+Greece,2018,37505.853,Moldova
+Netherlands,2018,33028.742,Moldova
+Spain,2018,25567.754999999994,Moldova
+Georgia,2018,21832.075,Moldova
+"Serbia, FR(Serbia/Montenegro)",2018,21169.632999999994,Moldova
+United States,2018,19787.586000000007,Moldova
+China,2018,6527347.582980999,Mongolia
+"Serbia, FR(Serbia/Montenegro)",2018,111195.88394389756,Montenegro
+Hungary,2018,54830.6520235335,Montenegro
+Unspecified,2018,40762.89309648195,Montenegro
+Bosnia and Herzegovina,2018,38772.60398459608,Montenegro
+Slovenia,2018,33518.81737203626,Montenegro
+Czech Republic,2018,21145.235774189092,Montenegro
+Poland,2018,21132.968195538087,Montenegro
+Albania,2018,17296.68535193243,Montenegro
+Germany,2018,17180.221845461427,Montenegro
+Italy,2018,17043.081745640553,Montenegro
+Turkey,2018,16952.218050582735,Montenegro
+China,2018,16575.066785802745,Montenegro
+United Kingdom,2018,13209.928406538984,Montenegro
+"Macedonia, FYR",2018,8647.54210380883,Montenegro
+Switzerland,2018,8327.445751961708,Montenegro
+Sweden,2018,8176.821003222618,Montenegro
+Spain,2018,7402577.285192332,Morocco
+France,2018,6890914.941901432,Morocco
+United States,2018,1475594.7992579998,Morocco
+Italy,2018,1359944.6930896675,Morocco
+India,2018,1102809.4747641974,Morocco
+Germany,2018,973168.4453774389,Morocco
+United Kingdom,2018,861801.7735671157,Morocco
+Brazil,2018,768040.9470067666,Morocco
+Netherlands,2018,682483.2241020012,Morocco
+Turkey,2018,606587.0111417624,Morocco
+Singapore,2018,565392.292441583,Morocco
+Portugal,2018,501985.8069905804,Morocco
+Belgium,2018,489331.0737893137,Morocco
+Unspecified,2018,456317.6863891714,Morocco
+Pakistan,2018,348570.5987106414,Morocco
+Canada,2018,320775.93171792745,Morocco
+Russian Federation,2018,300216.97051923664,Morocco
+Poland,2018,291976.24279977556,Morocco
+China,2018,277645.55569394154,Morocco
+Senegal,2018,254838.89757301586,Morocco
+Japan,2018,226134.5831125307,Morocco
+Cote d'Ivoire,2018,217262.87695462094,Morocco
+Mexico,2018,215021.21131606837,Morocco
+Austria,2018,214442.91661944328,Morocco
+Mauritania,2018,208387.4157560328,Morocco
+Bulgaria,2018,192906.19424486454,Morocco
+Algeria,2018,182270.11519325984,Morocco
+Tunisia,2018,158907.11292234279,Morocco
+Romania,2018,158023.30191190573,Morocco
+Ireland,2018,157020.63203868354,Morocco
+Switzerland,2018,148652.9408696884,Morocco
+Nigeria,2018,138062.78073789115,Morocco
+India,2018,1435924.51078,Mozambique
+Netherlands,2018,1110434.5468000001,Mozambique
+South Africa,2018,909714.0198,Mozambique
+China,2018,298854.65101000003,Mozambique
+"Hong Kong, China",2018,124153.46410000001,Mozambique
+Singapore,2018,122684.51692999998,Mozambique
+United States,2018,102933.61275999999,Mozambique
+Poland,2018,101433.27235000001,Mozambique
+United Kingdom,2018,93403.98549,Mozambique
+United Arab Emirates,2018,79735.32011000002,Mozambique
+Belgium,2018,76284.50425000001,Mozambique
+Italy,2018,70665.89663,Mozambique
+"Korea, Rep.",2018,65424.84527000002,Mozambique
+Spain,2018,51512.61326,Mozambique
+Turkey,2018,40814.38502,Mozambique
+Japan,2018,40622.760429999995,Mozambique
+China,2018,5595057.702285459,Myanmar
+Thailand,2018,3142474.0793308094,Myanmar
+Japan,2018,1416697.6532700001,Myanmar
+Singapore,2018,683958.53257,Myanmar
+India,2018,573609.39878772,Myanmar
+United States,2018,573019.8696000001,Myanmar
+"Hong Kong, China",2018,540434.1684000001,Myanmar
+Germany,2018,507159.82847999997,Myanmar
+"Korea, Rep.",2018,446810.95184000005,Myanmar
+United Kingdom,2018,425824.09102,Myanmar
+Netherlands,2018,360999.7294,Myanmar
+Spain,2018,322145.87907,Myanmar
+Malaysia,2018,264211.01861,Myanmar
+Vietnam,2018,233736.87117,Myanmar
+Belgium,2018,227452.14942,Myanmar
+Italy,2018,175798.53840000005,Myanmar
+South Africa,2018,1279298.9432779036,Namibia
+China,2018,1249478.6516084827,Namibia
+United Kingdom,2018,886360.3178122042,Namibia
+Marshall Islands,2018,713123.9177382268,Namibia
+Botswana,2018,709006.2958326857,Namibia
+Belgium,2018,707381.439937707,Namibia
+Unspecified,2018,447889.0709537788,Namibia
+Spain,2018,292962.7906092943,Namibia
+Zambia,2018,284320.28641245863,Namibia
+France,2018,273110.9559348749,Namibia
+Singapore,2018,241168.85798750859,Namibia
+Italy,2018,231014.12981126877,Namibia
+United Arab Emirates,2018,182803.1048256323,Namibia
+"Congo, Dem. Rep.",2018,155234.47103848794,Namibia
+United States,2018,113916.35110663353,Namibia
+Germany,2018,153755304.43890893,Netherlands
+Belgium,2018,66333843.53593962,Netherlands
+United Kingdom,2018,57430020.04255371,Netherlands
+France,2018,54151737.1817458,Netherlands
+United States,2018,33924505.93542708,Netherlands
+Italy,2018,28229716.538157556,Netherlands
+Poland,2018,20560088.59076776,Netherlands
+Spain,2018,20499792.272235036,Netherlands
+China,2018,15980633.651086302,Netherlands
+Sweden,2018,14045337.322650105,Netherlands
+Czech Republic,2018,13002251.553736364,Netherlands
+Denmark,2018,9086655.971887222,Netherlands
+Austria,2018,8767665.675389247,Netherlands
+"Korea, Rep.",2018,8723583.711793173,Netherlands
+Switzerland,2018,8696599.56235046,Netherlands
+Russian Federation,2018,8611983.326643528,Netherlands
+Turkey,2018,7946245.896996033,Netherlands
+Singapore,2018,7419309.677830586,Netherlands
+Finland,2018,7001114.969152018,Netherlands
+"Other Asia, nes",2018,6965467.556536235,Netherlands
+Hungary,2018,6858429.962216929,Netherlands
+Norway,2018,6333316.528633933,Netherlands
+Ireland,2018,5793830.146899029,Netherlands
+Bunkers,2018,5781473.860433778,Netherlands
+Japan,2018,5498152.388986025,Netherlands
+Canada,2018,5266307.430114077,Netherlands
+Nigeria,2018,5192426.579066093,Netherlands
+United Arab Emirates,2018,4743505.85108998,Netherlands
+Portugal,2018,4455910.311315181,Netherlands
+Australia,2018,4356717.493846839,Netherlands
+Saudi Arabia,2018,4229860.916220407,Netherlands
+Romania,2018,4008412.249807182,Netherlands
+Mexico,2018,3764578.8933542063,Netherlands
+Brazil,2018,3483025.1278828923,Netherlands
+"Hong Kong, China",2018,3251030.1320177875,Netherlands
+Israel,2018,3166426.187650403,Netherlands
+Greece,2018,3103449.863553779,Netherlands
+China,2018,9113888.511761274,New Zealand
+Australia,2018,6917038.1616375055,New Zealand
+United States,2018,4238409.793384933,New Zealand
+Japan,2018,2409134.417513677,New Zealand
+"Korea, Rep.",2018,1210057.9656675358,New Zealand
+United Kingdom,2018,1132112.2999576447,New Zealand
+Singapore,2018,902416.353724145,New Zealand
+"Other Asia, nes",2018,849750.6688434469,New Zealand
+"Hong Kong, China",2018,791736.0422516027,New Zealand
+Malaysia,2018,724618.6612126196,New Zealand
+Indonesia,2018,687876.4571456872,New Zealand
+Thailand,2018,655934.7077069238,New Zealand
+Germany,2018,634275.6575379091,New Zealand
+Netherlands,2018,623636.4244977881,New Zealand
+United Arab Emirates,2018,609039.4753530375,New Zealand
+Canada,2018,568542.2818184544,New Zealand
+Philippines,2018,537903.0843342015,New Zealand
+Vietnam,2018,490018.53214793204,New Zealand
+Unspecified,2018,425230.1217838839,New Zealand
+Saudi Arabia,2018,418613.9286834286,New Zealand
+Fiji,2018,418167.7805679249,New Zealand
+India,2018,386966.58712131996,New Zealand
+Algeria,2018,342723.3957333096,New Zealand
+Sri Lanka,2018,285267.417648362,New Zealand
+France,2018,260253.6778932217,New Zealand
+Mexico,2018,240754.46329768203,New Zealand
+"Egypt, Arab Rep.",2018,240540.04133245736,New Zealand
+Italy,2018,233117.49425117412,New Zealand
+Bangladesh,2018,224630.37188732368,New Zealand
+United States,2018,3067351.0759199993,Nicaragua
+El Salvador,2018,289243.94044999994,Nicaragua
+Mexico,2018,282944.15834,Nicaragua
+Honduras,2018,222373.73166000005,Nicaragua
+Costa Rica,2018,161750.28667000003,Nicaragua
+Guatemala,2018,133845.01723000003,Nicaragua
+"Other Asia, nes",2018,97638.96709999998,Nicaragua
+United Kingdom,2018,71459.60119000002,Nicaragua
+Germany,2018,68939.66608999998,Nicaragua
+China,2018,67921.50347999997,Nicaragua
+Belgium,2018,56530.7065,Nicaragua
+Spain,2018,53678.653170000005,Nicaragua
+Thailand,2018,218876.48017999998,Niger
+France,2018,214275.53236,Niger
+Switzerland,2018,210727.9521,Niger
+Malaysia,2018,207532.94625999997,Niger
+Nigeria,2018,179426.38060999993,Niger
+China,2018,103094.41069999998,Niger
+Brazil,2018,99055.33875999998,Niger
+Indonesia,2018,62624.31898,Niger
+Mali,2018,61370.835920000005,Niger
+Turkey,2018,61125.290010000004,Niger
+United States,2018,37492.850860000006,Niger
+India,2018,9906745.590631908,Nigeria
+Netherlands,2018,7921795.824252339,Nigeria
+Spain,2018,6318833.852655855,Nigeria
+France,2018,4946022.825840923,Nigeria
+South Africa,2018,3982538.049682031,Nigeria
+United States,2018,3793739.8521724637,Nigeria
+Indonesia,2018,2609645.9874120923,Nigeria
+Sweden,2018,2376545.5167086,Nigeria
+United Kingdom,2018,2275558.483892692,Nigeria
+Brazil,2018,2018221.0461394063,Nigeria
+Italy,2018,1888624.7976764606,Nigeria
+Canada,2018,1743461.2053638522,Nigeria
+Cote d'Ivoire,2018,1350593.272180666,Nigeria
+Germany,2018,1318067.2205126365,Nigeria
+Togo,2018,1113955.647535215,Nigeria
+China,2018,1040744.892274448,Nigeria
+Thailand,2018,926253.8375663456,Nigeria
+Senegal,2018,708007.7791863267,Nigeria
+Portugal,2018,676200.7575381562,Nigeria
+Turkey,2018,566204.4897691419,Nigeria
+Germany,2018,4079517.2325199996,North Macedonia
+"Serbia, FR(Serbia/Montenegro)",2018,555300.84032,North Macedonia
+Belgium,2018,465875.50394,North Macedonia
+Bulgaria,2018,363915.05919000006,North Macedonia
+Romania,2018,259967.26018000004,North Macedonia
+Italy,2018,243966.94773999997,North Macedonia
+Greece,2018,225254.99369000003,North Macedonia
+Austria,2018,166034.63277999999,North Macedonia
+Hungary,2018,143641.82168999998,North Macedonia
+Slovenia,2018,126313.55387,North Macedonia
+Spain,2018,118911.93432000001,North Macedonia
+Turkey,2018,103191.01513000001,North Macedonia
+Netherlands,2018,100956.48101999998,North Macedonia
+Croatia,2018,100832.33066,North Macedonia
+Bosnia and Herzegovina,2018,95581.11308000001,North Macedonia
+Albania,2018,92422.29346,North Macedonia
+United Kingdom,2018,90938.53341000002,North Macedonia
+United Kingdom,2018,26633190.544143815,Norway
+Germany,2018,19757701.329519767,Norway
+Netherlands,2018,13215054.241585406,Norway
+France,2018,8669436.248857018,Norway
+Sweden,2018,8437050.225346053,Norway
+Belgium,2018,6351124.103229267,Norway
+Denmark,2018,6083041.839201995,Norway
+United States,2018,5944603.72901056,Norway
+Poland,2018,2758131.31071746,Norway
+China,2018,2639818.3820193135,Norway
+Spain,2018,2281959.751512204,Norway
+Finland,2018,2034933.9356724808,Norway
+"Korea, Rep.",2018,1607770.9304403332,Norway
+Japan,2018,1587522.4752250374,Norway
+Italy,2018,1565543.0631873086,Norway
+Ireland,2018,1273761.5785400327,Norway
+Canada,2018,930164.8435453465,Norway
+Turkey,2018,806401.6353018405,Norway
+Lithuania,2018,791298.0649393196,Norway
+Iceland,2018,783782.4581228454,Norway
+Israel,2018,885569.7050213969,Occ.Pal.Terr
+Jordan,2018,74633.45754558865,Occ.Pal.Terr
+United Arab Emirates,2018,26513.640407800005,Occ.Pal.Terr
+Unspecified,2018,27273599.1422549,Oman
+United Arab Emirates,2018,3414197.6225011204,Oman
+Saudi Arabia,2018,2042441.6133193802,Oman
+Qatar,2018,1944059.2294559798,Oman
+India,2018,1081470.9689875,Oman
+China,2018,791107.1745740802,Oman
+United States,2018,674090.11878572,Oman
+Yemen,2018,612988.2673277998,Oman
+"Iran, Islamic Rep.",2018,438112.8370327799,Oman
+Kuwait,2018,354647.65078652,Oman
+Pakistan,2018,351014.5639873599,Oman
+China,2018,147116728.33876,"Other Asia, nes"
+"Hong Kong, China",2018,73182713.73876,"Other Asia, nes"
+United States,2018,56651749.97453,"Other Asia, nes"
+Japan,2018,33745914.87084,"Other Asia, nes"
+Singapore,2018,30550247.65788,"Other Asia, nes"
+"Korea, Rep.",2018,24673278.468659997,"Other Asia, nes"
+Malaysia,2018,17338863.42044001,"Other Asia, nes"
+Vietnam,2018,12444991.29327,"Other Asia, nes"
+Philippines,2018,12434468.63114,"Other Asia, nes"
+Germany,2018,10716286.26317,"Other Asia, nes"
+Netherlands,2018,8809737.15415,"Other Asia, nes"
+Thailand,2018,8679258.08186,"Other Asia, nes"
+United Kingdom,2018,5279168.30872,"Other Asia, nes"
+India,2018,4961660.16391,"Other Asia, nes"
+Australia,2018,4427350.461910001,"Other Asia, nes"
+Indonesia,2018,4212905.7503,"Other Asia, nes"
+United States,2018,3761706.2399332854,Pakistan
+China,2018,1865735.9749817848,Pakistan
+United Kingdom,2018,1698633.100268705,Pakistan
+Afghanistan,2018,1383717.7387189625,Pakistan
+Germany,2018,1286361.7972262416,Pakistan
+United Arab Emirates,2018,1046369.5439678823,Pakistan
+Netherlands,2018,929803.543922543,Pakistan
+Spain,2018,912564.1391875094,Pakistan
+Bangladesh,2018,788346.7351075846,Pakistan
+Italy,2018,770981.5255670734,Pakistan
+Belgium,2018,653219.4176232765,Pakistan
+France,2018,447522.3592521407,Pakistan
+India,2018,386475.9934874294,Pakistan
+Sri Lanka,2018,354826.42940649926,Pakistan
+Saudi Arabia,2018,336345.17300821457,Pakistan
+Indonesia,2018,306086.8517418836,Pakistan
+Turkey,2018,302428.2849803772,Pakistan
+"Korea, Rep.",2018,292879.23982955783,Pakistan
+Vietnam,2018,282709.8819282014,Pakistan
+Kenya,2018,279234.1595510457,Pakistan
+Canada,2018,267466.4132589503,Pakistan
+Australia,2018,236662.23822459835,Pakistan
+Poland,2018,231356.17388790147,Pakistan
+Thailand,2018,230842.77096970342,Pakistan
+Japan,2018,216632.17295235253,Pakistan
+Portugal,2018,191460.12769809228,Pakistan
+South Africa,2018,173360.72322383884,Pakistan
+Denmark,2018,162312.46086379184,Pakistan
+Russian Federation,2018,159605.39219486556,Pakistan
+Malaysia,2018,157842.0513270815,Pakistan
+Oman,2018,138054.1349414885,Pakistan
+Sweden,2018,134038.329667474,Pakistan
+Singapore,2018,117205.56378554735,Pakistan
+Tanzania,2018,116084.6699098806,Pakistan
+"Other Asia, nes",2018,115913.71332421243,Pakistan
+Philippines,2018,113754.66970795815,Pakistan
+"Hong Kong, China",2018,111354.5386172632,Pakistan
+Madagascar,2018,104551.21091004994,Pakistan
+Mexico,2018,104276.59974939743,Pakistan
+Qatar,2018,103923.85236985328,Pakistan
+Kuwait,2018,97285.17497059422,Pakistan
+Japan,2018,6659.88013999999,Palau
+Panama,2018,801.08635,Palau
+Unspecified,2018,768.7010900000001,Palau
+"Micronesia, Fed. Sts.",2018,469.06372,Palau
+Brazil,2018,2805646.18,Paraguay
+Argentina,2018,2176096.777,Paraguay
+Russian Federation,2018,783762.378,Paraguay
+Chile,2018,626596.3679999999,Paraguay
+India,2018,249792.234,Paraguay
+Netherlands,2018,157682.22699999993,Paraguay
+Poland,2018,156851.935,Paraguay
+Italy,2018,152059.489,Paraguay
+Uruguay,2018,150917.44,Paraguay
+United States,2018,127512.97200000001,Paraguay
+Peru,2018,122041.746,Paraguay
+United Kingdom,2018,104466.86299999998,Paraguay
+Israel,2018,101624.54,Paraguay
+Vietnam,2018,97258.362,Paraguay
+Indonesia,2018,85953.61700000001,Paraguay
+Bangladesh,2018,83112.308,Paraguay
+Turkey,2018,74454.615,Paraguay
+Panama,2018,63685.373999999996,Paraguay
+Bolivia,2018,55925.66700000001,Paraguay
+China,2018,13238053.474960001,Peru
+United States,2018,8214255.367850001,Peru
+India,2018,2483474.78313,Peru
+"Korea, Rep.",2018,2469677.1952000004,Peru
+Japan,2018,2181004.7291599996,Peru
+Switzerland,2018,2089270.67092,Peru
+Spain,2018,1809306.26559,Peru
+Brazil,2018,1721927.6058699999,Peru
+Netherlands,2018,1381204.5150300004,Peru
+Chile,2018,1301864.4318300001,Peru
+Germany,2018,1128222.8053000001,Peru
+Canada,2018,922821.48566,Peru
+Ecuador,2018,897061.2998699999,Peru
+Colombia,2018,771789.57527,Peru
+United Kingdom,2018,702854.29229,Peru
+Bolivia,2018,693889.20731,Peru
+Italy,2018,660162.77402,Peru
+Belgium,2018,594810.6727299999,Peru
+Mexico,2018,477596.0850399999,Peru
+"Hong Kong, China",2018,17742420.196999997,Philippines
+United States,2018,15663676.83,Philippines
+China,2018,13830710.893,Philippines
+Japan,2018,13248665.74,Philippines
+Singapore,2018,7702201.152000001,Philippines
+Germany,2018,4943824.452,Philippines
+Thailand,2018,4490183.2190000005,Philippines
+"Other Asia, nes",2018,4437808.0030000005,Philippines
+Netherlands,2018,4045295.614,Philippines
+"Korea, Rep.",2018,3856043.627,Philippines
+Malaysia,2018,3194023.802,Philippines
+France,2018,1881881.988,Philippines
+Vietnam,2018,1553021.16,Philippines
+Indonesia,2018,1268536.247,Philippines
+Germany,2018,87015837.118,Poland
+Czech Republic,2018,19773138.330000002,Poland
+United Kingdom,2018,18858295.966000002,Poland
+France,2018,17781426.9,Poland
+Italy,2018,14829281.855,Poland
+Netherlands,2018,14172223.690000001,Poland
+Russian Federation,2018,10641323.202,Poland
+United States,2018,9674964.227,Poland
+Sweden,2018,9041576.606999999,Poland
+Hungary,2018,8408601.201,Poland
+Spain,2018,8398211.56,Poland
+Slovak Republic,2018,8040740.13,Poland
+Belgium,2018,7528100.358999999,Poland
+Ukraine,2018,6214840.6450000005,Poland
+Romania,2018,6169626.595,Poland
+Austria,2018,6063772.247,Poland
+Denmark,2018,5059714.358,Poland
+Lithuania,2018,4373039.534999999,Poland
+Turkey,2018,4276377.399,Poland
+Norway,2018,4274907.56,Poland
+China,2018,3007515.206,Poland
+Finland,2018,2739265.618,Poland
+Switzerland,2018,2581501.175999999,Poland
+Belarus,2018,2227512.113,Poland
+Canada,2018,1979439.9390000012,Poland
+Latvia,2018,1853737.0439999998,Poland
+Ireland,2018,1607414.507,Poland
+Spain,2018,21110832.086354803,Portugal
+France,2018,10880274.732524833,Portugal
+Germany,2018,10562152.876808742,Portugal
+United Kingdom,2018,5635731.571925512,Portugal
+United States,2018,4002466.169466638,Portugal
+Italy,2018,3432459.65224199,Portugal
+Netherlands,2018,2988691.6338190935,Portugal
+Angola,2018,2277637.306627418,Portugal
+Belgium,2018,1930630.2436753237,Portugal
+Bunkers,2018,1457179.528961836,Portugal
+Brazil,2018,1174140.677654286,Portugal
+Poland,2018,1173496.9883213227,Portugal
+Morocco,2018,975995.0277105344,Portugal
+China,2018,917631.0941778852,Portugal
+Austria,2018,852306.7193167155,Portugal
+Sweden,2018,834530.7724568119,Portugal
+Switzerland,2018,744913.2989154304,Portugal
+Romania,2018,700118.9178647848,Portugal
+Turkey,2018,616564.6221271747,Portugal
+Czech Republic,2018,612303.9708681862,Portugal
+Denmark,2018,548905.0552594691,Portugal
+"Other Asia, nes",2018,534339.6217489942,Portugal
+Mexico,2018,525134.6395123217,Portugal
+Canada,2018,472732.051827488,Portugal
+Slovak Republic,2018,462768.37377486617,Portugal
+Algeria,2018,456620.7149665038,Portugal
+Finland,2018,442313.7115979004,Portugal
+Ireland,2018,437529.9472365014,Portugal
+Japan,2018,14650915.490645124,Qatar
+"Korea, Rep.",2018,14588505.297021924,Qatar
+India,2018,10084010.656148288,Qatar
+China,2018,9552487.536449732,Qatar
+Singapore,2018,6816078.4936794555,Qatar
+Thailand,2018,3111051.186471128,Qatar
+Pakistan,2018,2483740.1511322814,Qatar
+"Other Asia, nes",2018,2331385.0881358515,Qatar
+United Arab Emirates,2018,1748539.078539271,Qatar
+Italy,2018,1697253.4550578408,Qatar
+Oman,2018,1133879.7314389732,Qatar
+United Kingdom,2018,1095011.3983981158,Qatar
+Turkey,2018,1073276.7841988772,Qatar
+United States,2018,1035322.317737629,Qatar
+Belgium,2018,976475.9363418116,Qatar
+Netherlands,2018,931218.7970446061,Qatar
+Poland,2018,883362.0400015288,Qatar
+Kuwait,2018,848803.5859910733,Qatar
+Spain,2018,810426.9910321877,Qatar
+Germany,2018,26644358.54239001,Romania
+Italy,2018,10509910.16296,Romania
+France,2018,6914699.75447,Romania
+Hungary,2018,4803031.3848,Romania
+United Kingdom,2018,4269465.77836,Romania
+Poland,2018,3207173.7279000003,Romania
+Czech Republic,2018,3148969.51492,Romania
+Spain,2018,3106033.6322000003,Romania
+Turkey,2018,2834736.09551,Romania
+Bulgaria,2018,2793658.0867399997,Romania
+Netherlands,2018,2375728.83661,Romania
+Austria,2018,2295558.7076499998,Romania
+Russian Federation,2018,2011940.41125,Romania
+United States,2018,2006599.65365,Romania
+Slovak Republic,2018,1745678.30203,Romania
+Belgium,2018,1716515.25165,Romania
+Moldova,2018,1478327.9841900002,Romania
+China,2018,1285780.45854,Romania
+Greece,2018,1238158.0476199999,Romania
+Norway,2018,1142218.41863,Romania
+Morocco,2018,1059865.00356,Romania
+"Serbia, FR(Serbia/Montenegro)",2018,981813.4339600002,Romania
+"Egypt, Arab Rep.",2018,819264.5591500001,Romania
+Sweden,2018,792228.92719,Romania
+Ukraine,2018,686912.27017,Romania
+Slovenia,2018,614929.36232,Romania
+Switzerland,2018,606657.08043,Romania
+Algeria,2018,592507.72815,Romania
+India,2018,482783.70112,Romania
+China,2018,56665512.145089984,Russian Federation
+Netherlands,2018,42027661.10351999,Russian Federation
+Germany,2018,21862239.251479995,Russian Federation
+Belarus,2018,21050343.967,Russian Federation
+"Korea, Rep.",2018,17729405.922909997,Russian Federation
+Turkey,2018,15846827.685829997,Russian Federation
+Poland,2018,14924522.442500003,Russian Federation
+Kazakhstan,2018,14468744.191000003,Russian Federation
+Japan,2018,12678448.383,Russian Federation
+United States,2018,12370366.8722,Russian Federation
+Italy,2018,11501757.458629997,Russian Federation
+Finland,2018,10904257.520909999,Russian Federation
+Ukraine,2018,10372837.214259999,Russian Federation
+Belgium,2018,8866569.70913,Russian Federation
+India,2018,8150559.674899999,Russian Federation
+United Kingdom,2018,6560732.34104,Russian Federation
+"Egypt, Arab Rep.",2018,5315805.734490002,Russian Federation
+Switzerland,2018,4665748.955010001,Russian Federation
+Malta,2018,4664988.63526,Russian Federation
+"Other Asia, nes",2018,4522016.966340001,Russian Federation
+Latvia,2018,4491450.64627,Russian Federation
+France,2018,4245436.65006,Russian Federation
+Lithuania,2018,3982606.7017799993,Russian Federation
+Uzbekistan,2018,3878866.31571,Russian Federation
+Czech Republic,2018,3756386.519010001,Russian Federation
+Denmark,2018,3485625.239930001,Russian Federation
+Slovak Republic,2018,3294791.4436300006,Russian Federation
+Greece,2018,3248735.3823599997,Russian Federation
+Hungary,2018,3178311.08116,Russian Federation
+Romania,2018,2909693.0631000004,Russian Federation
+Sweden,2018,2895830.1545,Russian Federation
+Singapore,2018,2838880.242340001,Russian Federation
+Brazil,2018,2638412.33239,Russian Federation
+Spain,2018,2415414.9845300005,Russian Federation
+Bulgaria,2018,2410574.6928499993,Russian Federation
+Estonia,2018,2383498.65375,Russian Federation
+Algeria,2018,2073314.52789,Russian Federation
+Mexico,2018,2020250.2156299998,Russian Federation
+Vietnam,2018,1988134.6645900002,Russian Federation
+Israel,2018,1983673.3729199995,Russian Federation
+"Congo, Dem. Rep.",2018,337262.64505439793,Rwanda
+Switzerland,2018,88711.36553491416,Rwanda
+"Hong Kong, China",2018,68972.68811880825,Rwanda
+United Arab Emirates,2018,49623.296762827136,Rwanda
+United Kingdom,2018,44140.9923724578,Rwanda
+Pakistan,2018,41386.5790737616,Rwanda
+Singapore,2018,39616.225435496126,Rwanda
+Uganda,2018,34027.37312065106,Rwanda
+Thailand,2018,32632.531712243926,Rwanda
+Lithuania,2018,28358.16565465068,Rwanda
+Belgium,2018,27329.263484770934,Rwanda
+United States,2018,27156.054304178786,Rwanda
+China,2018,20150.442564156267,Rwanda
+Burundi,2018,19019.956601232603,Rwanda
+Kenya,2018,17508.917702214694,Rwanda
+Central African Republic,2018,16856.19827000438,Rwanda
+Sudan,2018,15449.387495476582,Rwanda
+Tanzania,2018,15421.24042059208,Rwanda
+American Samoa,2018,12232.65133013146,Samoa
+New Zealand,2018,8235.8430928935,Samoa
+Tokelau,2018,6200.70743062806,Samoa
+Australia,2018,5068.400369659619,Samoa
+United States,2018,4466.539386915061,Samoa
+"Other Asia, nes",2018,3371.8003913710195,Samoa
+Fiji,2018,1642.4468920935599,Samoa
+Japan,2018,1545.0174365245198,Samoa
+Netherlands,2018,4563.15081915,Sao Tome and Principe
+Portugal,2018,3291.0498239999997,Sao Tome and Principe
+Belgium,2018,2136.3970053000003,Sao Tome and Principe
+Germany,2018,1175.2977705000003,Sao Tome and Principe
+France,2018,597.47374485,Sao Tome and Principe
+Unspecified,2018,231584081.90640688,Saudi Arabia
+United Arab Emirates,2018,10754072.914658938,Saudi Arabia
+China,2018,9820485.92382726,Saudi Arabia
+Singapore,2018,4110335.7791252495,Saudi Arabia
+India,2018,3603195.2834660243,Saudi Arabia
+Bahrain,2018,2531162.650528626,Saudi Arabia
+Belgium,2018,2496152.2448189906,Saudi Arabia
+Turkey,2018,2291798.2011414072,Saudi Arabia
+Kuwait,2018,2255156.1506944844,Saudi Arabia
+United States,2018,2171856.867215408,Saudi Arabia
+Mali,2018,707398.0860066467,Senegal
+Switzerland,2018,541982.4361481369,Senegal
+India,2018,302769.5967456531,Senegal
+Bunkers,2018,165316.50539089757,Senegal
+Spain,2018,139372.2605370066,Senegal
+Cote d'Ivoire,2018,134328.48036350214,Senegal
+Guinea,2018,131647.59831504515,Senegal
+China,2018,115374.03930567032,Senegal
+United States,2018,113450.40574016364,Senegal
+Italy,2018,109487.44255899583,Senegal
+"Gambia, The",2018,99678.07253129827,Senegal
+Netherlands,2018,94454.36036514895,Senegal
+Mauritania,2018,90836.89751508004,Senegal
+France,2018,87108.12394094562,Senegal
+Burkina Faso,2018,73078.69514453334,Senegal
+United Arab Emirates,2018,71398.73815933621,Senegal
+Guinea-Bissau,2018,69557.75593637482,Senegal
+United Kingdom,2018,60992.73617306867,Senegal
+"Congo, Rep.",2018,37749.47502339287,Senegal
+Unspecified,2018,37202.88380325381,Senegal
+Belgium,2018,34474.17845296896,Senegal
+Cameroon,2018,30359.09652196239,Senegal
+Nigeria,2018,30041.449385571254,Senegal
+Niger,2018,28862.41278176918,Senegal
+"Korea, Rep.",2018,26994.562117542584,Senegal
+Germany,2018,2911165.413000001,"Serbia, FR(Serbia/Montenegro)"
+Italy,2018,2489120.704,"Serbia, FR(Serbia/Montenegro)"
+Bosnia and Herzegovina,2018,1645159.1800000002,"Serbia, FR(Serbia/Montenegro)"
+Romania,2018,1202127.31,"Serbia, FR(Serbia/Montenegro)"
+Russian Federation,2018,1118553.8360000001,"Serbia, FR(Serbia/Montenegro)"
+Montenegro,2018,975348.6620000001,"Serbia, FR(Serbia/Montenegro)"
+Hungary,2018,918561.4019999999,"Serbia, FR(Serbia/Montenegro)"
+"Macedonia, FYR",2018,801797.2210000001,"Serbia, FR(Serbia/Montenegro)"
+Slovenia,2018,783364.5559999999,"Serbia, FR(Serbia/Montenegro)"
+Bulgaria,2018,727601.5850000001,"Serbia, FR(Serbia/Montenegro)"
+Croatia,2018,708145.2640000002,"Serbia, FR(Serbia/Montenegro)"
+France,2018,613617.294,"Serbia, FR(Serbia/Montenegro)"
+Czech Republic,2018,604784.928,"Serbia, FR(Serbia/Montenegro)"
+Netherlands,2018,597549.9,"Serbia, FR(Serbia/Montenegro)"
+Austria,2018,586446.6430000002,"Serbia, FR(Serbia/Montenegro)"
+Poland,2018,472623.552,"Serbia, FR(Serbia/Montenegro)"
+Slovak Republic,2018,469141.35,"Serbia, FR(Serbia/Montenegro)"
+United Kingdom,2018,328403.635,"Serbia, FR(Serbia/Montenegro)"
+Turkey,2018,323496.33100000006,"Serbia, FR(Serbia/Montenegro)"
+United States,2018,300109.5240000001,"Serbia, FR(Serbia/Montenegro)"
+Sweden,2018,234730.271,"Serbia, FR(Serbia/Montenegro)"
+Belgium,2018,216423.062,"Serbia, FR(Serbia/Montenegro)"
+United Arab Emirates,2018,244740.28868,Seychelles
+United Kingdom,2018,161553.11135000002,Seychelles
+France,2018,131257.12503,Seychelles
+Cayman Islands,2018,84117.79543,Seychelles
+Marshall Islands,2018,52603.55752,Seychelles
+Italy,2018,44848.977289999995,Seychelles
+Australia,2018,24935.713519999994,Seychelles
+Spain,2018,21322.080690000003,Seychelles
+Thailand,2018,19545.928210000002,Seychelles
+Mauritius,2018,19497.94295,Seychelles
+Somalia,2018,38681.35486,Sierra Leone
+China,2018,37482.712889999995,Sierra Leone
+"Korea, Rep.",2018,28675.519819999998,Sierra Leone
+Netherlands,2018,27998.43004,Sierra Leone
+Ghana,2018,23163.54752,Sierra Leone
+Romania,2018,15954.91021,Sierra Leone
+Germany,2018,12197.897590000004,Sierra Leone
+Guinea,2018,9494.862130000003,Sierra Leone
+Senegal,2018,7937.556570000001,Sierra Leone
+Belgium,2018,5365.97804,Sierra Leone
+Cote d'Ivoire,2018,5075.88001,Sierra Leone
+India,2018,3294.31897,Sierra Leone
+Benin,2018,3216.18934,Sierra Leone
+"Hong Kong, China",2018,79677367.55948886,Singapore
+China,2018,69274144.53616625,Singapore
+Malaysia,2018,63702639.83227924,Singapore
+United States,2018,47192936.073212326,Singapore
+Indonesia,2018,42469632.96788271,Singapore
+"Other Asia, nes",2018,28297320.587907445,Singapore
+Japan,2018,27599399.028495073,Singapore
+"Korea, Rep.",2018,22716434.368491355,Singapore
+Thailand,2018,21944436.265826054,Singapore
+India,2018,17249225.338224918,Singapore
+Vietnam,2018,16493941.701283,Singapore
+Australia,2018,14779499.891936641,Singapore
+Netherlands,2018,12173823.696524557,Singapore
+Philippines,2018,11794353.574769706,Singapore
+Germany,2018,10037562.055324107,Singapore
+France,2018,7084451.24109899,Singapore
+United Kingdom,2018,6557561.347271507,Singapore
+Belgium,2018,5473714.088050799,Singapore
+Germany,2018,27755633.902941853,Slovak Republic
+Czech Republic,2018,13845345.93951833,Slovak Republic
+Poland,2018,9078503.845816627,Slovak Republic
+Italy,2018,7014078.749244356,Slovak Republic
+France,2018,7003380.154544649,Slovak Republic
+Hungary,2018,6782887.1251212,Slovak Republic
+Austria,2018,6411256.715992953,Slovak Republic
+United Kingdom,2018,4897610.3749268055,Slovak Republic
+United States,2018,3495883.1546547497,Slovak Republic
+Spain,2018,3453354.6164905024,Slovak Republic
+Romania,2018,3209147.1312622176,Slovak Republic
+Netherlands,2018,2579562.183941976,Slovak Republic
+Russian Federation,2018,2332312.1755041312,Slovak Republic
+Switzerland,2018,2126845.483559507,Slovak Republic
+China,2018,1912486.1434539086,Slovak Republic
+Sweden,2018,1621910.6131035662,Slovak Republic
+Belgium,2018,1574881.2738098924,Slovak Republic
+Turkey,2018,900425.4150702213,Slovak Republic
+Denmark,2018,888551.927431833,Slovak Republic
+Germany,2018,9780566.64709999,Slovenia
+Italy,2018,4908587.34111,Slovenia
+Austria,2018,3328969.33874,Slovenia
+Croatia,2018,3292483.71234,Slovenia
+France,2018,2411266.95565,Slovenia
+"Serbia, FR(Serbia/Montenegro)",2018,1464986.34322,Slovenia
+Poland,2018,1334428.24848,Slovenia
+Hungary,2018,1254073.9133699997,Slovenia
+Russian Federation,2018,1069582.8000800002,Slovenia
+Bosnia and Herzegovina,2018,1066927.8564900002,Slovenia
+Czech Republic,2018,1062726.70051,Slovenia
+Switzerland,2018,984505.99529,Slovenia
+United States,2018,826838.04434,Slovenia
+Spain,2018,820319.97758,Slovenia
+Romania,2018,815236.78457,Slovenia
+United Kingdom,2018,810976.42922,Slovenia
+Netherlands,2018,784290.73219,Slovenia
+Slovak Republic,2018,726220.16053,Slovenia
+China,2018,516303.32265999995,Slovenia
+Sweden,2018,472618.52654,Slovenia
+Denmark,2018,464862.53235,Slovenia
+Belgium,2018,458790.11676999996,Slovenia
+Turkey,2018,404400.48814999993,Slovenia
+Bulgaria,2018,325401.67939,Slovenia
+"Macedonia, FYR",2018,274386.42958,Slovenia
+China,2018,380523.6917162951,Solomon Islands
+Italy,2018,41102.16610742968,Solomon Islands
+India,2018,28936.95101512967,Solomon Islands
+Switzerland,2018,13867.6906653186,Solomon Islands
+Thailand,2018,11969.962544898184,Solomon Islands
+"Other Asia, nes",2018,11133.155568837916,Solomon Islands
+Netherlands,2018,10912.264805972076,Solomon Islands
+Philippines,2018,10703.910179475542,Solomon Islands
+Malaysia,2018,8913.15320539884,Solomon Islands
+China,2018,8602652.470495986,South Africa
+Germany,2018,8157229.366987602,South Africa
+United States,2018,6928787.288091117,South Africa
+Unspecified,2018,5922919.611511526,South Africa
+United Kingdom,2018,5603482.872623239,South Africa
+Botswana,2018,4717597.638034875,South Africa
+India,2018,4660522.169090198,South Africa
+Japan,2018,4495769.408154925,South Africa
+Namibia,2018,4329902.842317152,South Africa
+Mozambique,2018,3675554.6730470224,South Africa
+Netherlands,2018,3319797.419487185,South Africa
+Zambia,2018,3137118.4568822784,South Africa
+Zimbabwe,2018,2900961.507371989,South Africa
+Belgium,2018,2892537.185046045,South Africa
+"Korea, Rep.",2018,1951431.8806658245,South Africa
+United Arab Emirates,2018,1917884.457139999,South Africa
+Spain,2018,1801900.736982952,South Africa
+"Congo, Dem. Rep.",2018,1756050.9580023035,South Africa
+Swaziland,2018,1544400.391455895,South Africa
+Lesotho,2018,1512342.0588264554,South Africa
+"Hong Kong, China",2018,1458968.2074289417,South Africa
+France,2018,1061804.1019586117,South Africa
+Switzerland,2018,1009226.7482955081,South Africa
+Australia,2018,1003509.5021657562,South Africa
+Italy,2018,998516.3775803457,South Africa
+Pakistan,2018,979469.1980526409,South Africa
+Kenya,2018,878038.7321750374,South Africa
+Indonesia,2018,838246.5944524214,South Africa
+"Other Asia, nes",2018,793482.4817105928,South Africa
+Thailand,2018,749748.1762196558,South Africa
+Malaysia,2018,679848.9571814298,South Africa
+Angola,2018,604717.864723526,South Africa
+Malawi,2018,560920.1186819919,South Africa
+Tanzania,2018,560011.6306172893,South Africa
+Turkey,2018,558629.5671650395,South Africa
+Nigeria,2018,537204.47311864,South Africa
+Mauritius,2018,522428.8743421844,South Africa
+Ghana,2018,505006.27381555235,South Africa
+Singapore,2018,504720.13923385355,South Africa
+France,2018,58382793.99099344,Spain
+Germany,2018,44187425.90503676,Spain
+Italy,2018,29384778.10331195,Spain
+Portugal,2018,28472350.107636824,Spain
+United Kingdom,2018,26270677.019889235,Spain
+United States,2018,17943424.79011946,Spain
+Netherlands,2018,13409952.791016534,Spain
+Morocco,2018,12059136.228596924,Spain
+Belgium,2018,10247691.084990993,Spain
+China,2018,8673638.652683089,Spain
+Poland,2018,7821247.31008753,Spain
+Turkey,2018,7067040.241616387,Spain
+Mexico,2018,7022359.864864838,Spain
+Algeria,2018,5357842.635537621,Spain
+Switzerland,2018,5175436.746571112,Spain
+Czech Republic,2018,3614801.1396419955,Spain
+Saudi Arabia,2018,3468876.0429879725,Spain
+Romania,2018,3414593.41904491,Spain
+Japan,2018,3364712.874760797,Spain
+Brazil,2018,3285830.288102407,Spain
+Sweden,2018,3232792.3282023724,Spain
+Austria,2018,3158101.764629968,Spain
+Bunkers,2018,3000222.1667737975,Spain
+Greece,2018,2999971.913689091,Spain
+"Korea, Rep.",2018,2945863.5035484135,Spain
+Russian Federation,2018,2867902.5708652646,Spain
+Hungary,2018,2625295.0510516083,Spain
+Canada,2018,2617946.0035723913,Spain
+Denmark,2018,2514197.458774041,Spain
+Australia,2018,2511011.5731977215,Spain
+"Egypt, Arab Rep.",2018,2493949.0203856323,Spain
+Chile,2018,2405876.471563915,Spain
+United Arab Emirates,2018,2151553.6671462804,Spain
+Ireland,2018,2065631.5933369263,Spain
+Israel,2018,2058635.9430070664,Spain
+India,2018,1951805.8973221031,Spain
+Argentina,2018,1881620.6513667386,Spain
+Norway,2018,1854235.0666811368,Spain
+Gibraltar,2018,1838515.4432879912,Spain
+Bulgaria,2018,1833375.3182730535,Spain
+Singapore,2018,1799474.9105358473,Spain
+United States,2018,47286.088560000004,St. Lucia
+Dominica,2018,12048.880480000002,St. Lucia
+United Kingdom,2018,10756.75124,St. Lucia
+Barbados,2018,9776.852170000002,St. Lucia
+Trinidad and Tobago,2018,7749.997429999999,St. Lucia
+France,2018,5626.857540000001,St. Lucia
+Guyana,2018,5219.27722,St. Lucia
+Antigua and Barbuda,2018,4089.271669999999,St. Lucia
+St. Kitts and Nevis,2018,3730.6616600000007,St. Lucia
+St. Vincent and the Grenadines,2018,3652.79352,St. Lucia
+Grenada,2018,2583.26991,St. Lucia
+Dominica,2018,7799.0042565435,St. Vincent and the Grenadines
+Barbados,2018,6730.7160211291,St. Vincent and the Grenadines
+St. Lucia,2018,5662.1584785766,St. Vincent and the Grenadines
+Antigua and Barbuda,2018,5438.7014835152995,St. Vincent and the Grenadines
+St. Kitts and Nevis,2018,4634.0111215398,St. Vincent and the Grenadines
+Trinidad and Tobago,2018,4216.0570765313005,St. Vincent and the Grenadines
+United States,2018,3172.4704571560005,St. Vincent and the Grenadines
+Grenada,2018,2679.5430130468994,St. Vincent and the Grenadines
+British Virgin Islands,2018,1928.2311421373,St. Vincent and the Grenadines
+United Arab Emirates,2018,993933.687,Sudan
+China,2018,735699.947,Sudan
+Saudi Arabia,2018,622871.8910000002,Sudan
+"Egypt, Arab Rep.",2018,586097.846,Sudan
+India,2018,97391.773,Sudan
+Ethiopia(excludes Eritrea),2018,84995.886,Sudan
+Turkey,2018,72052.02900000001,Sudan
+Pakistan,2018,60622.825,Sudan
+France,2018,52264.944,Sudan
+Switzerland,2018,389460.3789418406,Suriname
+Unspecified,2018,380503.90063928475,Suriname
+United Arab Emirates,2018,292374.50804967794,Suriname
+"Hong Kong, China",2018,216498.68731021634,Suriname
+Belgium,2018,90699.08903107602,Suriname
+Norway,2018,20950010.21981568,Sweden
+Germany,2018,20675482.867216818,Sweden
+Denmark,2018,13732333.503908228,Sweden
+United States,2018,13694449.64596069,Sweden
+Finland,2018,13402861.84373166,Sweden
+Netherlands,2018,12140046.818801312,Sweden
+United Kingdom,2018,10414626.952318039,Sweden
+China,2018,10149830.84961585,Sweden
+Belgium,2018,9776839.35381594,Sweden
+France,2018,9549016.26839897,Sweden
+Poland,2018,6414899.0737946695,Sweden
+Italy,2018,5387945.27722713,Sweden
+Spain,2018,4045947.3155688187,Sweden
+Russian Federation,2018,3359632.73259838,Sweden
+Japan,2018,2986594.2731955103,Sweden
+Australia,2018,2734539.810361099,Sweden
+"Korea, Rep.",2018,2315040.30459265,Sweden
+Switzerland,2018,2007239.12418976,Sweden
+Turkey,2018,1982109.107438231,Sweden
+Austria,2018,1876977.5138993,Sweden
+India,2018,1854171.3897462,Sweden
+Czech Republic,2018,1712606.16971487,Sweden
+Estonia,2018,1643204.6694789,Sweden
+Canada,2018,1640168.0351414299,Sweden
+Brazil,2018,1362815.72973903,Sweden
+Lithuania,2018,1258148.7075274198,Sweden
+South Africa,2018,1220387.78371705,Sweden
+Singapore,2018,1178622.9825406,Sweden
+Saudi Arabia,2018,1117964.7699360899,Sweden
+Mexico,2018,1010331.9041120601,Sweden
+Portugal,2018,874444.1002297398,Sweden
+"Egypt, Arab Rep.",2018,829710.80798286,Sweden
+Germany,2018,54796938.368292436,Switzerland
+United States,2018,42430338.13642867,Switzerland
+China,2018,30961179.99639198,Switzerland
+France,2018,20533908.54370391,Switzerland
+India,2018,18133071.63060935,Switzerland
+Italy,2018,17165182.2993602,Switzerland
+"Hong Kong, China",2018,13237171.816895181,Switzerland
+United Kingdom,2018,10770096.927778479,Switzerland
+Austria,2018,8552293.502570448,Switzerland
+Netherlands,2018,8273244.177881883,Switzerland
+Japan,2018,7110100.327785778,Switzerland
+Spain,2018,7083218.119573392,Switzerland
+Singapore,2018,6038658.545373364,Switzerland
+Belgium,2018,4681545.902296197,Switzerland
+United Arab Emirates,2018,4170013.4489002805,Switzerland
+Canada,2018,3904988.2923075454,Switzerland
+Thailand,2018,3775103.8766986756,Switzerland
+Poland,2018,3473458.9869052265,Switzerland
+"Korea, Rep.",2018,3244801.800991629,Switzerland
+Australia,2018,3003060.6056758193,Switzerland
+Turkey,2018,2926162.8550713295,Switzerland
+Brazil,2018,2863414.749797291,Switzerland
+Russian Federation,2018,2791440.344601106,Switzerland
+Malaysia,2018,2464917.94983502,Switzerland
+Czech Republic,2018,2259135.5029342594,Switzerland
+"Other Asia, nes",2018,2045003.7189732366,Switzerland
+Sweden,2018,1887031.0545003107,Switzerland
+Saudi Arabia,2018,1768875.2928627208,Switzerland
+Rwanda,2018,605333.4300727742,Tanzania
+Kenya,2018,365799.44836264243,Tanzania
+Zambia,2018,321397.9371079352,Tanzania
+"Congo, Dem. Rep.",2018,320917.65921084164,Tanzania
+Uganda,2018,304206.5303349266,Tanzania
+Indonesia,2018,265468.0918972337,Tanzania
+United States,2018,174772.1655320573,Tanzania
+China,2018,147602.11066822388,Tanzania
+Malawi,2018,125609.30118027862,Tanzania
+South Africa,2018,80739.36670528585,Tanzania
+"Hong Kong, China",2018,70588.49051543181,Tanzania
+Vietnam,2018,67197.81453134079,Tanzania
+Ethiopia(excludes Eritrea),2018,65015.93488395544,Tanzania
+United Kingdom,2018,55778.737754133756,Tanzania
+United Arab Emirates,2018,55399.5077559033,Tanzania
+Netherlands,2018,50481.058907360304,Tanzania
+Comoros,2018,45675.57658920368,Tanzania
+India,2018,45592.54229723499,Tanzania
+Mozambique,2018,43217.34679285156,Tanzania
+Germany,2018,41854.934322788,Tanzania
+"Egypt, Arab Rep.",2018,41484.79768343433,Tanzania
+Zimbabwe,2018,38858.199311836186,Tanzania
+Norway,2018,35072.63995834237,Tanzania
+Burundi,2018,30382.376008408202,Tanzania
+United States,2018,39403319.43593,Thailand
+China,2018,37185836.039629996,Thailand
+Japan,2018,33192212.669049993,Thailand
+"Hong Kong, China",2018,19872820.53344001,Thailand
+Malaysia,2018,16675415.594399996,Thailand
+Vietnam,2018,16443398.27018,Thailand
+Australia,2018,15139800.692009998,Thailand
+Indonesia,2018,13668205.76966,Thailand
+Singapore,2018,13345790.315200001,Thailand
+Philippines,2018,10518602.72703,Thailand
+India,2018,9881979.195789998,Thailand
+Cambodia,2018,8633602.64483,Thailand
+Netherlands,2018,8154624.20981,Thailand
+Germany,2018,7516805.12013,Thailand
+"Korea, Rep.",2018,6153263.215469999,Thailand
+"Other Asia, nes",2018,5608869.20827,Thailand
+United Kingdom,2018,5443328.9604899995,Thailand
+Myanmar,2018,5391526.042270001,Thailand
+Lao PDR,2018,4888750.6178399995,Thailand
+Mexico,2018,4462449.363530001,Thailand
+South Africa,2018,4216043.98071,Thailand
+United Arab Emirates,2018,3582818.79347,Thailand
+France,2018,2527285.30681,Thailand
+Switzerland,2018,2455166.31336,Thailand
+New Zealand,2018,2425907.50556,Thailand
+Brazil,2018,2244188.0339,Thailand
+Italy,2018,2221521.0844099997,Thailand
+Pakistan,2018,2078290.5732300007,Thailand
+Argentina,2018,2064962.56883,Thailand
+Saudi Arabia,2018,1995985.41602,Thailand
+Benin,2018,200958.79208158993,Togo
+Burkina Faso,2018,161507.11932079025,Togo
+Niger,2018,92244.45587882164,Togo
+Cote d'Ivoire,2018,89371.97410182143,Togo
+Mali,2018,74162.66594543922,Togo
+Ghana,2018,73769.91274956267,Togo
+India,2018,72482.60968183809,Togo
+France,2018,59020.84096687131,Togo
+Nigeria,2018,48545.44720104193,Togo
+Malaysia,2018,45322.63063211288,Togo
+Australia,2018,14545.1056026806,Togo
+United Arab Emirates,2018,13160.613019052,Togo
+Vietnam,2018,11989.65581366103,Togo
+Bangladesh,2018,11497.7838313,Togo
+Canada,2018,10915.37713456492,Togo
+Senegal,2018,9456.98842137879,Togo
+France,2018,5605434.156118282,Tunisia
+Italy,2018,2740701.3692557444,Tunisia
+Germany,2018,2250340.8721814114,Tunisia
+Unspecified,2018,914500.7931514108,Tunisia
+Spain,2018,870815.1384717607,Tunisia
+Algeria,2018,540595.9006562115,Tunisia
+Libya,2018,531086.4992370993,Tunisia
+United States,2018,498050.5442435202,Tunisia
+Netherlands,2018,391075.77328959224,Tunisia
+United Kingdom,2018,317858.5529247941,Tunisia
+Belgium,2018,269855.413464305,Tunisia
+Morocco,2018,243036.22161513809,Tunisia
+Poland,2018,196816.99156371405,Tunisia
+Turkey,2018,176554.1169080224,Tunisia
+Switzerland,2018,167052.5830829752,Tunisia
+Czech Republic,2018,160811.3554176513,Tunisia
+China,2018,122017.95717709791,Tunisia
+Austria,2018,115381.75981050114,Tunisia
+Portugal,2018,96034.75719564679,Tunisia
+Germany,2018,20729493.099,Turkey
+United Kingdom,2018,13451468.093999999,Turkey
+Italy,2018,11527798.195999999,Turkey
+United States,2018,9680850.598,Turkey
+France,2018,9269244.965,Turkey
+Spain,2018,8583229.348,Turkey
+Iraq,2018,8480999.185999999,Turkey
+Netherlands,2018,5505055.044,Turkey
+Romania,2018,4827184.238,Turkey
+Belgium,2018,4795796.998,Turkey
+Poland,2018,4168176.5769999996,Turkey
+Israel,2018,4143273.5700000003,Turkey
+Russian Federation,2018,4061666.839000001,Turkey
+"Egypt, Arab Rep.",2018,3404737.4609999997,Turkey
+United Arab Emirates,2018,3346542.858,Turkey
+Bulgaria,2018,2953155.4050000003,Turkey
+"Iran, Islamic Rep.",2018,2871495.1729999995,Turkey
+China,2018,2863251.512,Turkey
+Saudi Arabia,2018,2759091.694,Turkey
+Algeria,2018,2747383.4430000014,Turkey
+Free Zones,2018,2570810.751,Turkey
+Morocco,2018,2445259.2629999993,Turkey
+Greece,2018,2219449.1369999996,Turkey
+Slovenia,2018,2077423.2659999998,Turkey
+Switzerland,2018,1836778.93,Turkey
+Azerbaijan,2018,1775742.943,Turkey
+Ukraine,2018,1752156.0920000002,Turkey
+Sweden,2018,1721875.9479999999,Turkey
+Georgia,2018,1481874.198,Turkey
+Libya,2018,1478078.626,Turkey
+Hungary,2018,1457281.037000001,Turkey
+Canada,2018,1401939.603,Turkey
+Austria,2018,1366387.384,Turkey
+"Serbia, FR(Serbia/Montenegro)",2018,1345779.89,Turkey
+Syrian Arab Republic,2018,1339058.5820000002,Turkey
+Uzbekistan,2018,1329810.862,Turkey
+Denmark,2018,1303344.6679999998,Turkey
+Cyprus,2018,1292225.201,Turkey
+India,2018,1271963.7650000001,Turkey
+Portugal,2018,1245677.1,Turkey
+Czech Republic,2018,1227728.557,Turkey
+Qatar,2018,1166594.787,Turkey
+Ireland,2018,1028699.3669999999,Turkey
+Tunisia,2018,1023648.683,Turkey
+"Korea, Rep.",2018,1003594.3849999999,Turkey
+Jordan,2018,975243.5130000002,Turkey
+Lebanon,2018,958126.691,Turkey
+Kazakhstan,2018,829592.7119999999,Turkey
+Australia,2018,828796.4099999999,Turkey
+"Hong Kong, China",2018,805874.6120000001,Turkey
+Mexico,2018,782052.858,Turkey
+Norway,2018,768555.196,Turkey
+Yemen,2018,742398.4439999999,Turkey
+South Africa,2018,650266.98,Turkey
+Slovak Republic,2018,629543.6699999999,Turkey
+Kuwait,2018,604502.9369999999,Turkey
+Kenya,2018,585886.97474,Uganda
+United Arab Emirates,2018,562979.3184499999,Uganda
+South Sudan,2018,364464.37170999986,Uganda
+Rwanda,2018,222275.12145,Uganda
+"Congo, Dem. Rep.",2018,208833.34463999997,Uganda
+Italy,2018,132418.34189999997,Uganda
+Netherlands,2018,114581.18681,Uganda
+Germany,2018,94703.26851,Uganda
+Belgium,2018,75366.2741,Uganda
+Tanzania,2018,69705.97573,Uganda
+"Hong Kong, China",2018,59275.67149000001,Uganda
+Sudan,2018,55589.436819999995,Uganda
+United States,2018,43894.253130000005,Uganda
+Burundi,2018,41822.84393,Uganda
+India,2018,41074.59986999999,Uganda
+Spain,2018,36897.04875,Uganda
+China,2018,32305.914150000008,Uganda
+Singapore,2018,25322.186999999998,Uganda
+Portugal,2018,21680.82201,Uganda
+Vietnam,2018,21524.96939,Uganda
+Indonesia,2018,20819.61058,Uganda
+Russian Federation,2018,4423211.143570002,Ukraine
+Poland,2018,3148174.95536,Ukraine
+Italy,2018,2640489.74894,Ukraine
+China,2018,2418760.59223,Ukraine
+Turkey,2018,2392284.6879499997,Ukraine
+Germany,2018,2341926.3322900003,Ukraine
+India,2018,2232880.20803,Ukraine
+Hungary,2018,2032025.27549,Ukraine
+Netherlands,2018,1629815.1182999997,Ukraine
+"Egypt, Arab Rep.",2018,1570185.42962,Ukraine
+Belarus,2018,1409305.8568699998,Ukraine
+Spain,2018,1370276.89434,Ukraine
+United States,2018,1159409.61608,Ukraine
+Romania,2018,954490.45988,Ukraine
+Czech Republic,2018,927482.2050300001,Ukraine
+Slovak Republic,2018,882707.93923,Ukraine
+Moldova,2018,869441.4269599998,Ukraine
+Saudi Arabia,2018,712587.0301399999,Ukraine
+Iraq,2018,648782.9843,Ukraine
+Indonesia,2018,620727.01565,Ukraine
+United Kingdom,2018,591677.6601,Ukraine
+Belgium,2018,590780.0194099998,Ukraine
+Israel,2018,589020.66836,Ukraine
+France,2018,551713.74866,Ukraine
+United Arab Emirates,2018,532994.3110000001,Ukraine
+Bulgaria,2018,524461.05394,Ukraine
+Georgia,2018,507167.9655900001,Ukraine
+Austria,2018,488712.20349,Ukraine
+Kazakhstan,2018,473182.44548,Ukraine
+"Iran, Islamic Rep.",2018,438797.68833999994,Ukraine
+Lebanon,2018,405156.48901,Ukraine
+Tunisia,2018,392422.76359000005,Ukraine
+Algeria,2018,392194.49397000007,Ukraine
+Azerbaijan,2018,370755.85501,Ukraine
+Lithuania,2018,363970.17003,Ukraine
+Morocco,2018,361032.17702,Ukraine
+"Korea, Rep.",2018,330958.3680999999,Ukraine
+Philippines,2018,329552.61589,Ukraine
+Libya,2018,325554.94164,Ukraine
+Uzbekistan,2018,318866.23787,Ukraine
+Latvia,2018,305086.00166,Ukraine
+Greece,2018,286330.37632999994,Ukraine
+"Serbia, FR(Serbia/Montenegro)",2018,269187.28689,Ukraine
+Portugal,2018,248368.30078000002,Ukraine
+Denmark,2018,239765.61571,Ukraine
+Japan,2018,232793.52075000003,Ukraine
+Unspecified,2018,117236742.67847092,United Arab Emirates
+Saudi Arabia,2018,29005692.63770439,United Arab Emirates
+Iraq,2018,16651531.961248022,United Arab Emirates
+"Iran, Islamic Rep.",2018,13778891.689624155,United Arab Emirates
+India,2018,13347308.450219028,United Arab Emirates
+Oman,2018,12788375.396549037,United Arab Emirates
+Kuwait,2018,10772547.95914752,United Arab Emirates
+Switzerland,2018,9201700.304308817,United Arab Emirates
+United States,2018,7376089.384858922,United Arab Emirates
+"Hong Kong, China",2018,7127834.345929405,United Arab Emirates
+Bahrain,2018,5469153.364754105,United Arab Emirates
+China,2018,5447699.031544955,United Arab Emirates
+"Egypt, Arab Rep.",2018,5441902.91851275,United Arab Emirates
+United Kingdom,2018,5277920.453172231,United Arab Emirates
+Turkey,2018,4683310.21522538,United Arab Emirates
+Belgium,2018,4590621.498076884,United Arab Emirates
+Germany,2018,3363429.023732555,United Arab Emirates
+Pakistan,2018,3221682.8108976157,United Arab Emirates
+Netherlands,2018,2868783.0654386687,United Arab Emirates
+Jordan,2018,2786116.7772043757,United Arab Emirates
+Afghanistan,2018,2511827.2382138376,United Arab Emirates
+Singapore,2018,2468202.2452288065,United Arab Emirates
+Lebanon,2018,2457450.1676773364,United Arab Emirates
+Libya,2018,2303793.9292092943,United Arab Emirates
+Kenya,2018,2119150.1177255427,United Arab Emirates
+Russian Federation,2018,1984878.762403984,United Arab Emirates
+Kyrgyz Republic,2018,1935564.8154316437,United Arab Emirates
+Syrian Arab Republic,2018,1867240.4478214956,United Arab Emirates
+Tanzania,2018,1406115.0986754221,United Arab Emirates
+Nigeria,2018,1352233.0726343673,United Arab Emirates
+Bangladesh,2018,1349963.483192416,United Arab Emirates
+United States,2018,79820254.08136182,United Kingdom
+Germany,2018,57053061.64995399,United Kingdom
+Netherlands,2018,38283802.24040308,United Kingdom
+France,2018,37730317.888553776,United Kingdom
+Ireland,2018,31942642.04032687,United Kingdom
+China,2018,30444119.92584097,United Kingdom
+Switzerland,2018,26313065.899276145,United Kingdom
+Belgium,2018,20312866.636052374,United Kingdom
+Italy,2018,16462287.22989758,United Kingdom
+Spain,2018,16267685.836982414,United Kingdom
+United Arab Emirates,2018,14064747.272526436,United Kingdom
+"Hong Kong, China",2018,13191413.18010318,United Kingdom
+Turkey,2018,11834044.07962841,United Kingdom
+Japan,2018,10831806.570547314,United Kingdom
+Singapore,2018,10430009.701260325,United Kingdom
+"Korea, Rep.",2018,9410503.275799723,United Kingdom
+Canada,2018,8995234.867822295,United Kingdom
+Sweden,2018,8765637.037047153,United Kingdom
+Poland,2018,8721888.004054315,United Kingdom
+India,2018,8474496.286284186,United Kingdom
+Australia,2018,7149939.021290415,United Kingdom
+Norway,2018,5841557.962350376,United Kingdom
+Saudi Arabia,2018,5755331.816405909,United Kingdom
+Qatar,2018,4420175.7236494245,United Kingdom
+Denmark,2018,4413104.026024365,United Kingdom
+Russian Federation,2018,4222615.189926754,United Kingdom
+Czech Republic,2018,3886824.446623164,United Kingdom
+Brazil,2018,3560020.8049765863,United Kingdom
+Austria,2018,3382940.950426535,United Kingdom
+South Africa,2018,3377709.708132891,United Kingdom
+Mexico,2018,2630090.4188141073,United Kingdom
+Thailand,2018,2615086.364944436,United Kingdom
+Portugal,2018,2511701.3302548956,United Kingdom
+Canada,2018,385548967.429,United States
+Mexico,2018,353959782.07,United States
+China,2018,143135843.53,United States
+Japan,2018,83109272.021,United States
+United Kingdom,2018,73772207.575,United States
+Germany,2018,66619266.956,United States
+"Korea, Rep.",2018,65040752.537,United States
+Netherlands,2018,56260271.67600001,United States
+"Hong Kong, China",2018,48498851.872,United States
+Brazil,2018,46638327.083,United States
+France,2018,41797647.082,United States
+Singapore,2018,40006638.432,United States
+"Other Asia, nes",2018,37485990.997999996,United States
+India,2018,37079641.46600001,United States
+Belgium,2018,34775100.57200001,United States
+Australia,2018,31431657.341,United States
+Italy,2018,25523140.898,United States
+United Arab Emirates,2018,23645298.851000004,United States
+Switzerland,2018,22050719.616,United States
+Malaysia,2018,18595181.1,United States
+Chile,2018,18215846.720000003,United States
+Colombia,2018,17313204.309,United States
+Thailand,2018,16033406.313,United States
+Israel,2018,15582217.901,United States
+Saudi Arabia,2018,14880675.034000002,United States
+Spain,2018,14535029.444000002,United States
+Argentina,2018,12178772.834999999,United States
+Ireland,2018,12126333.506000001,United States
+Philippines,2018,11766465.155000001,United States
+Vietnam,2018,11557788.194,United States
+Peru,2018,11376315.229999999,United States
+Turkey,2018,11234580.925,United States
+Dominican Republic,2018,10096213.549,United States
+Indonesia,2018,9069551.995000001,United States
+China,2018,1508554.6680000003,Uruguay
+Brazil,2018,1243604.789,Uruguay
+Free Zones,2018,953511.123,Uruguay
+United States,2018,420750.0289999999,Uruguay
+Argentina,2018,407308.64600000007,Uruguay
+Turkey,2018,277810.742,Uruguay
+Algeria,2018,214263.669,Uruguay
+Netherlands,2018,208619.42500000002,Uruguay
+Mexico,2018,195115.89500000002,Uruguay
+Russian Federation,2018,167521.299,Uruguay
+Germany,2018,162145.3,Uruguay
+Paraguay,2018,144307.22399999996,Uruguay
+Peru,2018,125246.66299999997,Uruguay
+Iraq,2018,114447.423,Uruguay
+Portugal,2018,111369.501,Uruguay
+Israel,2018,106884.28100000002,Uruguay
+Chile,2018,92375.31599999999,Uruguay
+Italy,2018,84299.42700000001,Uruguay
+Spain,2018,74151.61899999999,Uruguay
+Bolivia,2018,57995.093,Uruguay
+United Kingdom,2018,55505.935,Uruguay
+"Hong Kong, China",2018,54763.104999999996,Uruguay
+Cuba,2018,50337.740999999995,Uruguay
+Thailand,2018,42613.162,Uruguay
+Unspecified,2018,2998900.0,Uzbekistan
+China,2018,2124149.6068900004,Uzbekistan
+Russian Federation,2018,1665080.9734999998,Uzbekistan
+Kazakhstan,2018,1233127.3425600003,Uzbekistan
+Turkey,2018,895301.95998,Uzbekistan
+Afghanistan,2018,469778.79258999997,Uzbekistan
+Kyrgyz Republic,2018,252511.20389999996,Uzbekistan
+"Iran, Islamic Rep.",2018,164405.16159999996,Uzbekistan
+China,2018,58495161.34426,Vietnam
+United States,2018,54561833.653129995,Vietnam
+"Korea, Rep.",2018,25205074.10095999,Vietnam
+Japan,2018,20841813.12058,Vietnam
+"Hong Kong, China",2018,12114165.23764,Vietnam
+Netherlands,2018,10491784.44997,Vietnam
+India,2018,9811251.941410001,Vietnam
+United Arab Emirates,2018,9597289.53926,Vietnam
+Germany,2018,9511555.02007,Vietnam
+United Kingdom,2018,8007095.1015099995,Vietnam
+Austria,2018,7915282.90116,Vietnam
+Thailand,2018,7386651.96067,Vietnam
+Malaysia,2018,5418600.33677,Vietnam
+France,2018,5176925.830279999,Vietnam
+Australia,2018,5007892.84669,Vietnam
+Singapore,2018,4731835.6221900005,Vietnam
+Philippines,2018,4370935.21238,Vietnam
+Indonesia,2018,4269578.1410300005,Vietnam
+"Other Asia, nes",2018,4178895.09451,Vietnam
+Italy,2018,4071717.83924,Vietnam
+Cambodia,2018,3934009.4411999993,Vietnam
+Russian Federation,2018,3878383.955,Vietnam
+Spain,2018,3763078.58409,Vietnam
+Canada,2018,3492356.99023,Vietnam
+Brazil,2018,3360514.26923,Vietnam
+"Egypt, Arab Rep.",2018,11081.9487582,Yemen
+Pakistan,2018,2362.35528,Yemen
+Netherlands,2018,586.0510958664,Yemen
+Switzerland,2018,3800130.994,Zambia
+China,2018,1308909.048,Zambia
+"Congo, Dem. Rep.",2018,947571.874,Zambia
+Singapore,2018,699741.5989999999,Zambia
+South Africa,2018,468855.021,Zambia
+United Kingdom,2018,352779.9040000001,Zambia
+Unspecified,2018,325468.452,Zambia
+United Arab Emirates,2018,242093.50600000002,Zambia
+India,2018,185930.475,Zambia
+South Africa,2018,2082379.57501,Zimbabwe
+United Arab Emirates,2018,732283.0090100002,Zimbabwe
+Unspecified,2018,596719.1582999999,Zimbabwe
+Mozambique,2018,395206.52061999997,Zimbabwe
