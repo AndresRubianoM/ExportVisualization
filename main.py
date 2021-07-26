@@ -13,5 +13,6 @@ if __name__ == "__main__":
     #print(countries)   
     data = totalData(countries)
     
-    data_filtered = filterExportations(data, 2018)
+    #data_filtered = filterTop(data, 2018)
+    data_filtered = relevantPartners(data, 2018)
     saveRequestedData(data_filtered)
