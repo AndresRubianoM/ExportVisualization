@@ -71,18 +71,27 @@ def filterYears(data, year=None):
         year = str(year)
         mask_year = data['year'] == year
         reducedData= data[mask_year]
-        return reducedData.groupby(['reporter', 'partner', 'year'])['value'].sum()
+        return reducedData.groupby(['reporter', 'partner', 'partner_code','year',])['value'].sum()
 
-    return data.groupby(['reporter', 'partner', 'year'])['value'].sum()
+    return data.groupby(['reporter', 'partner', 'partner_code','year'])['value'].sum()
 
-def filterTop(data, year=None):
-    
+def filterTop(data, year=None): 
     return filterYears(data,year).groupby(level=["reporter"]).nlargest(5).reset_index(level=0, drop=True).reset_index()
+
+def totalCountriesData(data):
+    "official countrie data can be found at https://unstats.un.org/unsd/methodology/m49/overview/"
+    countriesTotalData = pd.read_csv("countriesDf.csv")
+    countriesExportData = data[["partner", "partner_code"]].groupby(["partner", "partner_code"]).size().reset_index()
+    countriesFinal = countriesTotalData.merge(countriesExportData[["partner", "partner_code"]], left_on="ISO-alpha3 Code", right_on="partner_code")
+    countriesFinal["Intermediate Region Name"] = countriesFinal["Intermediate Region Name"].fillna(countriesFinal["Sub-region Name"])
+    return countriesFinal[['Global Name', 'Region Name', 'Sub-region Name', "Intermediate Region Name", "ISO-alpha3 Code" , "partner_code", "partner"]]
 
 def relevantPartners(data, year=None, tresshold=0.9):
 
+    officialCountriesInfo = totalCountriesData(data)
     data = filterYears(data, year)
     df = []
+
     countries = data.reset_index()['reporter'].unique()
     for country in countries:
         temp = data.loc[country].sort_values(ascending=False)
@@ -101,13 +110,26 @@ def relevantPartners(data, year=None, tresshold=0.9):
         temp = temp.to_frame().reset_index()
         temp['reporter'] = country
         df.append(temp[0:count])
-        
     
-    return pd.concat(df)
+    relevantData = pd.concat(df)
+    complementData = relevantData.merge(officialCountriesInfo, on=['partner_code'])
+    complementData = complementData.merge(officialCountriesInfo, left_on=['reporter'], right_on=["partner"])
+    return complementData[["partner_x", "partner_code_x", "year", "value", "Global Name_x", "Region Name_x", "Intermediate Region Name_x", 
+                            "Region Name_y", "Intermediate Region Name_y", "ISO-alpha3 Code_y", "reporter"]]
 
-def saveRequestedData(data):
+def prepareDataHBE():
     try:
-        data.to_csv("./finalData.csv", index=False)
+        data = pd.read_csv("./finalData.csv")
+        partners = data["Global Name_x"] + '.' + data["Region Name_x"] + '.' + data["Intermediate Region Name_x"] + '.' + data["partner_x"]
+        reporters = data["Global Name_x"] + '.' + data["Region Name_y"] + '.' + data["Intermediate Region Name_y"] + '.' + data["reporter"]
+        formatData = pd.DataFrame({'partner': partners, 'reporter':reporters})
+        return formatData.groupby(['reporter'])["partner"].apply(list).reset_index()
+    except FileNotFoundError:
+        print("File Not Found!")
+
+def saveRequestedData(data, name="finalData"):
+    try:
+        data.to_csv("./{}.csv".format(name), index=False)
         return print("Final Data save succesfully.")
     except:
         return print("Error loading the data.")
