@@ -112,18 +112,20 @@ def relevantPartners(data, year=None, tresshold=0.9):
         df.append(temp[0:count])
     
     relevantData = pd.concat(df)
-    complementData = relevantData.merge(officialCountriesInfo, on=['partner_code'])
-    complementData = complementData.merge(officialCountriesInfo, left_on=['reporter'], right_on=["partner"])
+    complementData = relevantData.merge(officialCountriesInfo, on=['partner_code'], how="left")
+    complementData = complementData.merge(officialCountriesInfo, left_on=['reporter'], right_on=["partner"], how="left")
     return complementData[["partner_x", "partner_code_x", "year", "value", "Global Name_x", "Region Name_x", "Intermediate Region Name_x", 
                             "Region Name_y", "Intermediate Region Name_y", "ISO-alpha3 Code_y", "reporter"]]
 
 def prepareDataHBE():
     try:
         data = pd.read_csv("./finalData.csv")
-        partners = data["Global Name_x"] + '.' + data["Region Name_x"] + '.' + data["Intermediate Region Name_x"] + '.' + data["partner_x"]
-        reporters = data["Global Name_x"] + '.' + data["Region Name_y"] + '.' + data["Intermediate Region Name_y"] + '.' + data["reporter"]
-        formatData = pd.DataFrame({'partner': partners, 'reporter':reporters})
-        return formatData.groupby(['reporter'])["partner"].apply(list).reset_index()
+        partners = data["Global Name_x"] + '.' + data["Region Name_x"] + '.' + data["Intermediate Region Name_x"] + '.' + data["partner_x"].apply(lambda x: x.replace(",","").replace(".", ""))
+        reporters = data["Global Name_x"] + '.' + data["Region Name_y"] + '.' + data["Intermediate Region Name_y"] + '.' + data["reporter"].apply(lambda x: x.replace(",","").replace(".", ""))
+        formatData = pd.DataFrame({'imports': partners, 'name':reporters})
+        graphData = formatData.groupby(['name'])["imports"].apply(list).reset_index()
+        aviableCountries = pd.DataFrame(pd.unique(formatData[["imports", "name"]].values.ravel("K")), columns=["name"])
+        return aviableCountries.merge(graphData, on="name", how="left")
     except FileNotFoundError:
         print("File Not Found!")
 
