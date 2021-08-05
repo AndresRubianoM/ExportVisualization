@@ -77,12 +77,12 @@
 
       d3.select(this).attr("font-weight", "bold")
       d3.selectAll("path").filter(function (d){ return pathsInLines.includes(d3.select(this).attr("d"))})
-        .attr("stroke","red")
-        .attr("stroke-opacity", 0.8)
+        .attr("stroke","#D60014")
+        .attr("stroke-opacity", 1)
         .raise()
       d3.selectAll("path").filter(function (d){ return pathsOutLines.includes(d3.select(this).attr("d"))})
-        .attr("stroke","blue")
-        .attr("stroke-opacity", 0.8)
+        .attr("stroke","#062296")
+        .attr("stroke-opacity", 1)
         .raise()
      
     }
@@ -94,10 +94,10 @@
       d3.select(this).attr("font-weight", null)
 
       d3.selectAll("path").filter(function (d){ return pathsInLines.includes(d3.select(this).attr("d"))})
-        .attr("stroke","black")
+        .attr("stroke","#FFC641")
         .attr("stroke-opacity", 0.12)
       d3.selectAll("path").filter(function (d){ return pathsOutLines.includes(d3.select(this).attr("d"))})
-        .attr("stroke","black")
+        .attr("stroke","#FFC641")
         .attr("stroke-opacity", 0.12)
     }
  
@@ -139,8 +139,8 @@
           .each(function(d) { d.source = d[0], d.target = d[d.length - 1] })//, console.log(line(d)) })
           .attr("class", "link")
           .attr("d", line)
-          .attr("stroke", "black")
-          .attr("stroke-opacity", "0.12");
+          .attr("stroke", "#FFC641")
+          .attr("stroke-opacity", "0.08");
   
       node.data(finalRoot)
         .enter().append("text")
