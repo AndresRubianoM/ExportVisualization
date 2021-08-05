@@ -14,6 +14,8 @@
             node.key = name.substring(i + 1);
           }
         }
+
+
         return node;
       }
     
@@ -25,30 +27,84 @@
     }
   
     function packageImports(nodes) {
-      var map = {},
-          imports = [];
+      let map = {};
+      let imports = [];
     
       // Compute a map from name to node.
-      console.log(nodes)
       nodes.forEach(function(d) {
         map[d.data.name] = d;
       });
     
       // For each import, construct a link from the source to target node.
       nodes.forEach(function(d) {
-        if (d.data.imports) d.data.imports.forEach(function(i) {
-          imports.push(map[d.data.name].path(map[i]));
-        });
-  
+        if (d.data.imports) {
+          d.data.imports.forEach(function(i) {
+            imports.push(map[d.data.name].path(map[i]));    
+          })
+        };
       });
-    
+      
+      
       return imports;
+    }
+
+    function dataOrder(nodes, imports){
+      nodes.forEach(d=>{
+        d.out = imports.filter(i => i[0].data.name === d.data.name)
+        d.in = imports.filter(i => i[i.length - 1].data.name === d.data.name)
+      })      
+
+      return nodes
+    }
+
+    function buildLines(data){
+      var line = d3.lineRadial()
+      .curve(d3.curveBundle.beta(0.85))
+      .radius(function(d) { return d.y; })
+      .angle(function(d) { return d.x / 180 * Math.PI; });
+
+       return data.map(function(d) { 
+        d.target = d[d.length - 1] 
+        d.source = d[0] 
+        return line(d)
+      })
+    }
+
+
+    function over(event, d) {
+      const pathsInLines = buildLines(d.in) 
+      const pathsOutLines = buildLines(d.out)
+
+      d3.select(this).attr("font-weight", "bold")
+      d3.selectAll("path").filter(function (d){ return pathsInLines.includes(d3.select(this).attr("d"))})
+        .attr("stroke","red")
+        .attr("stroke-opacity", 0.8)
+        .raise()
+      d3.selectAll("path").filter(function (d){ return pathsOutLines.includes(d3.select(this).attr("d"))})
+        .attr("stroke","blue")
+        .attr("stroke-opacity", 0.8)
+        .raise()
+     
+    }
+
+    function out(event, d) {
+      const pathsInLines = buildLines(d.in) 
+      const pathsOutLines = buildLines(d.out)
+
+      d3.select(this).attr("font-weight", null)
+
+      d3.selectAll("path").filter(function (d){ return pathsInLines.includes(d3.select(this).attr("d"))})
+        .attr("stroke","black")
+        .attr("stroke-opacity", 0.12)
+      d3.selectAll("path").filter(function (d){ return pathsOutLines.includes(d3.select(this).attr("d"))})
+        .attr("stroke","black")
+        .attr("stroke-opacity", 0.12)
     }
  
     function render(data){
       const diameter = 1200
       const radius = diameter / 2
-      const innerRadius = radius - 120;
+      const innerRadius = radius - 180;
       const k = 6
   
       var cluster = d3.cluster()
@@ -69,33 +125,40 @@
       const node = svg.append("g").selectAll(".node");
   
       const root = packageHierarchy(data)
-        //.sum(function(d) { return d.size; });
+      const importsPaths = packageImports(root.leaves())
+      const finalRoot = dataOrder(root.leaves(), importsPaths)
+
+      //console.log('yolo', finalRoot)
+      //console.log(importsPaths) 
       
       cluster(root);
   
   
-      link.data(packageImports(root.leaves()))
+      link.data(importsPaths)
         .enter().append("path")
-          .each(function(d) { d.source = d[0], d.target = d[d.length - 1]; })
+          .each(function(d) { d.source = d[0], d.target = d[d.length - 1] })//, console.log(line(d)) })
           .attr("class", "link")
           .attr("d", line)
-          .attr("stroke", "black");
+          .attr("stroke", "black")
+          .attr("stroke-opacity", "0.12");
   
-      node.data(root.leaves())
+      node.data(finalRoot)
         .enter().append("text")
           .attr("class", "node")
           .attr("dy", "0.31em")
           .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
           .attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
-          .text(function(d) { return d.data.key; });
+          .text(function(d) { return d.data.key; })
+          .on(("mouseover"), over)
+          .on(("mouseout"), out)
   
     }
   
     const url = "https://raw.githubusercontent.com/AndresRubianoM/exportVisualization/master/dataGraph.csv"
+    
     d3.csv(url).then( data => {
         const correctData = []
         let imports = ""
-        console.log(data)
         for (const row of data){
           imports = row.imports.replace("[", "").replace("]", "").replaceAll("'", "").replace(/\"+/g,"")
           imports = imports.split(", ")
