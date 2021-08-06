@@ -30,12 +30,10 @@
       let map = {};
       let imports = [];
     
-      // Compute a map from name to node.
       nodes.forEach(function(d) {
         map[d.data.name] = d;
       });
     
-      // For each import, construct a link from the source to target node.
       nodes.forEach(function(d) {
         if (d.data.imports) {
           d.data.imports.forEach(function(i) {
@@ -79,10 +77,12 @@
       d3.selectAll("path").filter(function (d){ return pathsInLines.includes(d3.select(this).attr("d"))})
         .attr("stroke","#D60014")
         .attr("stroke-opacity", 1)
+        .attr("stroke-width", 2)
         .raise()
       d3.selectAll("path").filter(function (d){ return pathsOutLines.includes(d3.select(this).attr("d"))})
         .attr("stroke","#062296")
         .attr("stroke-opacity", 1)
+        .attr("stroke-width", 2)
         .raise()
      
     }
@@ -128,19 +128,17 @@
       const importsPaths = packageImports(root.leaves())
       const finalRoot = dataOrder(root.leaves(), importsPaths)
 
-      //console.log('yolo', finalRoot)
-      //console.log(importsPaths) 
-      
       cluster(root);
   
   
       link.data(importsPaths)
         .enter().append("path")
-          .each(function(d) { d.source = d[0], d.target = d[d.length - 1] })//, console.log(line(d)) })
+          .each(function(d) { d.source = d[0], d.target = d[d.length - 1] })
           .attr("class", "link")
           .attr("d", line)
           .attr("stroke", "#FFC641")
-          .attr("stroke-opacity", "0.08");
+          .attr("stroke-opacity", "0.08")
+          .attr("font-weight", 100)
   
       node.data(finalRoot)
         .enter().append("text")
